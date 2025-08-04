@@ -285,7 +285,9 @@
       "barley_fields": "2025-08-04 01:13:04 +0000",
       "magnolia_highlands": "2025-08-04 00:44:39 +0000",
       "deciduous_forest": "2025-08-04 01:45:54 +0000",
+      "towering_cliffs": "2025-08-04 04:18:03 +0000",
       "chalk_cliffs": "2025-08-04 02:32:10 +0000",
+      "temperate_grove": "2025-08-04 04:20:23 +0000",
       "prairie": "2025-08-04 01:13:38 +0000",
       "grassland": "2025-08-04 04:02:57 +0000",
       "redwoods": "2025-08-04 04:03:44 +0000"
@@ -298,7 +300,9 @@
       "barley_fields": "2025-08-04 01:13:04 +0000",
       "magnolia_highlands": "2025-08-04 00:44:39 +0000",
       "deciduous_forest": "2025-08-04 01:45:54 +0000",
+      "towering_cliffs": "2025-08-04 04:18:03 +0000",
       "chalk_cliffs": "2025-08-04 02:32:10 +0000",
+      "temperate_grove": "2025-08-04 04:20:23 +0000",
       "prairie": "2025-08-04 01:13:38 +0000",
       "grassland": "2025-08-04 04:02:57 +0000",
       "redwoods": "2025-08-04 04:03:44 +0000"
@@ -2949,6 +2953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-04 04:21:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2025-08-04 02:57:47 +0000"
@@ -3275,6 +3285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-04 04:21:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 03:20:35 +0000"
@@ -3512,6 +3528,12 @@
   "immersiveengineering:recipes/misc/smelting/ingot_silver_from_blasting3": {
     "criteria": {
       "has_raw_silver": "2025-08-04 03:16:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:17:33 +0000"
     },
     "done": true
   },
@@ -3803,6 +3825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-04 04:17:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-04 02:22:38 +0000"
@@ -3839,6 +3867,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:17:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-04 02:22:38 +0000"
@@ -3860,6 +3894,12 @@
   "spore:knight": {
     "criteria": {
       "hurt_by_infected": "2025-08-04 01:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-04 04:21:20 +0000"
     },
     "done": true
   },
@@ -3950,6 +3990,12 @@
   "spore:nuclea": {
     "criteria": {
       "hurt_infected": "2025-08-04 02:14:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:17:33 +0000"
     },
     "done": true
   },
@@ -4316,6 +4362,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 03:20:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:17:33 +0000"
     },
     "done": true
   },

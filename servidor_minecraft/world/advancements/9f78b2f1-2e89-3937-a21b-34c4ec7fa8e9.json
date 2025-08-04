@@ -2541,6 +2541,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:17:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-04 02:54:12 +0000"
@@ -2567,6 +2573,7 @@
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
+      "orange": "2025-08-04 04:22:47 +0000",
       "yellow": "2025-08-04 02:31:56 +0000"
     },
     "done": false
@@ -2943,6 +2950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-04 04:17:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-04 03:13:18 +0000"
@@ -2988,6 +3001,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:17:03 +0000"
     },
     "done": true
   },
@@ -3132,6 +3151,12 @@
   "spore:nuclea": {
     "criteria": {
       "hurt_by_infected": "2025-08-04 02:37:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:17:03 +0000"
     },
     "done": true
   },
@@ -3516,6 +3541,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:17:03 +0000"
     },
     "done": true
   },
