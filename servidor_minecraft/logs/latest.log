@@ -1904,3 +1904,28 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 03:37:16.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Phayres
 [04Aug2025 03:37:30.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
 [04Aug2025 03:37:41.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/122800, l='ServerLevel[world]', x=203.93, y=-28.00, z=-91.03] died: el_lolo was shot by Skeleton
+[04Aug2025 03:37:55.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Get out from my swamp!]
+[04Aug2025 03:37:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Ogre
+[04Aug2025 03:38:04.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Ogre
+[04Aug2025 03:38:10.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 03:38:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:38:31.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by PATITOELdios
+[04Aug2025 03:38:40.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:38:56.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:39:17.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by el_lolo
+[04Aug2025 03:39:34.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 03:40:13.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Phayres
+[04Aug2025 03:40:19.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Phayres
+[04Aug2025 03:40:26.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Phayres
+[04Aug2025 03:41:43.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:42:21.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/123244, l='ServerLevel[world]', x=207.38, y=-28.00, z=-91.30] died: el_lolo was doomed to fall
+[04Aug2025 03:42:28.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 03:42:33.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was blown up by Creeper
+[04Aug2025 03:42:33.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/123430, l='ServerLevel[world]', x=211.95, y=-1.00, z=-72.43] died: PATITOELdios was blown up by Creeper
+[04Aug2025 03:42:37.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:42:40.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Phayres
+[04Aug2025 03:42:58.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 03:43:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:44:23.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo fell from a high place
+[04Aug2025 03:44:37.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 03:44:51.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]

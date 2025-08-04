@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "spore:ogre": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 03:37:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-04 01:43:06 +0000"
