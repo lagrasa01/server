@@ -866,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-04 04:49:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_redwood_planks": "2025-08-04 04:07:11 +0000"
@@ -893,6 +899,12 @@
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-04 03:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-04 04:49:36 +0000"
     },
     "done": true
   },
@@ -3278,6 +3290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-04 04:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-04 02:03:16 +0000"
@@ -3755,6 +3773,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-04 03:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-04 04:49:58 +0000"
     },
     "done": true
   },

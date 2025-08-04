@@ -1955,3 +1955,22 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 04:32:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
 [04Aug2025 04:32:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo fell from a high place
 [04Aug2025 04:33:00.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 04:50:17.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was assassinated by PATITOELdios
+[04Aug2025 04:52:09.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[04Aug2025 04:52:39.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/155143, l='ServerLevel[world]', x=362.79, y=26.00, z=784.30] died: Dany_Why was doomed to fall by Skeleton
+[04Aug2025 04:52:55.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was obliterated by el_lolo
+[04Aug2025 04:53:13.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[04Aug2025 04:53:53.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/157910, l='ServerLevel[world]', x=210.84, y=-2.00, z=17.18] died: Ike was blown up by Creeper
+[04Aug2025 04:54:20.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 04:55:30.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Spectator Mode]
+[04Aug2025 04:55:55.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 04:56:24.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was shot by Phayres
+[04Aug2025 04:56:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 04:56:28.961] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/158678, l='ServerLevel[world]', x=393.56, y=8.19, z=824.30] died: Gistique was slain by Ogre
+[04Aug2025 04:56:34.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[04Aug2025 04:56:58.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 04:57:03.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 04:57:14.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['ThatGardener'/141282, l='ServerLevel[world]', x=388.41, y=18.00, z=799.32] died: ThatGardener was blown up by Creeper
+[04Aug2025 04:57:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was assassinated by PATITOELdios
+[04Aug2025 04:57:19.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/160011, l='ServerLevel[world]', x=389.92, y=120.00, z=826.92] died: el_lolo was assassinated by PATITOELdios
+[04Aug2025 04:58:35.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/159535, l='ServerLevel[world]', x=387.38, y=120.00, z=814.44] died: uridk was slain by el_lolo
