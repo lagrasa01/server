@@ -1,0 +1,17 @@
+{
+	id: "aec5d953-b5b1-39c1-b05b-77c9bdc47117"
+	type: "player"
+	player_name: "PATITOELdios"
+	ranks: {
+		aec5d953-b5b1-39c1-b05b-77c9bdc47117: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PATITOELdios"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

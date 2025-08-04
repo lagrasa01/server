@@ -1,0 +1,357 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dragon_associations_manual"
+	group: "2CAC297F84835B88"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "minecraft:item/enchanted_book"
+		}
+	}
+	id: "5D48889C06D215A1"
+	images: [
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependency: "5553673C7F2C2DB5"
+			height: 1.25d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.25d
+			x: 3.0d
+			y: -3.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"48DFBC04BFC76D87"
+				"3681BFE36B935A2B"
+			]
+			description: [
+				"&eWho We Are"
+				"&7The Dragon Association is a group formed after the outbreak of the Cordyceps Fungi."
+				""
+				"&eOur Purpose"
+				"&7We are committed to fight against the Spore Infection."
+				""
+				"&eOur Weapon"
+				"&7After investigation, we discovered that the Ender Dragon, found in the End dimension, has a very corrosive breath that we tested against the infected. This breath could be the key to making sure to destroy the outer armor of these awful monsters."
+			]
+			hide_until_deps_complete: true
+			icon: "minecraft:writable_book"
+			id: "5553673C7F2C2DB5"
+			shape: "square"
+			subtitle: "&e19th Edition - Written by the Dragon Association."
+			tasks: [{
+				id: "0FFFD45F59FA710F"
+				title: "Continue"
+				type: "checkmark"
+			}]
+			title: "&bDragon's Association Manual"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5553673C7F2C2DB5"]
+			description: [
+				"&eEyes of Ender"
+				"&7Up to 12 required to open the portal to the End dimension."
+				""
+				"&eBottles"
+				"&7At least 16 bottles are needed to trap enough dragon's breath."
+			]
+			id: "52E4D22EC77F1BF3"
+			shape: "square"
+			subtitle: "&8Click to read"
+			tasks: [
+				{
+					count: 16L
+					id: "2169FD0F60FD9D41"
+					item: "minecraft:glass_bottle"
+					type: "item"
+				}
+				{
+					count: 12L
+					id: "3EC3024FCB299AE6"
+					item: "minecraft:ender_eye"
+					type: "item"
+				}
+			]
+			title: "&ePreparation"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52E4D22EC77F1BF3"]
+			description: ["&7Using the twelve ender eyes, open the portal and cross to the End Dimension."]
+			id: "2EB72E0DF95826B5"
+			shape: "hexagon"
+			subtitle: "&8Click to read"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "41C7C4A95F936EB3"
+				title: "&eReach the End Dimension"
+				type: "dimension"
+			}]
+			title: "&eReaching The End"
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			description: ["&7This manual was lost to the death of the last member, killed by a Wither Skeleton at a Nether Fortress."]
+			id: "3681BFE36B935A2B"
+			shape: "hexagon"
+			subtitle: "&eFind the Manual in a Nether Fortress"
+			tasks: [{
+				id: "4C02170AE3FA1B5F"
+				structure: "betterfortresses:fortress"
+				title: "&eFind a Nether Fortress"
+				type: "structure"
+			}]
+			title: "&6Guide Unlock"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2EB72E0DF95826B5"]
+			description: ["&7Await for the dragon's attack and use the bottles to trap some of the dragon's breath."]
+			hide_until_deps_complete: true
+			id: "258532CC7C95E001"
+			shape: "square"
+			subtitle: "&8Click to read"
+			tasks: [{
+				count: 16L
+				id: "7326B200BCA18FA0"
+				item: { Count: 16, id: "minecraft:dragon_breath" }
+				type: "item"
+			}]
+			title: "&eGetting some of the Dragon's Breath"
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["258532CC7C95E001"]
+			description: ["&7The only way to get back from the End is to kill the Ender Dragon."]
+			icon: "minecraft:dragon_head"
+			id: "1DBC64F64C77D89E"
+			shape: "hexagon"
+			size: 1.5d
+			subtitle: "&8Click to read"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "2E2AC2FBC578BC81"
+				title: "&eKill the Ender Dragon"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&eOnly one way back"
+			x: 8.026785714285701d
+			y: -3.3035714285714235d
+		}
+		{
+			dependencies: ["1DBC64F64C77D89E"]
+			description: ["&7Corrosion allows to completely remove the armor of targets, making it one of the most powerful bioweapons against the infected."]
+			id: "6AA0F8E6D51DB9BC"
+			shape: "diamond"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "45819F8BE5FAB0FE"
+				item: {
+					Count: 1
+					id: "minecraft:potion"
+					tag: {
+						Potion: "spore:corrosion_potion"
+					}
+				}
+				type: "item"
+			}]
+			title: "&eThe Corrosion"
+			x: 9.513392857142833d
+			y: -3.2857142857142847d
+		}
+	]
+	title: " &bDragon Association's Manual"
+}

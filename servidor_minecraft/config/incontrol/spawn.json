@@ -1,0 +1,7 @@
+[
+    {
+        "mob": "minecraft:zombie",
+        "mincount": 10,
+        "result": "deny"
+    }
+]

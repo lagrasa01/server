@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9f78b2f12e893937a21b34c4ec7fa8e9"
+	name: "el_lolo#9f78b2f1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

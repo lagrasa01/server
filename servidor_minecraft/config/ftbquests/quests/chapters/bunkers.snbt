@@ -1,0 +1,128 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bunkers"
+	group: ""
+	icon: "minecraft:iron_bars"
+	id: "640F2DC98FEEAF04"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0BE9E80C4CADD6B1"
+			shape: "hexagon"
+			subtitle: "&8Found in the Overworld"
+			tasks: [{
+				id: "50A30911057D6E0B"
+				structure: "underground_bunkers:underground_bunker"
+				title: "&8Find an Abandoned Bunker"
+				type: "structure"
+			}]
+			title: "&eFind an Abandoned Bunker"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["70615A34FBD717CA"]
+			hide_until_deps_complete: true
+			id: "2B7FD7FB46DD6818"
+			shape: "diamond"
+			subtitle: "&8Found in the Tank Room"
+			tasks: [{
+				id: "0B76FFA0F20B570A"
+				item: "immersiveengineering:component_electronic_adv"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["70615A34FBD717CA"]
+			hide_until_deps_complete: true
+			id: "7B429B7A60D1EF73"
+			shape: "diamond"
+			subtitle: "&8Found in the Tank Room"
+			tasks: [{
+				id: "78C596F463742B15"
+				item: "immersiveengineering:toolupgrade_railgun_scope"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["70615A34FBD717CA"]
+			hide_until_deps_complete: true
+			id: "4F9AB1C6A6C9582C"
+			shape: "diamond"
+			subtitle: "&8Found in the Tank Room"
+			tasks: [{
+				id: "2FD0865DF71A4854"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 21
+						}
+					}
+					id: "immersiveengineering:revolver"
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["70615A34FBD717CA"]
+			hide_until_deps_complete: true
+			id: "582D2FE8163A4B5A"
+			shape: "diamond"
+			subtitle: "&8Found in the Tank Room"
+			tasks: [{
+				id: "19C88E2AEC2875DA"
+				item: "immersiveengineering:rs_engineering"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0BE9E80C4CADD6B1"]
+			description: [
+				"&8[This paper note was stuck in the Bunker's wall]"
+				""
+				"&7To anyone reading this, DO NOT enter this bunker if you are not prepared. We lost many people that fell to the infection, it's not a safe place."
+				""
+				"&7If you are going to enter, then make sure to get all electronic components from the tank storage room, we weren't unable to retrieve them."
+				""
+				"&7See you in the association."
+			]
+			hide_details_until_startable: true
+			icon: "minecraft:paper"
+			id: "70615A34FBD717CA"
+			rewards: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "minecraft:item/enchanted_book"
+					}
+				}
+				id: "27ADCB33865FFAED"
+				title: "&6Guide Unlock: &eSteve's Defense Guide™ Vol.2"
+				type: "custom"
+			}]
+			subtitle: "&8Click to read Lost Page"
+			tasks: [{
+				id: "7C63A7EECF11F095"
+				title: "Continue"
+				type: "checkmark"
+			}]
+			title: "&eLost Page: &7The Bunkers"
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: " &eAbandoned Bunkers"
+}

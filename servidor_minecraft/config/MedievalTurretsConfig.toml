@@ -1,0 +1,5 @@
+
+[Mobs]
+	#Allows entities in this field to ride turrets.
+	"Mob Whitelist" = "minecraft:zombie , minecraft:skeleton, minecraft:pillager, minecraft:vindicator, minecraft:witch, minecraft:drowned, minecraft:husk,"
+

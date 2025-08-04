@@ -1,0 +1,137 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "eflesh_and_bones"
+	group: ""
+	icon: "spore:cryogenic_reagent"
+	id: "770DFA5357470538"
+	images: [{
+		dependency: "55276A1A00D635A4"
+		height: 1.0d
+		image: "minecraft:block/furnace_front_on"
+		rotation: 0.0d
+		width: 1.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["&7Sugar is the first material for the Compound, can be made from Sugar Canes that are found near beaches."]
+			id: "69E84F182032C951"
+			shape: "diamond"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "5CE1386F57C8953C"
+				item: "minecraft:sugar"
+				type: "item"
+			}]
+			title: "&eSecrets to the Compound: &7Sugar"
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"&7Made out of Amethyst Shards, which are found in Geodes spred on the Overworld's caves."
+				""
+				"&7Amethyst is the second material for the Compound."
+			]
+			id: "567A076E73C1D3EB"
+			shape: "diamond"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "7DEEED8CE18AB130"
+				item: "spore:amethyst_dust"
+				type: "item"
+			}]
+			title: "&eSecrets to the Compound: &7Amethyst"
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"69E84F182032C951"
+				"567A076E73C1D3EB"
+			]
+			description: ["&7One of the most important materials to ever be discovered, the Compound will be key to advance in the technology against the infection."]
+			id: "55276A1A00D635A4"
+			shape: "square"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "4CC32697A1F3EE5E"
+				item: "spore:compound"
+				type: "item"
+			}]
+			title: "&eThe Compound"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["55276A1A00D635A4"]
+			description: ["&7Heating up the compound can solidify it into Compound Plates, an essential material used in laboratory procedures."]
+			hide_until_deps_complete: true
+			id: "70AABE03ABB9CE85"
+			shape: "square"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "22DD8E0E44C3551C"
+				item: "spore:compound_plate"
+				type: "item"
+			}]
+			title: "&eThe Compound Plate"
+			x: 0.017857142857138797d
+			y: 0.8571428571428541d
+		}
+		{
+			dependencies: ["70AABE03ABB9CE85"]
+			description: ["&7This table is useful to create your own flesh based prototypes, a twisted way of protecting yourself, but the flesh and bones are your best chance at survival."]
+			id: "6E6D81EB52A341C7"
+			shape: "square"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "6D95EF1AF25DB1F5"
+				item: "spore:surgery_table"
+				type: "item"
+			}]
+			title: "&eCompound Tech: &7Surgery Table"
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["70AABE03ABB9CE85"]
+			description: ["&7Allows to spread cold around an area using Ice as fuel. This will prevent the infection as the fungi is weakened by low temperatures."]
+			id: "5361668EBADED471"
+			shape: "square"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "14A0772CB89B0310"
+				item: {
+					Count: 1
+					id: "spore:cdu"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "&eCompound Tech: &7Cryogenic Dispenser Unit"
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["70AABE03ABB9CE85"]
+			description: ["&7The scanner is an useful tool that can give you information on certain infected."]
+			id: "6FBCCFE0B6BFE6B9"
+			shape: "square"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "15786776F1E6AC23"
+				item: "spore:scanner"
+				type: "item"
+			}]
+			title: "&eCompound Tech: &7Scanner"
+			x: 1.5d
+			y: 1.5d
+		}
+	]
+	title: " &eCompound Technologies"
+}

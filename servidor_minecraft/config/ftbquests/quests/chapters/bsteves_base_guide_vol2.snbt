@@ -1,0 +1,244 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bsteves_base_guide_vol2"
+	group: "2CAC297F84835B88"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "minecraft:item/enchanted_book"
+		}
+	}
+	id: "2A0E1BBEF791AEC7"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7E8D689CBA9356C8"]
+			description: [
+				"&7After some of my own learning on better defenses, this second volume of my book teaches you the basics of guns and turrets!"
+				""
+				"&6Index:"
+				"- &e1:&7 The Revolver"
+				"- &e2-6:&7 Low Calliber"
+				"- &e7-10:&7 Closer Range"
+				"- &e11-13:&7 Automatic Firing"
+			]
+			hide_until_deps_complete: true
+			icon: "minecraft:writable_book"
+			id: "3BB55AFEF01456A8"
+			shape: "square"
+			subtitle: "&e\"Advanced Machinery\" - Written by Steve."
+			tasks: [{
+				id: "6BE76C539A6A63A2"
+				title: "Continue"
+				type: "checkmark"
+			}]
+			title: "&bSteve's Defense Guide™  Vol.2"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70615A34FBD717CA"]
+			description: [""]
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			icon: "minecraft:book"
+			id: "7E8D689CBA9356C8"
+			shape: "square"
+			subtitle: "&7Unlocked after the &e\"Lost Page\" &7quest in the &eAbandoned Bunkers&7 questline."
+			tasks: [{
+				id: "175A0D33D8DE7E88"
+				title: "Continue"
+				type: "checkmark"
+			}]
+			title: "&6Guide Unlock"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3BB55AFEF01456A8"]
+			description: ["&7Revolvers are tricky to make, but you can probably find them from some dead body. Hey! They're dead, so what are they gonna do about it?"]
+			id: "63DFDFE15ED90228"
+			shape: "hexagon"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "61052CBC2430FE9D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 21
+						}
+					}
+					id: "immersiveengineering:revolver"
+				}
+				type: "item"
+			}]
+			title: "&ePage 1: &7The Handy Weapon; The Revolver"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0CB6130969008EF9"]
+			description: ["&7The Casull is your basic go-to bullet that does nothing special."]
+			id: "2E2B7D08AC8ABE82"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "08E2195864101790"
+				item: "immersiveengineering:casull"
+				type: "item"
+			}]
+			title: "&ePage 3: &7Normal Bullets"
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2E2B7D08AC8ABE82"]
+			description: ["&7An armor piercing bullet is really useful towards targets with high armor. Infected have quite a bit of armor so this is useful!"]
+			id: "49139B239E349656"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "7A2F9A37FDE70CC3"
+				item: "immersiveengineering:armor_piercing"
+				type: "item"
+			}]
+			title: "&ePage 4:&7 Penetrating Bullets"
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["49139B239E349656"]
+			description: ["&7These highly explosive bullets are greats for when you have to deal with multiple enemies at the same time."]
+			id: "0857650F68A11FC0"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "1DBECEABB54841E4"
+				item: "immersiveengineering:he"
+				type: "item"
+			}]
+			title: "&ePage 5:&7 Boom!"
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0857650F68A11FC0"]
+			description: ["&7A very unique bullet that uses the Ender Eye's power to move itself to the nearest target, it's impossible to miss!"]
+			id: "2A3BA926BECD5AD5"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "293AE85D76A9467F"
+				item: "immersiveengineering:homing"
+				type: "item"
+			}]
+			title: "&ePage 6: &7Homing Technology"
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["63DFDFE15ED90228"]
+			description: ["&7These bullets are good for higher range using your revolver (or later on turrets!)"]
+			icon: "minecraft:book"
+			id: "0CB6130969008EF9"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "06B41FE86150994E"
+				title: "Next Page"
+				type: "checkmark"
+			}]
+			title: "&eChapter I: &7Low Calliber"
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2A3BA926BECD5AD5"]
+			description: ["&7The following bullets are great for closer range as they provide high damage at the cost of lower range and spread, they're called the \"Shotgun bullets\" for that reason."]
+			icon: "minecraft:book"
+			id: "1B152573E3BFA8F7"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "34FFFCE5CFF720BF"
+				title: "Next Page"
+				type: "checkmark"
+			}]
+			title: "&eChapter II: &7Closer Range"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1B152573E3BFA8F7"]
+			description: ["&7Your basic buckshot cartridge! It just deals damage, nothing special."]
+			id: "2FDEF71063F3773D"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "2BF1EAD29A49E5D1"
+				item: "immersiveengineering:buckshot"
+				type: "item"
+			}]
+			title: "&ePage 8: &7Buckshot! Roulette?"
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2FDEF71063F3773D"]
+			description: ["&7Similarly to the Homing Bullets, this shotgun-like cartridge also moves itself into the targets making you not miss."]
+			id: "44DBD78721042FDC"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "678BAEE646422731"
+				item: "immersiveengineering:wolfpack"
+				type: "item"
+			}]
+			title: "&ePage 9:&7 The Wolf Pack"
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["44DBD78721042FDC"]
+			description: ["&7Due to its internal chemical reaction, this cartridge also burns targets after hitting them, although it's not the best against the infected, it's still quite useful!"]
+			id: "73CF1F80AD13D0A3"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "7D5531C407ACFD0C"
+				item: "immersiveengineering:dragons_breath"
+				type: "item"
+			}]
+			title: "&ePage 10: &7The Hot One"
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["73CF1F80AD13D0A3"]
+			description: ["&7Of course if you're alone, why do you need so many bullets? Well fear not, we can build turrets that automatically attack nearby enemies!"]
+			icon: "minecraft:book"
+			id: "04D3EA951E9CC621"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "47A7881FA4DCFCC9"
+				title: "Next Page"
+				type: "checkmark"
+			}]
+			title: "&eChapter III: &7Automatic Firing"
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["04D3EA951E9CC621"]
+			description: ["&7This turret allows to fire a bullet type, requires energy from your favorite generator, and a redstone signal to start (unless you use a screwdriver!)"]
+			id: "1775E087AF5D16D0"
+			shape: "hexagon"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "6000946306021685"
+				item: "immersiveengineering:turret_gun"
+				type: "item"
+			}]
+			title: "&ePage 12: &7The Gun Turret"
+			x: -1.5d
+			y: 5.0d
+		}
+	]
+	title: " &bSteve's Defense Guide™ Vol.2"
+}

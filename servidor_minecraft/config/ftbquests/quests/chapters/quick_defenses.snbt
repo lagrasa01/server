@@ -1,0 +1,228 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "quick_defenses"
+	group: "2CAC297F84835B88"
+	icon: "minecraft:book"
+	id: "56DF62F4ED7795AE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3EBF6A40E97F6D68"]
+			description: ["&7Using sharp bamboo spikes, we can place these down around our base for a bit more protection."]
+			id: "45A41F1A8771F6C5"
+			shape: "hexagon"
+			subtitle: "&8Click to read page"
+			tasks: [{
+				id: "3858EED9FD1509A8"
+				item: "supplementaries:bamboo_spikes"
+				type: "item"
+			}]
+			title: "&ePage 2: &7First Defense: Spikes"
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["2B1A17EC2F39D710"]
+			description: [
+				"&7A fungal infection is spreading all over the world, this guide teaches you basic ways of defending your base's surroundings."
+				""
+				"&7Also check out the Volume 2, where we use recycled materials to build turrets!"
+				""
+				"&6Index:"
+				"- &e1-5:&7 Spikes"
+				"- &e6-10:&7 Cannons"
+			]
+			hide_until_deps_complete: true
+			icon: "minecraft:writable_book"
+			id: "3F8AB407BFE74F15"
+			shape: "square"
+			subtitle: "&e\"Primitive Weaponry\" - Written by Steve."
+			tasks: [{
+				id: "3E317746269B7203"
+				title: "Continue"
+				type: "checkmark"
+			}]
+			title: "&bSteve's Defense Guide™ Vol.1"
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3F8AB407BFE74F15"]
+			description: [
+				"&7Bamboo is a great cheap resource that can be cut down sharply to use as a weapon."
+				""
+				"&7You can find it naturally growing in the Overworld."
+			]
+			id: "3EBF6A40E97F6D68"
+			subtitle: "&8Click to read page"
+			tasks: [{
+				id: "5FF70F6F28A40742"
+				item: "minecraft:bamboo"
+				type: "item"
+			}]
+			title: "&ePage 1: &7Bamboo"
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["45A41F1A8771F6C5"]
+			description: [
+				"&7Brewing stands can be rarely found in villages, but also can be made using materials from hellish beings called \"The Blaze\""
+				""
+				"&e&oBottom Note Reads: &r&7\"Brewing potions isn't easy, you might need to literally go to hell and get some materials to heat them up\""
+				"&e- Steve"
+			]
+			id: "3D75D3CDEE30AC95"
+			subtitle: "&8Click to read page"
+			tasks: [{
+				id: "6DE6C33A886B8B4A"
+				item: "minecraft:brewing_stand"
+				type: "item"
+			}]
+			title: "&ePage 3: &7Brewing"
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["3D75D3CDEE30AC95"]
+			description: ["&7Potions can be thrown into enemies to apply effects such as slowness, weakness or harming."]
+			id: "27447825604AC8C2"
+			subtitle: "&8Click to read page"
+			tasks: [{
+				id: "7718CE58D014C57A"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "or(item_tag(c:potions))not(nbt(fuzzy:{Potion:\"minecraft:mundane\"}))not(nbt(fuzzy:{Potion:\"minecraft:water\"}))"
+					}
+				}
+				title: "Brew a Potion"
+				type: "item"
+			}]
+			title: "&ePage 4: &7Potions"
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["27447825604AC8C2"]
+			description: ["&7Alchemy is an interesting science, we can pour some potions such as harming, slowness or weakness on top of our spikes, making them apply these effects when enemies get damaged."]
+			id: "1AAD684A6ECDCEE2"
+			shape: "hexagon"
+			subtitle: "&8Click to read page"
+			tasks: [{
+				id: "30647F3FFC793B29"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "or(item(supplementaries:bamboo_spikes_tipped))"
+					}
+				}
+				title: "&ePage 5: &7Tipped Spikes"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3F8AB407BFE74F15"]
+			description: ["&7Slingshots can be useful to throw blocks at a distance and place them, but we can even go further and use them in a new kind of machine."]
+			id: "457F9ECB7473E725"
+			subtitle: "&8Click to read page"
+			tasks: [{
+				id: "685193D7D3FA1EF8"
+				item: {
+					Count: 1
+					id: "supplementaries:slingshot"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&ePage 6: &7Slingshots"
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["457F9ECB7473E725"]
+			description: ["&7Doing a little contraption from that slingshot, this cannon can throw much heavier things and start doing actual damage, but we need ammo and a way to shoot them first!"]
+			id: "2008388BC411E59A"
+			shape: "hexagon"
+			subtitle: "&8Click to read page"
+			tasks: [{
+				id: "4EFE243BA5F148E6"
+				item: "supplementaries:cannon"
+				type: "item"
+			}]
+			title: "&ePage 7: &7The Cannon"
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2008388BC411E59A"]
+			description: ["&7Lead can be found as an ore in the Overworld's caves. You will need at least 45 lead to shoot a few of these cannon balls."]
+			id: "5BB4967E9FB64691"
+			subtitle: "&8Click to read page"
+			tasks: [{
+				count: 45L
+				id: "2F0C354B97456C7E"
+				item: "immersiveengineering:raw_lead"
+				title: "Mine 45 Lead"
+				type: "item"
+			}]
+			title: "&ePage 8: &7Lead"
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4BDEB28AD205E848"]
+			description: ["&7Finally the Gunpowder is what you need to shoot those balls out, they can be dropped by the green monsters called Creepers."]
+			id: "3B709DD08A67A2D7"
+			subtitle: "&8Click to read page"
+			tasks: [{
+				id: "7DB6E258B6F26F22"
+				item: "minecraft:gunpowder"
+				type: "item"
+			}]
+			title: "&ePage 10: &7Ready to Fire!"
+			x: -3.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["5BB4967E9FB64691"]
+			description: ["&7Now that you have enough lead, you can turn it into blocks and craft some Cannon Balls, made out of one of the heaviest metals that can be found in the Overworld."]
+			id: "4BDEB28AD205E848"
+			subtitle: "&8Click to read page"
+			tasks: [{
+				id: "0670DCAD2155D4B8"
+				item: "supplementaries:cannonball"
+				type: "item"
+			}]
+			title: "&ePage 9: &7Cannon Balls"
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["48DFBC04BFC76D87"]
+			description: [""]
+			icon: "minecraft:book"
+			id: "2B1A17EC2F39D710"
+			shape: "square"
+			subtitle: "&7Unlocked after &e\"The World\" &7quest in &eThe Infection&7 questline. "
+			tasks: [{
+				id: "6715F40143940BAB"
+				title: "Continue"
+				type: "checkmark"
+			}]
+			title: "&6Guide Unlock"
+			x: -2.0d
+			y: -5.5d
+		}
+	]
+	title: " &bSteve's Defense Guide™ Vol.1"
+}

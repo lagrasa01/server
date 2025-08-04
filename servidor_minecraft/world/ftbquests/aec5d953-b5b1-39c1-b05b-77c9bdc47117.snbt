@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "aec5d953b5b139c1b05b77c9bdc47117"
+	name: "PATITOELdios#aec5d953"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

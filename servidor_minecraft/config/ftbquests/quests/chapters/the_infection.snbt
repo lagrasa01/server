@@ -1,0 +1,116 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_infection"
+	group: ""
+	icon: "spore:growth_mycelium"
+	id: "767B85BB61BD91E3"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&7The cordyceps fungus has mutated, now being able to &cinfect any living being&7. They can take control of life forms once infected, it's only a matter of time until everything decays into the mycelium."
+				""
+				"&7These infected have been evolved into becoming immune to high temperatures, &chowever low temperatures still affect them negatively&7."
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "spore:block/growth_mycelium"
+				}
+			}
+			id: "27B728A9C5D03C1A"
+			require_sequential_tasks: false
+			shape: "hexagon"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "1B7B792DE5B593AF"
+				type: "checkmark"
+			}]
+			title: "&eMycelium Has Spread"
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["27B728A9C5D03C1A"]
+			description: ["&7These new mutations allow infected to evolve at much faster rates, but also allow to communicate with each other through a hive mind."]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "spore:block/under_fungal_stem"
+				}
+			}
+			id: "7C2F55A5FE33668F"
+			shape: "hexagon"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "18322F0632107C09"
+				title: "Continue"
+				type: "checkmark"
+			}]
+			title: "&eMutations"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7C2F55A5FE33668F"]
+			description: ["&7The hivemind will not stop until the whole world is infected. Can you build a base and survive the Spore Infection?"]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "spore:block/fungal_p_sap"
+				}
+			}
+			id: "48DFBC04BFC76D87"
+			rewards: [{
+				icon: "minecraft:book"
+				id: "101BA93CDE535345"
+				title: "&6Guide Unlock: &eSteve's Defense Guide™ Vol.1"
+				type: "custom"
+			}]
+			shape: "hexagon"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "6B78442BEFFCEC74"
+				title: "Continue"
+				type: "checkmark"
+			}]
+			title: "&eThe World"
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["27B728A9C5D03C1A"]
+			description: [
+				"- &eAlt : &7Crawl"
+				"- &eH : &7Open Accessories Menu"
+				"- &eN : &7Quick Quest Book Access"
+				"- &eU : &7Death History"
+				"- &eShift + Right Click : &7Carry Block/Entity"
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftblibrary:icons/info_gray"
+				}
+			}
+			id: "29FACCACB7F7F08F"
+			shape: "hexagon"
+			subtitle: "&8Click to read"
+			tasks: [{
+				id: "4FA48FD653E265C7"
+				title: "Continue"
+				type: "checkmark"
+			}]
+			title: "&eInformation: &7Basic Keybinds"
+			x: 1.5d
+			y: -0.5d
+		}
+	]
+	title: " &eThe Infection"
+}
