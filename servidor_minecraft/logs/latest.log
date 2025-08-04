@@ -1860,3 +1860,27 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 03:13:18.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Acquire Hardware]
 [04Aug2025 03:14:02.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Over-juiced]
 [04Aug2025 03:14:51.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Over-juiced]
+[04Aug2025 03:19:31.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/113660, l='ServerLevel[world]', x=113.52, y=-6.00, z=-9.73] died: Keymind was blown up by Creeper
+[04Aug2025 03:20:43.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Inquisitor
+[04Aug2025 03:20:43.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk forgot Inquisitor was a bioweapon
+[04Aug2025 03:20:43.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [The Spanish Inquisition is back!]
+[04Aug2025 03:21:02.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:21:10.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 03:22:19.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [OW THAT WAS THAT SMELL!]
+[04Aug2025 03:22:19.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [OW THAT WAS THAT SMELL!]
+[04Aug2025 03:22:21.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo withered away whilst fighting Brotkatze
+[04Aug2025 03:22:31.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:22:45.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=0, z=-97} BlockPos{x=9, y=111, z=-8}
+[04Aug2025 03:22:45.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=0, z=-97} BlockPos{x=9, y=111, z=-8}
+[04Aug2025 03:22:45.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=0, z=-97} BlockPos{x=9, y=111, z=-8}
+[04Aug2025 03:22:48.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=0, z=-97} BlockPos{x=9, y=111, z=-10}
+[04Aug2025 03:22:48.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=0, z=-97} BlockPos{x=7, y=111, z=-10}
+[04Aug2025 03:22:48.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=0, z=-97} BlockPos{x=7, y=111, z=-10}
+[04Aug2025 03:23:11.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 03:23:25.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:26:29.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Inquisitor
+[04Aug2025 03:26:29.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/117571, l='ServerLevel[world]', x=188.53, y=-0.02, z=-72.15] died: uridk was blown up by Creeper
+[04Aug2025 03:26:50.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:27:05.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/115812, l='ServerLevel[world]', x=189.17, y=-2.00, z=-108.16] died: el_lolo was slain by PATITOELdios
+[04Aug2025 03:27:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo forgot Inquisitor was a bioweapon
+[04Aug2025 03:27:12.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Inquisitor
