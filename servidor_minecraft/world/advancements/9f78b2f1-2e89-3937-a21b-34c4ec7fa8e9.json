@@ -664,11 +664,14 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-08-04 01:00:26 +0000",
+      "barley_fields": "2025-08-04 04:02:03 +0000",
       "rocky_meadow": "2025-08-04 01:02:18 +0000",
       "magnolia_highlands": "2025-08-04 00:44:05 +0000",
       "sparse_redwoods": "2025-08-04 01:06:55 +0000",
       "chalk_cliffs": "2025-08-04 01:48:40 +0000",
       "bamboo_forest": "2025-08-04 01:05:06 +0000",
+      "grassland": "2025-08-04 04:03:31 +0000",
+      "prairie": "2025-08-04 04:02:13 +0000",
       "redwoods": "2025-08-04 01:06:18 +0000"
     },
     "done": false
@@ -676,11 +679,14 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-08-04 01:00:26 +0000",
+      "barley_fields": "2025-08-04 04:02:03 +0000",
       "rocky_meadow": "2025-08-04 01:02:18 +0000",
       "magnolia_highlands": "2025-08-04 00:44:05 +0000",
       "sparse_redwoods": "2025-08-04 01:06:55 +0000",
       "chalk_cliffs": "2025-08-04 01:48:40 +0000",
       "bamboo_forest": "2025-08-04 01:05:06 +0000",
+      "grassland": "2025-08-04 04:03:31 +0000",
+      "prairie": "2025-08-04 04:02:13 +0000",
       "redwoods": "2025-08-04 01:06:18 +0000"
     },
     "done": false
@@ -1881,6 +1887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-04 04:02:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-04 02:10:37 +0000"
@@ -2121,6 +2133,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_block_silver_to_raw_silver": {
+    "criteria": {
+      "has_raw_block_silver": "2025-08-04 03:59:10 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/strip_curtain": {
     "criteria": {
       "has_metal_rod": "2025-08-04 03:49:54 +0000"
@@ -2178,6 +2196,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-04 04:02:39 +0000"
     },
     "done": true
   },
@@ -2355,6 +2379,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_silver_to_raw_block_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-08-04 03:59:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-04 02:28:10 +0000"
@@ -2427,6 +2457,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver_from_blasting3": {
+    "criteria": {
+      "has_raw_silver": "2025-08-04 03:59:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-04 02:10:37 +0000"
@@ -2462,6 +2498,12 @@
       "yellow": "2025-08-04 02:31:56 +0000"
     },
     "done": false
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver3": {
+    "criteria": {
+      "has_raw_silver": "2025-08-04 03:59:10 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
@@ -2886,6 +2928,12 @@
   "superbwarfare:recipes/misc/iron_trigger": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 03:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-04 04:02:39 +0000"
     },
     "done": true
   },

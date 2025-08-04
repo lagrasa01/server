@@ -1934,3 +1934,15 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 03:55:21.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
 [04Aug2025 03:56:09.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
 [04Aug2025 03:57:59.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 03:59:00.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['NexouuZ'/128096, l='ServerLevel[world]', x=202.99, y=0.00, z=-68.03] died: NexouuZ was shot by Keymind
+[04Aug2025 03:59:06.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Time to Tinker]
+[04Aug2025 04:00:29.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/128854, l='ServerLevel[world]', x=333.70, y=64.42, z=178.58] died, message: 'Farmer was eaten alive by Brotkatze'
+[04Aug2025 04:00:36.604] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/130459, l='ServerLevel[world]', x=339.30, y=67.56, z=177.99] died, message: 'Nitwit was eaten alive by Brotkatze'
+[04Aug2025 04:00:41.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/130618, l='ServerLevel[world]', x=338.70, y=66.00, z=170.00] died, message: 'Nitwit forgot Brotkatze was a bioweapon'
+[04Aug2025 04:00:44.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/130457, l='ServerLevel[world]', x=330.61, y=63.54, z=162.11] died, message: 'Leatherworker was eaten alive by Brotkatze'
+[04Aug2025 04:00:49.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/130458, l='ServerLevel[world]', x=313.62, y=64.00, z=149.91] died, message: 'Leatherworker was eaten alive by Brotkatze'
+[04Aug2025 04:03:31.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 04:04:22.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 04:05:14.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 04:05:29.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 04:05:58.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
