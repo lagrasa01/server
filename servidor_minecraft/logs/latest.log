@@ -1740,3 +1740,29 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 02:23:32.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
 [04Aug2025 02:23:39.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/89075, l='ServerLevel[world]', x=857.30, y=27.42, z=-348.56] died: el_lolo was slain by uridk
 [04Aug2025 02:24:54.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:28:03.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 02:28:12.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was doomed to fall by Scavenger
+[04Aug2025 02:28:22.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 02:28:48.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has succumbed to the infection
+[04Aug2025 02:28:48.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:29:10.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:30:03.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Weird looking turtle]
+[04Aug2025 02:30:03.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Weird looking turtle]
+[04Aug2025 02:30:04.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was slain by Infected Villager
+[04Aug2025 02:30:05.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk forgot how bad Braiomil smelled
+[04Aug2025 02:30:13.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 02:30:37.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has succumbed to the infection
+[04Aug2025 02:30:48.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot el_lolo was a bioweapon
+[04Aug2025 02:31:13.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 02:31:24.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to PATITOELdios]
+[04Aug2025 02:31:56.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Spore]
+[04Aug2025 02:32:53.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/93161, l='ServerLevel[world]', x=893.70, y=15.67, z=-361.70] died: uridk was slain by uridk
+[04Aug2025 02:33:02.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:33:22.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Infected Human
+[04Aug2025 02:33:28.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 02:33:58.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/93178, l='ServerLevel[world]', x=895.59, y=-0.10, z=-383.30] died: el_lolo died
+[04Aug2025 02:34:39.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Diamonds!]
+[04Aug2025 02:34:42.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [I am not that blind]
+[04Aug2025 02:34:43.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Isn't It Iron Pick]
+[04Aug2025 02:34:50.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:36:31.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['el_lolo'/95195, l='ServerLevel[world]', x=889.83, y=20.00, z=-348.42] died: el_lolo suffocated in a wall
