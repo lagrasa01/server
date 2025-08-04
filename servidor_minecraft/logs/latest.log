@@ -1614,3 +1614,44 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 01:44:25.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9
 [04Aug2025 01:44:25.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player el_lolo (9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9) successfully connected to voice chat
 [04Aug2025 01:44:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> 901 19 -387
+[04Aug2025 01:45:54.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Brainzzz]
+[04Aug2025 01:47:05.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['ExeedingSky74'/58255, l='ServerLevel[world]', x=1081.45, y=-26.43, z=-101.55] died: ExeedingSky74 suffocated in a wall
+[04Aug2025 01:48:56.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Suit Up]
+[04Aug2025 01:48:58.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Acquire Hardware]
+[04Aug2025 01:49:05.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/60167, l='ServerLevel[world]', x=747.73, y=48.00, z=75.36] died: ABucketOfFriedChicken was shot by Skeleton
+[04Aug2025 01:49:55.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Diamonds!]
+[04Aug2025 01:50:12.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [How is it fair if they can fly ?!]
+[04Aug2025 01:51:32.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_lolo> zzzz
+[04Aug2025 01:51:35.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['JWT114'/63259, l='ServerLevel[world]', x=903.00, y=46.57, z=84.45] died: JWT114 suffocated in a wall
+[04Aug2025 01:51:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_lolo> zzz
+[04Aug2025 01:51:56.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/63391, l='ServerLevel[world]', x=790.39, y=75.00, z=155.37] died: ABucketOfFriedChicken was shot by Skeleton
+[04Aug2025 01:51:57.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzz
+[04Aug2025 01:51:59.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzz
+[04Aug2025 01:52:00.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzz
+[04Aug2025 01:52:08.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Disconnected
+[04Aug2025 01:52:08.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
+[04Aug2025 01:52:08.118] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
+[04Aug2025 01:52:21.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:64637] logged in with entity id 63932 at (817.6064681976695, 137.0625, 88.6156142871883)
+[04Aug2025 01:52:21.393] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[04Aug2025 01:52:21.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[04Aug2025 01:52:21.411] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[04Aug2025 01:52:22.178] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[04Aug2025 01:52:22.179] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[04Aug2025 01:52:23.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[04Aug2025 01:52:24.739] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[04Aug2025 01:52:24.739] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[04Aug2025 01:52:43.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to PATITOELdios]
+[04Aug2025 01:52:50.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 01:53:50.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [What is that smell...?]
+[04Aug2025 01:54:01.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Meet the team]
+[04Aug2025 01:54:01.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [How is it fair if they can fly ?!]
+[04Aug2025 01:54:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was slain by Phayres
+[04Aug2025 01:54:12.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [How is it fair if they can fly ?!]
+[04Aug2025 01:54:23.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Brainzzz]
+[04Aug2025 01:54:57.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has succumbed to the infection
+[04Aug2025 01:54:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has succumbed to the infection
+[04Aug2025 01:55:13.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [A broken reflection]
+[04Aug2025 01:55:15.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Spore]
+[04Aug2025 01:55:25.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/65666, l='ServerLevel[world]', x=903.30, y=14.00, z=-386.45] died: PATITOELdios was slain by PATITOELdios
+[04Aug2025 01:55:40.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 01:56:00.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
