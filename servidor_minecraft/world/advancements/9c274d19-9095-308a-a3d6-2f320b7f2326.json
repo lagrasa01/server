@@ -2736,6 +2736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-08-04 02:11:52 +0000"
+    },
+    "done": true
+  },
   "spore:braiomil": {
     "criteria": {
       "hurt_infected": "2025-08-04 01:53:50 +0000"
@@ -2754,9 +2760,27 @@
     },
     "done": true
   },
+  "spore:inf_husk": {
+    "criteria": {
+      "hurt_infected": "2025-08-04 02:11:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-04 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-04 02:11:33 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_pillager": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:05:39 +0000"
     },
     "done": true
   },
@@ -2886,6 +2910,12 @@
     },
     "done": true
   },
+  "spore:scamper": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:08:30 +0000"
+    },
+    "done": true
+  },
   "spore:howler": {
     "criteria": {
       "hurt_infected": "2025-08-04 02:00:33 +0000"
@@ -2910,9 +2940,21 @@
     },
     "done": true
   },
+  "spore:nuclea": {
+    "criteria": {
+      "hurt_infected": "2025-08-04 02:14:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_glazed_terracotta": {
     "criteria": {
       "has_green_terracotta": "2025-08-04 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-04 02:10:57 +0000"
     },
     "done": true
   },
@@ -2925,6 +2967,12 @@
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-04 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-08-04 02:11:52 +0000"
     },
     "done": true
   },
@@ -2952,9 +3000,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-08-04 02:11:52 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/ru/quark/blossom_branch_from_blossom_log": {
     "criteria": {
       "has_item": "2025-08-04 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-04 02:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-08-04 02:11:52 +0000"
     },
     "done": true
   },
@@ -2979,6 +3045,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-08-04 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-04 02:10:57 +0000"
     },
     "done": true
   },
