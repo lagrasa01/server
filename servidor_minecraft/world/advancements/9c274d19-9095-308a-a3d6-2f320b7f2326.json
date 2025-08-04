@@ -3137,6 +3137,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2025-08-04 04:08:24 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:main/blueprint": {
     "criteria": {
       "0": "2025-08-04 02:57:46 +0000"

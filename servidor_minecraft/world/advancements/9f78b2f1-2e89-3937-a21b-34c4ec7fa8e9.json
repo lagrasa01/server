@@ -1767,6 +1767,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/combat/mp_443_smithing": {
     "criteria": {
       "has_mp_443_blueprint": "2025-08-04 03:07:54 +0000"
@@ -1905,6 +1911,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_ladder": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/misc/mp_443_blueprint": {
     "criteria": {
       "has_mp_443_blueprint": "2025-08-04 03:07:54 +0000"
@@ -1926,6 +1938,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-04 02:34:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
     },
     "done": true
   },
@@ -1995,6 +2013,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-08-04 02:31:56 +0000"
@@ -2043,6 +2067,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-04 02:10:37 +0000"
@@ -2058,6 +2088,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-08-04 03:13:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:11:57 +0000"
     },
     "done": true
   },
@@ -2133,6 +2169,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_block_silver_to_raw_silver": {
     "criteria": {
       "has_raw_block_silver": "2025-08-04 03:59:10 +0000"
@@ -2148,6 +2190,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:11:57 +0000"
     },
     "done": true
   },
@@ -2217,6 +2265,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-08-04 02:28:10 +0000"
@@ -2271,6 +2325,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_redwood_post": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 03:21:46 +0000"
@@ -2280,6 +2340,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-08-04 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
     },
     "done": true
   },
@@ -2370,6 +2436,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-04 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_redwood_planks": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
     },
     "done": true
   },
@@ -2637,6 +2709,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-04 02:10:37 +0000"
@@ -2766,6 +2844,12 @@
   "immersiveengineering:recipes/misc/crafting/metal_ladder_none": {
     "criteria": {
       "has_metal_rod": "2025-08-04 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_redwood_log": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
     },
     "done": true
   },
@@ -2967,6 +3051,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-08-04 02:54:12 +0000"
@@ -2982,6 +3072,12 @@
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-04 02:34:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:11:57 +0000"
     },
     "done": true
   },
@@ -3171,6 +3267,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-04 02:34:43 +0000"
@@ -3219,6 +3321,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 03:13:18 +0000"
@@ -3264,6 +3372,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-04 02:54:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:11:57 +0000"
     },
     "done": true
   },
@@ -3345,6 +3459,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_post": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/earmuffs": {
     "criteria": {
       "has_iron_rod": "2025-08-04 03:49:54 +0000"
@@ -3405,6 +3525,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/quark/sign_post_blossom": {
     "criteria": {
       "has_item": "2025-08-04 02:34:43 +0000"
@@ -3414,6 +3540,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-04 02:54:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 04:11:57 +0000"
     },
     "done": true
   },

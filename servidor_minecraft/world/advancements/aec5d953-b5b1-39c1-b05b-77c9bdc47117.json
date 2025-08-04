@@ -137,6 +137,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-08-04 04:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-08-04 01:48:34 +0000"
@@ -491,6 +503,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_ladder": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-08-04 00:39:45 +0000"
@@ -524,6 +542,12 @@
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-08-04 00:35:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
@@ -697,6 +721,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-08-04 02:11:32 +0000"
@@ -793,6 +823,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-04 02:13:33 +0000"
@@ -820,6 +856,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-08-04 01:59:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
@@ -943,6 +985,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-08-04 03:58:02 +0000"
@@ -994,6 +1042,12 @@
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-04 00:35:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
@@ -1159,6 +1213,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-08-04 03:53:58 +0000"
@@ -1297,6 +1357,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_redwood_post": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-04 03:58:02 +0000"
@@ -1342,6 +1408,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-08-04 03:22:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
@@ -1513,9 +1585,21 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-08-04 04:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-04 00:45:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_redwood_planks": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
@@ -1981,6 +2065,12 @@
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "redwood_log": "2025-08-04 04:06:51 +0000"
+    },
+    "done": false
+  },
   "immersiveengineering:recipes/misc/crafting/ingot_silver_to_storage_silver": {
     "criteria": {
       "has_ingot_silver": "2025-08-04 03:52:12 +0000"
@@ -2131,6 +2221,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2025-08-04 04:13:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-08-04 01:29:45 +0000"
@@ -2170,6 +2266,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 01:48:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
@@ -2416,6 +2518,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-08-04 02:03:16 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_redwood_log": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
@@ -2863,6 +2971,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-08-04 01:39:23 +0000"
@@ -2923,9 +3037,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_copper": {
+    "criteria": {
+      "has_plate_copper": "2025-08-04 04:13:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_item": "2025-08-04 02:11:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
@@ -2968,6 +3094,12 @@
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-04 01:01:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 04:06:51 +0000"
     },
     "done": true
   },
@@ -3379,6 +3511,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-04 00:40:38 +0000"
@@ -3481,6 +3619,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-04 00:39:45 +0000"
@@ -3556,10 +3700,17 @@
       "sparse_redwoods": "2025-08-04 01:06:50 +0000",
       "chalk_cliffs": "2025-08-04 01:30:50 +0000",
       "bamboo_forest": "2025-08-04 01:05:13 +0000",
+      "grassland": "2025-08-04 04:05:25 +0000",
       "prairie": "2025-08-04 04:02:16 +0000",
       "redwoods": "2025-08-04 01:06:19 +0000"
     },
     "done": false
+  },
+  "immersiveengineering:recipes/misc/crafting/survey_tools": {
+    "criteria": {
+      "has_hammer": "2025-08-04 04:13:01 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
@@ -3612,6 +3763,12 @@
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-04 00:35:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
@@ -3801,6 +3958,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 04:06:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-08-04 03:58:02 +0000"
@@ -3816,6 +3979,7 @@
       "sparse_redwoods": "2025-08-04 01:06:50 +0000",
       "chalk_cliffs": "2025-08-04 01:30:50 +0000",
       "bamboo_forest": "2025-08-04 01:05:13 +0000",
+      "grassland": "2025-08-04 04:05:25 +0000",
       "prairie": "2025-08-04 04:02:16 +0000",
       "redwoods": "2025-08-04 01:06:19 +0000"
     },
@@ -3836,6 +4000,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-08-04 00:35:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_post": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
@@ -4002,6 +4172,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2025-08-04 03:58:02 +0000"
@@ -4062,6 +4238,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-08-04 01:43:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 04:07:11 +0000"
     },
     "done": true
   },
