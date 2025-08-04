@@ -535,6 +535,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-04 03:02:59 +0000",
       "minecraft:enderman": "2025-08-04 00:41:06 +0000"
     },
     "done": false
@@ -1079,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-04 02:59:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-04 00:35:24 +0000"
@@ -1166,6 +1173,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-08-04 01:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-04 02:59:29 +0000"
     },
     "done": true
   },
@@ -2126,6 +2139,12 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2025-08-04 00:53:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-08-04 02:59:29 +0000"
     },
     "done": true
   },
@@ -3115,6 +3134,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-04 02:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-04 02:59:36 +0000"
     },
     "done": true
   },

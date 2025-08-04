@@ -1848,3 +1848,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 02:55:46.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/104379, l='ServerLevel[world]', x=881.30, y=15.90, z=-348.30] died: PATITOELdios died
 [04Aug2025 02:56:15.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/104580, l='ServerLevel[world]', x=875.98, y=10.00, z=-357.12] died: PATITOELdios died
 [04Aug2025 02:57:05.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:57:42.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Ice Bucket Challenge]
+[04Aug2025 02:57:46.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Things are different now]
+[04Aug2025 02:57:46.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Common]
+[04Aug2025 02:57:48.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Ice Bucket Challenge]
+[04Aug2025 02:59:36.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Ice Bucket Challenge]
