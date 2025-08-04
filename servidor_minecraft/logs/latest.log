@@ -1811,3 +1811,40 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 02:45:54.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
 [04Aug2025 02:46:02.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Brute
 [04Aug2025 02:46:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot how bad Braiomil smelled
+[04Aug2025 02:47:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Jagdhund
+[04Aug2025 02:47:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [What the dog doing]
+[04Aug2025 02:48:05.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was fungi-fied by Infected Villager
+[04Aug2025 02:48:26.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/97767, l='ServerLevel[world]', x=894.84, y=8.06, z=-365.05] died: uridk died
+[04Aug2025 02:48:53.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Brute
+[04Aug2025 02:48:56.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:49:17.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/101133, l='ServerLevel[world]', x=875.38, y=13.00, z=-351.36] died: PATITOELdios died
+[04Aug2025 02:49:28.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Sir Arthur is that you ?]
+[04Aug2025 02:49:30.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Infected Husk
+[04Aug2025 02:49:35.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk forgot PATITOELdios was a bioweapon
+[04Aug2025 02:49:43.707] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/101722, l='ServerLevel[world]', x=874.98, y=9.06, z=-360.11] died: PATITOELdios died
+[04Aug2025 02:49:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Howler
+[04Aug2025 02:50:02.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Brute
+[04Aug2025 02:50:14.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Slasher
+[04Aug2025 02:50:14.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Captain Hook]
+[04Aug2025 02:50:16.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was fungi-fied by Brute
+[04Aug2025 02:50:17.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:50:31.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Howler
+[04Aug2025 02:50:43.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Infected Villager
+[04Aug2025 02:51:09.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Isn't It Iron Pick]
+[04Aug2025 02:51:09.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/104412, l='ServerLevel[world]', x=880.57, y=12.75, z=-352.70] died: uridk was blown up by Creeper
+[04Aug2025 02:51:10.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:51:12.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/102664, l='ServerLevel[world]', x=899.30, y=14.12, z=-363.30] died: uridk died
+[04Aug2025 02:51:48.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk forgot PATITOELdios was a bioweapon
+[04Aug2025 02:51:54.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/95724, l='ServerLevel[world]', x=883.91, y=11.00, z=-353.30] died: uridk died
+[04Aug2025 02:52:32.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Howler
+[04Aug2025 02:52:34.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by uridk
+[04Aug2025 02:52:41.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/103544, l='ServerLevel[world]', x=888.62, y=10.00, z=-356.40] died: PATITOELdios died
+[04Aug2025 02:53:04.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:53:42.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/103766, l='ServerLevel[world]', x=879.54, y=16.00, z=-346.32] died: uridk died
+[04Aug2025 02:54:03.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['uridk'/105424, l='ServerLevel[world]', x=902.45, y=14.34, z=-351.55] died: uridk suffocated in a wall
+[04Aug2025 02:54:59.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Monster Hunter]
+[04Aug2025 02:55:03.018] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['PATITOELdios'/105806, l='ServerLevel[world]', x=898.69, y=16.57, z=-348.55] died: PATITOELdios suffocated in a wall
+[04Aug2025 02:55:42.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/95579, l='ServerLevel[world]', x=874.55, y=9.00, z=-358.82] died: PATITOELdios died
+[04Aug2025 02:55:46.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/104379, l='ServerLevel[world]', x=881.30, y=15.90, z=-348.30] died: PATITOELdios died
+[04Aug2025 02:56:15.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/104580, l='ServerLevel[world]', x=875.98, y=10.00, z=-357.12] died: PATITOELdios died
+[04Aug2025 02:57:05.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]

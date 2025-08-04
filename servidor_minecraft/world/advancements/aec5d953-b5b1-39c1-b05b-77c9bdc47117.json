@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "spore:slasher": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:50:14 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2025-08-04 01:48:58 +0000"
@@ -722,6 +728,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-08-04 01:43:06 +0000"
+    },
+    "done": true
+  },
+  "spore:jagd": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:47:04 +0000"
     },
     "done": true
   },
@@ -2060,6 +2072,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-04 00:45:13 +0000"
+    },
+    "done": true
+  },
+  "spore:knight": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:49:28 +0000"
     },
     "done": true
   },
