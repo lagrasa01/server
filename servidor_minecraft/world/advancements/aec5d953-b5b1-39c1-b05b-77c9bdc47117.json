@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-04 02:44:34 +0000"
+    },
+    "done": true
+  },
   "spore:braiomil": {
     "criteria": {
       "hurt_infected": "2025-08-04 02:00:52 +0000"
@@ -1151,6 +1157,12 @@
     },
     "done": true
   },
+  "spore:brute": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:42:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "has_the_recipe": "2025-08-04 00:40:38 +0000"
@@ -1643,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-04 02:44:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-04 00:40:38 +0000"
@@ -1928,6 +1946,12 @@
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-08-04 01:43:06 +0000"
+    },
+    "done": true
+  },
+  "spore:howler": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:37:33 +0000"
     },
     "done": true
   },
@@ -2237,6 +2261,12 @@
     },
     "done": true
   },
+  "spore:nuclea": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:44:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-08-04 01:01:33 +0000"
@@ -2366,6 +2396,12 @@
   "spore:inquisitor": {
     "criteria": {
       "hurt_by_infected": "2025-08-04 02:11:32 +0000"
+    },
+    "done": true
+  },
+  "spore:griefer": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:43:44 +0000"
     },
     "done": true
   },
@@ -3055,6 +3091,12 @@
   "superbwarfare:main/root": {
     "criteria": {
       "0": "2025-08-04 00:33:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-04 02:44:34 +0000"
     },
     "done": true
   },

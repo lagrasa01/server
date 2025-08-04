@@ -2266,6 +2266,12 @@
     },
     "done": true
   },
+  "spore:nuclea": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_glazed_terracotta": {
     "criteria": {
       "has_green_terracotta": "2025-08-04 02:15:32 +0000"

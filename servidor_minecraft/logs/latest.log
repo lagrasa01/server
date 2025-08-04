@@ -1766,3 +1766,48 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 02:34:43.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Isn't It Iron Pick]
 [04Aug2025 02:34:50.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
 [04Aug2025 02:36:31.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['el_lolo'/95195, l='ServerLevel[world]', x=889.83, y=20.00, z=-348.42] died: el_lolo suffocated in a wall
+[04Aug2025 02:37:25.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by cheesepuff
+[04Aug2025 02:37:25.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Peter the horse is here]
+[04Aug2025 02:37:27.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [It's a bird! No it's a plane! OH WAI]
+[04Aug2025 02:37:33.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Siren Head wannabe]
+[04Aug2025 02:37:34.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Howler
+[04Aug2025 02:37:36.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was slain by Howler
+[04Aug2025 02:37:56.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['DawnsSlayers'/96865, l='ServerLevel[world]', x=780.30, y=45.00, z=57.58] died: DawnsSlayers was eaten by a Dusktrap
+[04Aug2025 02:38:05.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 02:38:51.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to PATITOELdios]
+[04Aug2025 02:38:53.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['TVGuy'/97267, l='ServerLevel[world]', x=956.57, y=33.00, z=-182.42] died: TVGuy suffocated in a wall
+[04Aug2025 02:38:55.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was fungi-fied by Brute
+[04Aug2025 02:39:02.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:39:25.017] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['PATITOELdios'/96090, l='ServerLevel[world]', x=867.93, y=2.00, z=-300.93] died: PATITOELdios was shot by Skeleton
+[04Aug2025 02:39:35.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk forgot Phayres was a bioweapon
+[04Aug2025 02:39:51.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['el_lolo'/98275, l='ServerLevel[world]', x=886.45, y=10.42, z=-361.55] died: el_lolo suffocated in a wall
+[04Aug2025 02:40:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:42:09.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Howler
+[04Aug2025 02:42:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Infected Villager
+[04Aug2025 02:42:46.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:42:52.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Brute
+[04Aug2025 02:42:52.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Weird looking turtle]
+[04Aug2025 02:43:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Stalker
+[04Aug2025 02:43:10.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:43:11.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/94447, l='ServerLevel[world]', x=867.48, y=7.00, z=-394.48] died: el_lolo died
+[04Aug2025 02:43:18.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 02:43:21.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Howler
+[04Aug2025 02:43:44.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Funny explosion meme]
+[04Aug2025 02:43:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot how bad Braiomil smelled
+[04Aug2025 02:43:58.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Knight
+[04Aug2025 02:44:10.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Peter the horse is here]
+[04Aug2025 02:44:11.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Brute
+[04Aug2025 02:44:18.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:44:36.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported 3 entities to el_lolo]
+[04Aug2025 02:44:40.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was fungi-fied by Howler
+[04Aug2025 02:44:41.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by cheesepuff
+[04Aug2025 02:44:53.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:45:24.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Brute
+[04Aug2025 02:45:30.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:45:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was doomed to fall
+[04Aug2025 02:45:44.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Howler
+[04Aug2025 02:45:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:45:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Scanning time]
+[04Aug2025 02:45:54.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 02:46:02.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Brute
+[04Aug2025 02:46:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot how bad Braiomil smelled
