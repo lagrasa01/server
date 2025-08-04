@@ -1548,3 +1548,69 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 01:04:00.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Sweet Dreams]
 [04Aug2025 01:04:40.710] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
 [04Aug2025 01:05:33.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Acquire Hardware]
+[04Aug2025 01:06:29.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Time to Tinker]
+[04Aug2025 01:07:11.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/19651, l='ServerLevel[world]', x=379.96, y=-9.00, z=139.78] died: Whisper was blown up by Creeper
+[04Aug2025 01:07:41.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Monster Hunter]
+[04Aug2025 01:09:51.278] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[04Aug2025 01:09:55.254] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[04Aug2025 01:12:45.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [I am not a worm !]
+[04Aug2025 01:12:45.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Meet the team]
+[04Aug2025 01:13:00.414] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['DawnsSlayers'/28905, l='ServerLevel[world]', x=463.70, y=-18.00, z=285.33] died: DawnsSlayers was blown up by Creeper
+[04Aug2025 01:15:05.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_lolo> zzzz
+[04Aug2025 01:15:06.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_lolo> zzz
+[04Aug2025 01:15:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzzzz
+[04Aug2025 01:15:31.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Disconnected
+[04Aug2025 01:15:31.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
+[04Aug2025 01:15:31.089] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
+[04Aug2025 01:15:55.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:62758] logged in with entity id 35309 at (225.4758582763722, 111.0, -45.51302589623618)
+[04Aug2025 01:15:55.066] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[04Aug2025 01:15:55.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[04Aug2025 01:15:55.096] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[04Aug2025 01:15:56.053] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[04Aug2025 01:15:56.054] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[04Aug2025 01:15:58.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[04Aug2025 01:15:59.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[04Aug2025 01:15:59.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[04Aug2025 01:16:16.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Azami'/35261, l='ServerLevel[world]', x=1507.58, y=-11.00, z=-75.05] died: Azami was slain by Enderman
+[04Aug2025 01:18:48.271] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=226, y=111, z=-45}
+[04Aug2025 01:18:48.271] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=226, y=111, z=-45}
+[04Aug2025 01:26:52.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: el_lolo lost connection: Disconnected
+[04Aug2025 01:26:52.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo left the game
+[04Aug2025 01:26:52.919] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client el_lolo
+[04Aug2025 01:27:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzzzz
+[04Aug2025 01:27:53.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Disconnected
+[04Aug2025 01:27:53.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
+[04Aug2025 01:27:53.366] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
+[04Aug2025 01:28:17.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:63422] logged in with entity id 44357 at (225.19650318806868, 111.0, -46.34245161737691)
+[04Aug2025 01:28:17.254] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[04Aug2025 01:28:17.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[04Aug2025 01:28:17.291] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[04Aug2025 01:28:18.129] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[04Aug2025 01:28:18.130] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[04Aug2025 01:28:19.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[04Aug2025 01:28:20.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[04Aug2025 01:28:20.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[04Aug2025 01:29:33.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TokenOni420'/42403, l='ServerLevel[world]', x=1087.38, y=-27.00, z=-69.60] died: TokenOni420 was blown up by Creeper
+[04Aug2025 01:30:10.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Meet the Sniper]
+[04Aug2025 01:30:10.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Meet the team]
+[04Aug2025 01:30:24.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Spore]
+[04Aug2025 01:33:08.864] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/49226, l='ServerLevel[world]', x=886.48, y=-32.00, z=-481.39] died: ExeedingSky74 was slain by Enderman
+[04Aug2025 01:35:35.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=39, z=-401} BlockPos{x=882, y=42, z=-401}
+[04Aug2025 01:35:35.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=39, z=-401} BlockPos{x=882, y=42, z=-401}
+[04Aug2025 01:35:37.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=40, z=-400} BlockPos{x=883, y=42, z=-401}
+[04Aug2025 01:35:38.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=40, z=-400} BlockPos{x=883, y=42, z=-401}
+[04Aug2025 01:40:35.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> zzzz
+[04Aug2025 01:40:39.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzz
+[04Aug2025 01:41:12.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> 901 19 -387
+[04Aug2025 01:41:42.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['That_Insane_Guy'/44585, l='ServerLevel[world]', x=229.00, y=40.69, z=130.55] died: That_Insane_Guy was impaled on a stalagmite
+[04Aug2025 01:43:08.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Cover Me with Diamonds]
+[04Aug2025 01:44:22.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: el_lolo[/172.27.94.119:64264] logged in with entity id 57202 at (1089.3232931748678, 70.0, -56.666846703071734)
+[04Aug2025 01:44:22.649] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player el_lolo
+[04Aug2025 01:44:22.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo joined the game
+[04Aug2025 01:44:22.701] [Server thread/INFO] [Jade/]: Syncing config to el_lolo (9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9)
+[04Aug2025 01:44:22.864] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of el_lolo (18)
+[04Aug2025 01:44:22.865] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to el_lolo
+[04Aug2025 01:44:24.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9
+[04Aug2025 01:44:25.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9
+[04Aug2025 01:44:25.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player el_lolo (9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9) successfully connected to voice chat
+[04Aug2025 01:44:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> 901 19 -387
