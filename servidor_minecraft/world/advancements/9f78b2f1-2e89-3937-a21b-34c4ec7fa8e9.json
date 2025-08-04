@@ -1702,6 +1702,24 @@
     },
     "done": true
   },
+  "spore:braiomil": {
+    "criteria": {
+      "hurt_infected": "2025-08-04 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_villager": {
+    "criteria": {
+      "hurt_infected": "2025-08-04 02:01:05 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:01:45 +0000"
+    },
+    "done": true
+  },
   "spore:busser": {
     "criteria": {
       "hurt_by_infected": "2025-08-04 01:54:01 +0000"
@@ -1711,6 +1729,18 @@
   "spore:inf_mobs": {
     "criteria": {
       "hurt_by_infected": "2025-08-04 01:54:01 +0000"
+    },
+    "done": true
+  },
+  "spore:howler": {
+    "criteria": {
+      "hurt_infected": "2025-08-04 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "spore:knight": {
+    "criteria": {
+      "hurt_infected": "2025-08-04 02:01:13 +0000"
     },
     "done": true
   },

@@ -2772,9 +2772,21 @@
     },
     "done": true
   },
+  "spore:inf_villager": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-04 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 01:56:07 +0000"
     },
     "done": true
   },
@@ -2871,6 +2883,18 @@
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-04 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "spore:howler": {
+    "criteria": {
+      "hurt_infected": "2025-08-04 02:00:33 +0000"
+    },
+    "done": true
+  },
+  "spore:knight": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 01:57:45 +0000"
     },
     "done": true
   },

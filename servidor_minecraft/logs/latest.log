@@ -1655,3 +1655,52 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 01:55:25.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/65666, l='ServerLevel[world]', x=903.30, y=14.00, z=-386.45] died: PATITOELdios was slain by PATITOELdios
 [04Aug2025 01:55:40.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
 [04Aug2025 01:56:00.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 01:56:07.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [A broken reflection]
+[04Aug2025 01:56:22.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/65735, l='ServerLevel[world]', x=901.50, y=14.00, z=-382.99] died: uridk was slain by uridk
+[04Aug2025 01:57:45.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Sir Arthur is that you ?]
+[04Aug2025 01:57:58.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Isn't It Iron Pick]
+[04Aug2025 01:59:49.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Dagon worshipper]
+[04Aug2025 02:00:33.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Siren Head wannabe]
+[04Aug2025 02:00:52.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [What is that smell...?]
+[04Aug2025 02:01:03.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [What is that smell...?]
+[04Aug2025 02:01:03.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Siren Head wannabe]
+[04Aug2025 02:01:05.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [So we don't have a deal ?]
+[04Aug2025 02:01:11.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [So we don't have a deal ?]
+[04Aug2025 02:01:12.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [He looks thirsty]
+[04Aug2025 02:01:13.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Sir Arthur is that you ?]
+[04Aug2025 02:01:14.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [So we don't have a deal ?]
+[04Aug2025 02:01:44.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has succumbed to the infection
+[04Aug2025 02:01:45.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [A broken reflection]
+[04Aug2025 02:01:47.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has succumbed to the infection
+[04Aug2025 02:01:49.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by uridk
+[04Aug2025 02:01:55.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by el_lolo
+[04Aug2025 02:02:09.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by PATITOELdios
+[04Aug2025 02:02:13.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/69379, l='ServerLevel[world]', x=768.34, y=49.00, z=61.78] died: WhisperFire26 was blown up by Creeper
+[04Aug2025 02:02:19.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by el_lolo
+[04Aug2025 02:02:30.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by uridk
+[04Aug2025 02:02:42.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by uridk
+[04Aug2025 02:02:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 02:03:01.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by PATITOELdios
+[04Aug2025 02:03:05.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo forgot PATITOELdios was a bioweapon
+[04Aug2025 02:03:11.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by PATITOELdios
+[04Aug2025 02:03:16.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Who said you needed starch]
+[04Aug2025 02:03:16.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Scanning time]
+[04Aug2025 02:03:19.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot PATITOELdios was a bioweapon
+[04Aug2025 02:03:30.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot el_lolo was a bioweapon
+[04Aug2025 02:03:37.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by uridk
+[04Aug2025 02:03:44.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by el_lolo
+[04Aug2025 02:03:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by PATITOELdios
+[04Aug2025 02:03:57.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by PATITOELdios
+[04Aug2025 02:04:04.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by PATITOELdios
+[04Aug2025 02:04:18.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by uridk
+[04Aug2025 02:04:24.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by PATITOELdios
+[04Aug2025 02:04:51.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by PATITOELdios
+[04Aug2025 02:04:58.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by PATITOELdios
+[04Aug2025 02:05:04.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by PATITOELdios
+[04Aug2025 02:05:20.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by PATITOELdios
+[04Aug2025 02:05:27.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by PATITOELdios
+[04Aug2025 02:05:33.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by PATITOELdios
+[04Aug2025 02:05:39.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Pillage you say ?]
+[04Aug2025 02:05:39.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 02:05:40.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Infected Pillager
+[04Aug2025 02:06:12.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/71265, l='ServerLevel[world]', x=902.30, y=14.02, z=-384.41] died: PATITOELdios was slain by PATITOELdios
