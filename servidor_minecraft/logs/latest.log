@@ -1728,3 +1728,15 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 02:14:42.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Peter the horse is here]
 [04Aug2025 02:14:56.154] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/84654, l='ServerLevel[world]', x=887.78, y=13.00, z=-365.45] died: el_lolo died
 [04Aug2025 02:15:01.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/84892, l='ServerLevel[world]', x=895.70, y=4.86, z=-377.54] died: PATITOELdios died
+[04Aug2025 02:16:59.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to PATITOELdios]
+[04Aug2025 02:20:59.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 02:21:23.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [It's a bird! No it's a plane! OH WAI]
+[04Aug2025 02:21:37.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Verdathorn
+[04Aug2025 02:21:37.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Who gave the cactus legs?!]
+[04Aug2025 02:22:08.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 02:23:10.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Funny explosion meme]
+[04Aug2025 02:23:16.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Funny explosion meme]
+[04Aug2025 02:23:17.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo forgot Griefer was a bioweapon
+[04Aug2025 02:23:32.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 02:23:39.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/89075, l='ServerLevel[world]', x=857.30, y=27.42, z=-348.56] died: el_lolo was slain by uridk
+[04Aug2025 02:24:54.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]

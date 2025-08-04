@@ -1810,6 +1810,12 @@
     },
     "done": true
   },
+  "spore:thorn": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 02:21:37 +0000"
+    },
+    "done": true
+  },
   "spore:inf_mobs": {
     "criteria": {
       "hurt_by_infected": "2025-08-04 01:54:01 +0000"
@@ -1858,6 +1864,12 @@
     },
     "done": true
   },
+  "spore:scavenger": {
+    "criteria": {
+      "hurt_infected": "2025-08-04 02:21:23 +0000"
+    },
+    "done": true
+  },
   "spore:knight": {
     "criteria": {
       "hurt_infected": "2025-08-04 02:01:13 +0000"
@@ -1876,9 +1888,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-08-04 02:15:32 +0000"
+    },
+    "done": true
+  },
   "spore:inquisitor": {
     "criteria": {
       "hurt_by_infected": "2025-08-04 02:09:24 +0000"
+    },
+    "done": true
+  },
+  "spore:griefer": {
+    "criteria": {
+      "hurt_infected": "2025-08-04 02:23:16 +0000"
     },
     "done": true
   },
