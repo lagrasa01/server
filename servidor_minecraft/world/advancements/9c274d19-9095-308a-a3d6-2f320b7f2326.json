@@ -2801,6 +2801,12 @@
     },
     "done": true
   },
+  "spore:ogre": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 03:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-04 02:34:41 +0000"
@@ -2972,6 +2978,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-08-04 02:11:33 +0000"
+    },
+    "done": true
+  },
+  "spore:slasher": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 03:33:19 +0000"
     },
     "done": true
   },
@@ -3331,6 +3343,12 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/ancient_sandstone": {
+    "criteria": {
+      "has_ancient_sand": "2025-08-04 03:33:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-04 02:21:41 +0000"
@@ -3484,6 +3502,12 @@
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2025-08-04 02:34:41 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_ancient_sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-04 03:33:06 +0000"
     },
     "done": true
   },

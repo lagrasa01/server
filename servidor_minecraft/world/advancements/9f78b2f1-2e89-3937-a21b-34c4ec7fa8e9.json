@@ -47,6 +47,7 @@
       "minecraft:savanna_plateau": "2025-08-04 00:33:56 +0000",
       "minecraft:dark_forest": "2025-08-04 01:09:16 +0000",
       "minecraft:river": "2025-08-04 01:01:33 +0000",
+      "minecraft:dripstone_caves": "2025-08-04 03:28:52 +0000",
       "minecraft:forest": "2025-08-04 01:10:29 +0000",
       "minecraft:lush_caves": "2025-08-04 01:52:51 +0000",
       "minecraft:jungle": "2025-08-04 01:07:36 +0000",
@@ -1514,7 +1515,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-08-04 01:07:41 +0000"
+      "minecraft:skeleton": "2025-08-04 03:29:10 +0000",
+      "minecraft:spider": "2025-08-04 01:07:41 +0000",
+      "minecraft:creeper": "2025-08-04 03:29:32 +0000"
     },
     "done": false
   },
@@ -1770,6 +1773,12 @@
     },
     "done": true
   },
+  "spore:ogre": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 03:30:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-04 02:28:10 +0000"
@@ -1797,6 +1806,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-08-04 02:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-04 03:26:36 +0000"
     },
     "done": true
   },
@@ -2037,6 +2052,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-04 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-08-04 03:29:32 +0000"
     },
     "done": true
   },
@@ -2439,6 +2460,12 @@
   "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-08-04 03:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-04 03:29:32 +0000"
     },
     "done": true
   },
@@ -3102,6 +3129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-04 03:26:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 03:21:46 +0000"
@@ -3315,6 +3348,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-04 03:29:32 +0000"
     },
     "done": true
   },

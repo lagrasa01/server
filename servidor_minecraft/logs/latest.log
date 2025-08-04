@@ -1884,3 +1884,23 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 03:27:05.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/115812, l='ServerLevel[world]', x=189.17, y=-2.00, z=-108.16] died: el_lolo was slain by PATITOELdios
 [04Aug2025 03:27:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo forgot Inquisitor was a bioweapon
 [04Aug2025 03:27:12.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Inquisitor
+[04Aug2025 03:28:05.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 03:28:08.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:30:01.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Ogre
+[04Aug2025 03:30:01.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Get out from my swamp!]
+[04Aug2025 03:30:05.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Ogre
+[04Aug2025 03:30:05.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Get out from my swamp!]
+[04Aug2025 03:30:15.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:31:21.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[04Aug2025 03:31:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:33:16.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 03:33:19.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Captain Hook]
+[04Aug2025 03:33:26.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was shot by Phayres
+[04Aug2025 03:33:27.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 03:33:40.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to PATITOELdios]
+[04Aug2025 03:34:41.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 03:35:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Ogre
+[04Aug2025 03:36:17.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 03:37:16.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Phayres
+[04Aug2025 03:37:30.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 03:37:41.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/122800, l='ServerLevel[world]', x=203.93, y=-28.00, z=-91.03] died: el_lolo was shot by Skeleton
