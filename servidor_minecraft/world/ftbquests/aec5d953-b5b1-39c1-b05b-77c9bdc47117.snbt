@@ -4,9 +4,19 @@
 	name: "PATITOELdios#aec5d953"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		1B7B792DE5B593AF: 1
+	}
+	started: {
+		767B85BB61BD91E3: 1754268811977L
+		1B7B792DE5B593AF: 1754268811977L
+		0000000000000001: 1754268811977L
+		27B728A9C5D03C1A: 1754268811977L
+	}
+	completed: {
+		1B7B792DE5B593AF: 1754268811977L
+		27B728A9C5D03C1A: 1754268811977L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }
