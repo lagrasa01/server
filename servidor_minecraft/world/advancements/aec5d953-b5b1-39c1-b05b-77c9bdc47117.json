@@ -1030,6 +1030,7 @@
       "rocky_meadow": "2025-08-04 01:02:15 +0000",
       "magnolia_highlands": "2025-08-04 00:43:20 +0000",
       "sparse_redwoods": "2025-08-04 01:06:50 +0000",
+      "towering_cliffs": "2025-08-04 23:43:59 +0000",
       "chalk_cliffs": "2025-08-04 01:30:50 +0000",
       "bamboo_forest": "2025-08-04 01:05:13 +0000",
       "grassland": "2025-08-04 04:05:25 +0000",
@@ -1045,6 +1046,7 @@
       "rocky_meadow": "2025-08-04 01:02:15 +0000",
       "magnolia_highlands": "2025-08-04 00:43:20 +0000",
       "sparse_redwoods": "2025-08-04 01:06:50 +0000",
+      "towering_cliffs": "2025-08-04 23:43:59 +0000",
       "chalk_cliffs": "2025-08-04 01:30:50 +0000",
       "bamboo_forest": "2025-08-04 01:05:13 +0000",
       "grassland": "2025-08-04 04:05:25 +0000",
@@ -4551,6 +4553,18 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-08-04 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "spore:usurper": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 23:45:28 +0000"
+    },
+    "done": true
+  },
+  "spore:delusioner": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 23:44:59 +0000"
     },
     "done": true
   },

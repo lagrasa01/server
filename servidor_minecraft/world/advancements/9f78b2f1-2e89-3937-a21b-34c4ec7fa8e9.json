@@ -3742,5 +3742,35 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-08-04 23:41:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "redwood_log": "2025-08-04 23:41:04 +0000"
+    },
+    "done": false
+  },
+  "spore:delusioner": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 23:41:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 23:41:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
