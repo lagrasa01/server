@@ -1929,3 +1929,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 03:44:23.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo fell from a high place
 [04Aug2025 03:44:37.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
 [04Aug2025 03:44:51.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[04Aug2025 03:48:00.358] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/124692, l='ServerLevel[world]', x=224.38, y=1.00, z=-84.38] died: PATITOELdios died
+[04Aug2025 03:53:28.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [And the winner of the Darwin awards is ?]
+[04Aug2025 03:55:21.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 03:56:09.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[04Aug2025 03:57:59.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
