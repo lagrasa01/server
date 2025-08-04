@@ -1951,3 +1951,7 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Aug2025 04:20:59.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
 [04Aug2025 04:22:30.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
 [04Aug2025 04:26:37.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/144635, l='ServerLevel[world]', x=556.55, y=65.00, z=809.14] died: WhisperFire26 was blown up by Creeper
+[04Aug2025 04:32:32.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk fell from a high place
+[04Aug2025 04:32:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[04Aug2025 04:32:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo fell from a high place
+[04Aug2025 04:33:00.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]

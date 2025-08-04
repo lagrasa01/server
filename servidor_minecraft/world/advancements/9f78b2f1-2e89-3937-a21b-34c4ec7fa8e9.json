@@ -668,8 +668,10 @@
       "rocky_meadow": "2025-08-04 01:02:18 +0000",
       "magnolia_highlands": "2025-08-04 00:44:05 +0000",
       "sparse_redwoods": "2025-08-04 01:06:55 +0000",
+      "towering_cliffs": "2025-08-04 04:33:58 +0000",
       "chalk_cliffs": "2025-08-04 01:48:40 +0000",
       "bamboo_forest": "2025-08-04 01:05:06 +0000",
+      "temperate_grove": "2025-08-04 04:34:04 +0000",
       "grassland": "2025-08-04 04:03:31 +0000",
       "prairie": "2025-08-04 04:02:13 +0000",
       "redwoods": "2025-08-04 01:06:18 +0000"
@@ -683,8 +685,10 @@
       "rocky_meadow": "2025-08-04 01:02:18 +0000",
       "magnolia_highlands": "2025-08-04 00:44:05 +0000",
       "sparse_redwoods": "2025-08-04 01:06:55 +0000",
+      "towering_cliffs": "2025-08-04 04:33:58 +0000",
       "chalk_cliffs": "2025-08-04 01:48:40 +0000",
       "bamboo_forest": "2025-08-04 01:05:06 +0000",
+      "temperate_grove": "2025-08-04 04:34:04 +0000",
       "grassland": "2025-08-04 04:03:31 +0000",
       "prairie": "2025-08-04 04:02:13 +0000",
       "redwoods": "2025-08-04 01:06:18 +0000"
@@ -2680,6 +2684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-04 04:34:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-04 02:34:43 +0000"
@@ -3106,6 +3116,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-08-04 04:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-04 03:11:23 +0000"
@@ -3319,6 +3335,12 @@
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2025-08-04 03:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-04 04:33:04 +0000"
     },
     "done": true
   },

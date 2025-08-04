@@ -704,6 +704,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-04 03:02:59 +0000",
+      "minecraft:spider": "2025-08-04 04:25:56 +0000",
       "minecraft:enderman": "2025-08-04 00:41:06 +0000",
       "minecraft:zombie_villager": "2025-08-04 03:26:08 +0000"
     },
@@ -922,6 +923,12 @@
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-08-04 03:58:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2025-08-04 04:26:41 +0000"
     },
     "done": true
   },
@@ -1825,6 +1832,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:32:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 01:48:58 +0000"
@@ -2707,6 +2720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-04 04:32:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-04 00:35:24 +0000"
@@ -2818,6 +2837,12 @@
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-04 03:30:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:32:17 +0000"
     },
     "done": true
   },
@@ -3169,6 +3194,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:32:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-08-04 01:01:33 +0000"
@@ -3346,6 +3377,12 @@
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-08-04 03:58:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
+    "criteria": {
+      "has_redwood_shrub": "2025-08-04 04:27:01 +0000"
     },
     "done": true
   },
@@ -3586,6 +3623,12 @@
   "regions_unexplored:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-08-04 01:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-04 04:25:57 +0000"
     },
     "done": true
   },
@@ -4135,6 +4178,12 @@
       "minecraft:savanna": "2025-08-04 00:54:45 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-04 04:32:17 +0000"
+    },
+    "done": true
   },
   "immersiveengineering:recipes/misc/crafting/wirecutter": {
     "criteria": {
