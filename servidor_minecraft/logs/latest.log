@@ -142,3 +142,24 @@
 [05Aug2025 00:42:23.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonardodpxd lost connection: Disconnected
 [05Aug2025 00:42:23.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd left the game
 [05Aug2025 00:42:23.209] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonardodpxd
+[05Aug2025 00:45:35.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: el_lolo[/172.27.94.119:49196] logged in with entity id 40143 at (365.69999998807907, 53.0, 656.7335133336121)
+[05Aug2025 00:45:35.687] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player el_lolo
+[05Aug2025 00:45:35.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo joined the game
+[05Aug2025 00:45:35.767] [Server thread/INFO] [Jade/]: Syncing config to el_lolo (9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9)
+[05Aug2025 00:45:35.868] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of el_lolo (18)
+[05Aug2025 00:45:35.868] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to el_lolo
+[05Aug2025 00:45:37.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9
+[05Aug2025 00:45:38.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9
+[05Aug2025 00:45:38.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player el_lolo (9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9) successfully connected to voice chat
+[05Aug2025 00:46:42.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonardodpxd[/172.27.77.103:53259] logged in with entity id 40478 at (363.30000001192093, 51.0, 658.2321314494815)
+[05Aug2025 00:46:42.999] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Leonardodpxd
+[05Aug2025 00:46:43.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd joined the game
+[05Aug2025 00:46:43.045] [Server thread/INFO] [Jade/]: Syncing config to Leonardodpxd (84b009f0-4628-3d1b-bd44-a7d89aae487b)
+[05Aug2025 00:46:43.272] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonardodpxd (18)
+[05Aug2025 00:46:43.273] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonardodpxd
+[05Aug2025 00:46:45.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84b009f0-4628-3d1b-bd44-a7d89aae487b
+[05Aug2025 00:46:46.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84b009f0-4628-3d1b-bd44-a7d89aae487b
+[05Aug2025 00:46:46.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonardodpxd (84b009f0-4628-3d1b-bd44-a7d89aae487b) successfully connected to voice chat
+[05Aug2025 00:53:51.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Disconnected
+[05Aug2025 00:53:51.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
+[05Aug2025 00:53:51.604] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
