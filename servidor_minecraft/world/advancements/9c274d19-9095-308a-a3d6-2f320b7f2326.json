@@ -282,6 +282,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-08-04 01:43:34 +0000",
+      "shrubland": "2025-08-04 23:53:23 +0000",
       "barley_fields": "2025-08-04 01:13:04 +0000",
       "magnolia_highlands": "2025-08-04 00:44:39 +0000",
       "deciduous_forest": "2025-08-04 01:45:54 +0000",
@@ -297,6 +298,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-08-04 01:43:34 +0000",
+      "shrubland": "2025-08-04 23:53:23 +0000",
       "barley_fields": "2025-08-04 01:13:04 +0000",
       "magnolia_highlands": "2025-08-04 00:44:39 +0000",
       "deciduous_forest": "2025-08-04 01:45:54 +0000",
@@ -1272,6 +1274,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-04 01:45:31 +0000",
+      "apple": "2025-08-04 23:52:42 +0000",
       "mutton": "2025-08-04 03:01:13 +0000",
       "bread": "2025-08-04 01:01:18 +0000",
       "melon_slice": "2025-08-04 01:03:40 +0000",
@@ -4271,7 +4274,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "redwood_log": "2025-08-04 04:03:46 +0000"
+      "redwood_log": "2025-08-04 04:03:46 +0000",
+      "maple_log": "2025-08-04 23:51:38 +0000"
     },
     "done": false
   },
@@ -4473,15 +4477,171 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/redwood_leaf_carpet": {
     "criteria": {
       "has_item": "2025-08-04 23:39:19 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2025-08-04 23:51:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-08-04 23:51:38 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 23:51:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_maple_planks": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_ladder": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 23:51:38 +0000"
+    },
+    "done": true
+  },
   "spore:delusioner": {
     "criteria": {
       "hurt_by_infected": "2025-08-04 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_maple_log": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_post": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_maple_post": {
+    "criteria": {
+      "has_item": "2025-08-04 23:51:51 +0000"
     },
     "done": true
   },

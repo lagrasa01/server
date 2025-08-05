@@ -654,6 +654,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-04 00:46:40 +0000",
+      "cooked_mutton": "2025-08-04 23:59:15 +0000",
       "beef": "2025-08-04 00:43:40 +0000",
       "bread": "2025-08-04 01:52:34 +0000",
       "glow_berries": "2025-08-04 03:00:42 +0000",
@@ -664,6 +665,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-08-04 01:00:26 +0000",
+      "shrubland": "2025-08-04 23:53:57 +0000",
       "pine_taiga": "2025-08-04 04:56:24 +0000",
       "barley_fields": "2025-08-04 04:02:03 +0000",
       "rocky_meadow": "2025-08-04 01:02:18 +0000",
@@ -682,6 +684,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-08-04 01:00:26 +0000",
+      "shrubland": "2025-08-04 23:53:57 +0000",
       "pine_taiga": "2025-08-04 04:56:24 +0000",
       "barley_fields": "2025-08-04 04:02:03 +0000",
       "rocky_meadow": "2025-08-04 01:02:18 +0000",
