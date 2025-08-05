@@ -244,3 +244,18 @@
 [05Aug2025 01:40:54.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonardodpxd moved wrongly!
 [05Aug2025 01:44:25.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was assassinated by Leonardodpxd
 [05Aug2025 01:44:59.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_lolo> &tp PATITOELdios el_lolo
+[05Aug2025 01:46:33.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[05Aug2025 01:46:52.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonardodpxd lost connection: Disconnected
+[05Aug2025 01:46:52.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd left the game
+[05Aug2025 01:46:52.311] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonardodpxd
+[05Aug2025 01:48:08.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[05Aug2025 01:49:04.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[05Aug2025 01:50:06.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[05Aug2025 01:50:19.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[05Aug2025 01:50:55.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[05Aug2025 01:51:39.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_lolo> zz
+[05Aug2025 01:52:29.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzzz
+[05Aug2025 01:54:31.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[05Aug2025 01:55:25.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[05Aug2025 01:55:38.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was assassinated by el_lolo
+[05Aug2025 01:55:56.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
