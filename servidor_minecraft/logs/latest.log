@@ -163,3 +163,17 @@
 [05Aug2025 00:53:51.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Disconnected
 [05Aug2025 00:53:51.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
 [05Aug2025 00:53:51.604] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
+[05Aug2025 00:55:20.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[05Aug2025 00:55:31.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[05Aug2025 00:55:32.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonardodpxd lost connection: Disconnected
+[05Aug2025 00:55:32.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd left the game
+[05Aug2025 00:55:32.607] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonardodpxd
+[05Aug2025 01:01:14.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PATITOELdios[/172.27.59.43:57910] logged in with entity id 45083 at (364.13802584243837, 48.0, 661.5163206059055)
+[05Aug2025 01:01:14.985] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player PATITOELdios
+[05Aug2025 01:01:14.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios joined the game
+[05Aug2025 01:01:15.027] [Server thread/INFO] [Jade/]: Syncing config to PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117)
+[05Aug2025 01:01:16.256] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PATITOELdios (18)
+[05Aug2025 01:01:16.257] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PATITOELdios
+[05Aug2025 01:01:18.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[05Aug2025 01:01:19.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[05Aug2025 01:01:19.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
