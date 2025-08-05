@@ -192,3 +192,30 @@
 [05Aug2025 01:11:14.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Meet the Spy]
 [05Aug2025 01:12:25.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
 [05Aug2025 01:13:13.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[05Aug2025 01:19:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzzzz
+[05Aug2025 01:19:21.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzzzzz
+[05Aug2025 01:19:21.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzzz
+[05Aug2025 01:19:22.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzz
+[05Aug2025 01:19:22.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> z
+[05Aug2025 01:19:23.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> z
+[05Aug2025 01:19:23.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> z
+[05Aug2025 01:19:23.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> z
+[05Aug2025 01:19:24.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> z
+[05Aug2025 01:19:48.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonardodpxd[/172.27.77.103:55640] logged in with entity id 52146 at (364.30249520116627, 55.0, 656.4401181735352)
+[05Aug2025 01:19:48.597] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Leonardodpxd
+[05Aug2025 01:19:48.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd joined the game
+[05Aug2025 01:19:48.662] [Server thread/INFO] [Jade/]: Syncing config to Leonardodpxd (84b009f0-4628-3d1b-bd44-a7d89aae487b)
+[05Aug2025 01:19:48.979] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonardodpxd (18)
+[05Aug2025 01:19:48.979] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonardodpxd
+[05Aug2025 01:19:50.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84b009f0-4628-3d1b-bd44-a7d89aae487b
+[05Aug2025 01:19:51.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84b009f0-4628-3d1b-bd44-a7d89aae487b
+[05Aug2025 01:19:51.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonardodpxd (84b009f0-4628-3d1b-bd44-a7d89aae487b) successfully connected to voice chat
+[05Aug2025 01:20:52.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was assassinated by Leonardodpxd
+[05Aug2025 01:21:00.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Pulsating Goober]
+[05Aug2025 01:21:43.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [The whole kitchen]
+[05Aug2025 01:22:07.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[05Aug2025 01:22:58.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[05Aug2025 01:23:33.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk moved wrongly!
+[05Aug2025 01:23:45.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was obliterated by PATITOELdios
+[05Aug2025 01:23:54.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[05Aug2025 01:24:55.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
