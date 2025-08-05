@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-05 00:24:40 +0000"
@@ -89,9 +95,27 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/torch": {
     "criteria": {
       "has_stick": "2025-08-05 00:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
     },
     "done": true
   },
@@ -122,6 +146,12 @@
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2025-08-05 00:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
     },
     "done": true
   },
@@ -173,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-08-05 00:17:21 +0000"
@@ -181,7 +217,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2025-08-05 00:17:13 +0000"
+      "minecraft:creeper": "2025-08-05 00:17:13 +0000",
+      "minecraft:drowned": "2025-08-05 00:35:55 +0000"
     },
     "done": false
   },
@@ -203,9 +240,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-08-05 00:17:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
     },
     "done": true
   },
@@ -281,9 +330,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-08-05 00:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
     },
     "done": true
   },
@@ -305,6 +366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-08-05 00:14:16 +0000"
@@ -314,6 +381,12 @@
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-08-05 00:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
     },
     "done": true
   },
@@ -407,6 +480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-08-05 00:17:21 +0000"
@@ -455,6 +534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-08-05 00:06:35 +0000"
@@ -485,6 +570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
   "spore:inf_human": {
     "criteria": {
       "hurt_infected": "2025-08-05 00:21:07 +0000"
@@ -503,9 +594,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-08-05 00:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
     },
     "done": true
   },
@@ -557,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
   "spore:inf_mobs": {
     "criteria": {
       "hurt_by_infected": "2025-08-05 00:07:25 +0000"
@@ -575,9 +696,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-08-05 00:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
     },
     "done": true
   },
@@ -617,6 +756,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_shrub": {
     "criteria": {
       "has_oak_sapling": "2025-08-05 00:32:45 +0000"
@@ -635,9 +792,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-08-05 00:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
     },
     "done": true
   },
@@ -719,6 +888,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-08-05 00:17:21 +0000"
@@ -734,6 +909,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-05 00:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
     },
     "done": true
   },
@@ -758,6 +939,12 @@
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-05 00:14:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-08-05 00:39:17 +0000"
     },
     "done": true
   },
@@ -830,6 +1017,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-08-05 00:24:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
     },
     "done": true
   },
@@ -1047,6 +1240,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/grit_sand": {
+    "criteria": {
+      "has_sand": "2025-08-05 00:37:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-08-05 00:15:16 +0000"
@@ -1084,6 +1289,12 @@
   "spore:specter": {
     "criteria": {
       "hurt_by_infected": "2025-08-05 00:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-05 00:37:15 +0000"
     },
     "done": true
   },
@@ -1125,6 +1336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-08-05 00:27:29 +0000",
@@ -1135,6 +1352,12 @@
   "superbwarfare:main/root": {
     "criteria": {
       "0": "2025-08-05 00:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-05 00:37:23 +0000"
     },
     "done": true
   },

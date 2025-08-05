@@ -130,3 +130,15 @@
 [05Aug2025 00:27:23.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has succumbed to the infection
 [05Aug2025 00:27:25.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
 [05Aug2025 00:27:30.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[05Aug2025 00:36:12.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[05Aug2025 00:37:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Stone Age]
+[05Aug2025 00:40:18.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[05Aug2025 00:41:06.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: el_lolo lost connection: Disconnected
+[05Aug2025 00:41:06.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo left the game
+[05Aug2025 00:41:06.106] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client el_lolo
+[05Aug2025 00:42:07.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios lost connection: Disconnected
+[05Aug2025 00:42:07.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios left the game
+[05Aug2025 00:42:07.458] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PATITOELdios
+[05Aug2025 00:42:23.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonardodpxd lost connection: Disconnected
+[05Aug2025 00:42:23.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd left the game
+[05Aug2025 00:42:23.209] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonardodpxd
