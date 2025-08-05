@@ -284,6 +284,7 @@
       "mauve_hills": "2025-08-04 01:43:34 +0000",
       "shrubland": "2025-08-04 23:53:23 +0000",
       "barley_fields": "2025-08-04 01:13:04 +0000",
+      "redstone_caves": "2025-08-05 01:36:57 +0000",
       "magnolia_highlands": "2025-08-04 00:44:39 +0000",
       "deciduous_forest": "2025-08-04 01:45:54 +0000",
       "towering_cliffs": "2025-08-04 04:18:03 +0000",
@@ -3981,7 +3982,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-04 03:11:50 +0000",
       "minecraft:spider": "2025-08-04 02:54:59 +0000",
-      "minecraft:creeper": "2025-08-04 03:16:09 +0000"
+      "minecraft:creeper": "2025-08-04 03:16:09 +0000",
+      "minecraft:enderman": "2025-08-05 01:34:24 +0000"
     },
     "done": false
   },
@@ -4706,9 +4708,21 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-08-05 01:36:57 +0000"
+    },
+    "done": false
+  },
   "spore:mound": {
     "criteria": {
       "hurt_infected": "2025-08-05 01:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-05 01:34:57 +0000"
     },
     "done": true
   },
