@@ -4646,15 +4646,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/statue": {
+  "spore:wendigo": {
     "criteria": {
-      "has_clay": "2025-08-05 00:29:55 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
-    "criteria": {
-      "has_sand": "2025-08-05 00:38:49 +0000"
+      "hurt_by_infected": "2025-08-05 00:10:50 +0000"
     },
     "done": true
   },
@@ -4670,15 +4664,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-08-05 00:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-08-05 00:29:55 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/oak_shrub": {
+  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
     "criteria": {
-      "has_oak_sapling": "2025-08-05 00:38:57 +0000"
+      "has_sand": "2025-08-05 00:38:49 +0000"
     },
     "done": true
   },
@@ -4688,15 +4688,15 @@
     },
     "done": true
   },
-  "spore:wendigo": {
-    "criteria": {
-      "hurt_by_infected": "2025-08-05 00:10:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-05 00:38:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-08-05 00:38:57 +0000"
     },
     "done": true
   },

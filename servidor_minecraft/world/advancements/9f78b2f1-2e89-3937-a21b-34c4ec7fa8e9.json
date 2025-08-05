@@ -3807,5 +3807,23 @@
     },
     "done": true
   },
+  "superbwarfare:main/physics_excalibur": {
+    "criteria": {
+      "0": "2025-08-05 01:10:10 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/super_container": {
+    "criteria": {
+      "0": "2025-08-05 01:09:30 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_infected": "2025-08-05 01:07:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

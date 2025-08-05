@@ -1034,6 +1034,7 @@
       "rocky_meadow": "2025-08-04 01:02:15 +0000",
       "magnolia_highlands": "2025-08-04 00:43:20 +0000",
       "sparse_redwoods": "2025-08-04 01:06:50 +0000",
+      "deciduous_forest": "2025-08-05 01:13:05 +0000",
       "towering_cliffs": "2025-08-04 23:43:59 +0000",
       "chalk_cliffs": "2025-08-04 01:30:50 +0000",
       "bamboo_forest": "2025-08-04 01:05:13 +0000",
@@ -1054,6 +1055,7 @@
       "rocky_meadow": "2025-08-04 01:02:15 +0000",
       "magnolia_highlands": "2025-08-04 00:43:20 +0000",
       "sparse_redwoods": "2025-08-04 01:06:50 +0000",
+      "deciduous_forest": "2025-08-05 01:13:05 +0000",
       "towering_cliffs": "2025-08-04 23:43:59 +0000",
       "chalk_cliffs": "2025-08-04 01:30:50 +0000",
       "bamboo_forest": "2025-08-04 01:05:13 +0000",
@@ -4676,6 +4678,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-08-05 00:41:55 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-05 01:11:14 +0000"
     },
     "done": true
   },

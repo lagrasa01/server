@@ -177,3 +177,18 @@
 [05Aug2025 01:01:18.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aec5d953-b5b1-39c1-b05b-77c9bdc47117
 [05Aug2025 01:01:19.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
 [05Aug2025 01:01:19.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
+[05Aug2025 01:07:35.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Meet the Spy]
+[05Aug2025 01:09:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Super Container]
+[05Aug2025 01:10:10.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Physics Excalibur]
+[05Aug2025 01:10:10.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:63459] logged in with entity id 48509 at (365.69999998807907, 48.0, 654.3000000119209)
+[05Aug2025 01:10:10.887] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[05Aug2025 01:10:10.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[05Aug2025 01:10:10.932] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[05Aug2025 01:10:11.575] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[05Aug2025 01:10:11.576] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[05Aug2025 01:10:13.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[05Aug2025 01:10:14.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[05Aug2025 01:10:14.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[05Aug2025 01:11:14.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Meet the Spy]
+[05Aug2025 01:12:25.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[05Aug2025 01:13:13.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
