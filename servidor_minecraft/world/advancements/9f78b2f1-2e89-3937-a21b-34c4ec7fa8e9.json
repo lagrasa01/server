@@ -3789,9 +3789,21 @@
     },
     "done": true
   },
+  "spore:usurper": {
+    "criteria": {
+      "hurt_infected": "2025-08-05 00:24:26 +0000"
+    },
+    "done": true
+  },
   "spore:inf_evoker": {
     "criteria": {
       "hurt_infected": "2025-08-05 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "spore:wendigo": {
+    "criteria": {
+      "hurt_infected": "2025-08-05 00:20:38 +0000"
     },
     "done": true
   },

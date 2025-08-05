@@ -4645,9 +4645,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-08-05 00:29:55 +0000"
+    },
+    "done": true
+  },
   "spore:inf_drowned": {
     "criteria": {
       "hurt_by_infected": "2025-08-05 00:17:22 +0000"
+    },
+    "done": true
+  },
+  "spore:usurper": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-05 00:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-08-05 00:29:55 +0000"
     },
     "done": true
   },
