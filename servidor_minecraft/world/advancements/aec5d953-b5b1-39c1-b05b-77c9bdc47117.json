@@ -971,6 +971,7 @@
       "minecraft:skeleton": "2025-08-04 03:02:59 +0000",
       "minecraft:spider": "2025-08-04 04:25:56 +0000",
       "minecraft:enderman": "2025-08-04 00:41:06 +0000",
+      "minecraft:drowned": "2025-08-05 00:18:28 +0000",
       "minecraft:zombie_villager": "2025-08-04 03:26:08 +0000"
     },
     "done": false
@@ -4560,15 +4561,39 @@
     },
     "done": true
   },
+  "spore:inf_drowned": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-05 00:08:09 +0000"
+    },
+    "done": true
+  },
   "spore:usurper": {
     "criteria": {
       "hurt_by_infected": "2025-08-04 23:45:28 +0000"
     },
     "done": true
   },
+  "spore:braurei": {
+    "criteria": {
+      "hurt_infected": "2025-08-05 00:07:27 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_evoker": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-05 00:10:34 +0000"
+    },
+    "done": true
+  },
   "spore:delusioner": {
     "criteria": {
       "hurt_by_infected": "2025-08-04 23:44:59 +0000"
+    },
+    "done": true
+  },
+  "spore:spitter": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-05 00:10:15 +0000"
     },
     "done": true
   },

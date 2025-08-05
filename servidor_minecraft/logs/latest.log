@@ -5,3 +5,111 @@
 [05Aug2025 00:04:23.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: el_lolo lost connection: Disconnected
 [05Aug2025 00:04:23.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo left the game
 [05Aug2025 00:04:23.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client el_lolo
+[05Aug2025 00:04:35.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:63043] logged in with entity id 13237 at (506.6154936876065, 131.0, 883.2974350844518)
+[05Aug2025 00:04:35.763] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[05Aug2025 00:04:35.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[05Aug2025 00:04:35.824] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[05Aug2025 00:04:36.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: el_lolo[/172.27.94.119:46855] logged in with entity id 13369 at (389.365488744216, 120.0, 820.4828827752168)
+[05Aug2025 00:04:36.347] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player el_lolo
+[05Aug2025 00:04:36.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo joined the game
+[05Aug2025 00:04:36.438] [Server thread/INFO] [Jade/]: Syncing config to el_lolo (9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9)
+[05Aug2025 00:04:36.496] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[05Aug2025 00:04:36.497] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[05Aug2025 00:04:36.676] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of el_lolo (18)
+[05Aug2025 00:04:36.678] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to el_lolo
+[05Aug2025 00:04:38.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9
+[05Aug2025 00:04:38.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[05Aug2025 00:04:39.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9
+[05Aug2025 00:04:39.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player el_lolo (9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9) successfully connected to voice chat
+[05Aug2025 00:04:39.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[05Aug2025 00:04:39.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[05Aug2025 00:06:35.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonardodpxd[/172.27.77.103:50363] logged in with entity id 14243 at (4.5, 113.0, 5.5)
+[05Aug2025 00:06:35.689] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Leonardodpxd
+[05Aug2025 00:06:35.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd joined the game
+[05Aug2025 00:06:35.758] [Server thread/INFO] [Jade/]: Syncing config to Leonardodpxd (84b009f0-4628-3d1b-bd44-a7d89aae487b)
+[05Aug2025 00:06:38.826] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonardodpxd (18)
+[05Aug2025 00:06:38.827] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonardodpxd
+[05Aug2025 00:06:45.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84b009f0-4628-3d1b-bd44-a7d89aae487b
+[05Aug2025 00:06:45.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[05Aug2025 00:06:46.254] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84b009f0-4628-3d1b-bd44-a7d89aae487b
+[05Aug2025 00:06:46.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonardodpxd (84b009f0-4628-3d1b-bd44-a7d89aae487b) successfully connected to voice chat
+[05Aug2025 00:07:25.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Merasmus the Wizard!]
+[05Aug2025 00:07:25.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Meet the team]
+[05Aug2025 00:07:27.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [The whole kitchen]
+[05Aug2025 00:07:38.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[05Aug2025 00:07:57.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk hit the ground too hard whilst trying to escape Infected Pillager
+[05Aug2025 00:08:09.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Atlantis must be real]
+[05Aug2025 00:08:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[05Aug2025 00:08:31.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [So we don't have a deal ?]
+[05Aug2025 00:08:33.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd was eaten alive by Infected Villager
+[05Aug2025 00:08:38.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Leonardodpxd'/15505, l='ServerLevel[world]', x=392.14, y=93.00, z=826.51] died: Leonardodpxd was assassinated by PATITOELdios
+[05Aug2025 00:08:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[05Aug2025 00:09:46.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was fungi-fied by Inquisitor
+[05Aug2025 00:10:03.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leonardodpxd> benet como se cogen las cosas
+[05Aug2025 00:10:15.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Captain Hook]
+[05Aug2025 00:10:15.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Meet the Sniper]
+[05Aug2025 00:10:34.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Bro let me go]
+[05Aug2025 00:10:34.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Bro let me go]
+[05Aug2025 00:10:50.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk forgot Wendigo was a bioweapon
+[05Aug2025 00:10:50.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Go back to Canada!]
+[05Aug2025 00:11:21.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was doomed to fall
+[05Aug2025 00:11:25.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was doomed to fall
+[05Aug2025 00:11:30.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [A broken reflection]
+[05Aug2025 00:11:34.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd was shot by Delusioner
+[05Aug2025 00:11:40.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was doomed to fall by Delusioner
+[05Aug2025 00:12:23.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=113, z=-9}
+[05Aug2025 00:12:27.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[05Aug2025 00:12:31.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[05Aug2025 00:13:06.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd fell from a high place
+[05Aug2025 00:13:43.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Inquisitor
+[05Aug2025 00:13:55.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot Inquisitor was a bioweapon
+[05Aug2025 00:15:06.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[05Aug2025 00:15:16.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[05Aug2025 00:15:52.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[05Aug2025 00:15:59.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/17871, l='ServerLevel[world]', x=507.65, y=71.00, z=791.32] died: uridk was shot by Skeleton
+[05Aug2025 00:17:13.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Monster Hunter]
+[05Aug2025 00:17:22.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Atlantis must be real]
+[05Aug2025 00:17:26.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was fungi-fied by Infected Drowned
+[05Aug2025 00:17:29.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Atlantis must be real]
+[05Aug2025 00:17:35.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Flash62724 '/21657, l='ServerLevel[world]', x=377.43, y=62.91, z=658.13] died: Flash62724  was slain by PATITOELdios
+[05Aug2025 00:17:39.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo forgot Infected Drowned was a bioweapon
+[05Aug2025 00:17:41.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Atlantis must be real]
+[05Aug2025 00:17:44.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd was eaten alive by Infected Drowned
+[05Aug2025 00:17:44.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/23198, l='ServerLevel[world]', x=356.96, y=62.56, z=647.11] died: uridk was gunned down by PATITOELdios
+[05Aug2025 00:17:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[05Aug2025 00:17:58.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[05Aug2025 00:18:16.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Leonardodpxd'/23725, l='ServerLevel[world]', x=353.44, y=62.54, z=647.30] died: Leonardodpxd was slain by PATITOELdios
+[05Aug2025 00:18:20.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/23567, l='ServerLevel[world]', x=351.16, y=62.84, z=643.37] died: el_lolo was slain by PATITOELdios
+[05Aug2025 00:18:57.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[05Aug2025 00:19:46.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hypnotizd'/25463, l='ServerLevel[world]', x=-15.47, y=5.65, z=49.30] died: Hypnotizd was slain by Enderman
+[05Aug2025 00:20:18.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[05Aug2025 00:20:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Pillage you say ?]
+[05Aug2025 00:20:30.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Pillage you say ?]
+[05Aug2025 00:20:35.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Go back to Canada!]
+[05Aug2025 00:20:38.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Go back to Canada!]
+[05Aug2025 00:21:07.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Brainzzz]
+[05Aug2025 00:21:07.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Floating eyes ?]
+[05Aug2025 00:23:39.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Phayres
+[05Aug2025 00:23:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Phayres
+[05Aug2025 00:23:44.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [How is it fair if they can fly ?!]
+[05Aug2025 00:23:47.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[05Aug2025 00:23:47.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd was eaten alive by Phayres
+[05Aug2025 00:23:54.848] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/27881, l='ServerLevel[world]', x=365.70, y=63.00, z=657.70] died: uridk was gunned down by PATITOELdios
+[05Aug2025 00:23:56.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/27625, l='ServerLevel[world]', x=367.30, y=63.02, z=656.13] died: el_lolo was gunned down by PATITOELdios
+[05Aug2025 00:24:00.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Meet the Spy]
+[05Aug2025 00:24:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Phayres
+[05Aug2025 00:24:04.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd was eaten alive by Phayres
+[05Aug2025 00:24:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[05Aug2025 00:24:14.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by el_lolo
+[05Aug2025 00:24:14.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=102, z=-5}
+[05Aug2025 00:24:14.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=103, z=-3}
+[05Aug2025 00:24:22.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Meet the sweaty sniper]
+[05Aug2025 00:24:22.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leonardodpxd> tp
+[05Aug2025 00:24:23.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was fungi-fied by Phayres
+[05Aug2025 00:24:23.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[05Aug2025 00:24:26.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios fell from a high place
+[05Aug2025 00:24:26.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Meet the sweaty sniper]
+[05Aug2025 00:24:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Phayres
+[05Aug2025 00:24:32.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was doomed to fall by Usurper
+[05Aug2025 00:24:36.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was doomed to fall
+[05Aug2025 00:24:42.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo fell from a high place

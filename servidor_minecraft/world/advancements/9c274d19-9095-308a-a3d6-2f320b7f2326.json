@@ -4477,21 +4477,45 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/maple_fence": {
-    "criteria": {
-      "has_maple_planks": "2025-08-04 23:51:51 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/regions_unexplored/redwood_leaf_carpet": {
     "criteria": {
       "has_item": "2025-08-04 23:39:19 +0000"
     },
     "done": true
   },
+  "spore:delusioner": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-04 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-08-04 23:51:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 23:51:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 23:51:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_shrub": {
     "criteria": {
       "has_maple_sapling": "2025-08-04 23:51:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-08-04 23:51:51 +0000"
     },
     "done": true
   },
@@ -4531,21 +4555,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
-    "criteria": {
-      "has_log": "2025-08-04 23:51:38 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/regions_unexplored/maple_chest": {
     "criteria": {
       "has_item": "2025-08-04 23:51:51 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 23:51:38 +0000"
     },
     "done": true
   },
@@ -4591,18 +4603,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2025-08-04 23:51:38 +0000"
-    },
-    "done": true
-  },
-  "spore:delusioner": {
-    "criteria": {
-      "hurt_by_infected": "2025-08-04 23:44:45 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-08-04 23:51:51 +0000"
@@ -4642,6 +4642,18 @@
   "everycomp:recipes/decorations/q/regions_unexplored/stripped_maple_post": {
     "criteria": {
       "has_item": "2025-08-04 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_drowned": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-05 00:17:22 +0000"
+    },
+    "done": true
+  },
+  "spore:wendigo": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-05 00:10:50 +0000"
     },
     "done": true
   },
