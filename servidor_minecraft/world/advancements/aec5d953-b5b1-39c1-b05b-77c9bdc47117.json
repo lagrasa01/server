@@ -5137,6 +5137,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-08-06 03:28:17 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_lead_to_raw_block_lead": {
     "criteria": {
       "has_raw_lead": "2025-08-06 03:18:38 +0000"

@@ -1283,10 +1283,12 @@
     "criteria": {
       "cooked_porkchop": "2025-08-04 01:45:31 +0000",
       "cooked_mutton": "2025-08-05 00:42:24 +0000",
+      "beef": "2025-08-06 03:32:36 +0000",
       "porkchop": "2025-08-06 02:27:52 +0000",
       "apple": "2025-08-04 23:52:42 +0000",
       "mutton": "2025-08-04 03:01:13 +0000",
       "bread": "2025-08-04 01:01:18 +0000",
+      "glow_berries": "2025-08-06 03:31:08 +0000",
       "melon_slice": "2025-08-04 01:03:40 +0000",
       "golden_carrot": "2025-08-04 02:58:21 +0000",
       "cooked_chicken": "2025-08-06 01:31:07 +0000"
@@ -4765,6 +4767,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead3": {
+    "criteria": {
+      "has_raw_lead": "2025-08-06 03:26:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-06 01:56:07 +0000"
@@ -4792,6 +4800,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-08-06 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-06 03:33:07 +0000"
     },
     "done": true
   },
@@ -4927,6 +4941,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-06 03:33:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead_from_blasting3": {
+    "criteria": {
+      "has_raw_lead": "2025-08-06 03:26:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-08-06 01:25:37 +0000"
@@ -4936,6 +4962,12 @@
   "immersiveengineering:recipes/misc/crafting/raw_nickel_to_raw_block_nickel": {
     "criteria": {
       "has_raw_nickel": "2025-08-06 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_lead_to_raw_block_lead": {
+    "criteria": {
+      "has_raw_lead": "2025-08-06 03:26:48 +0000"
     },
     "done": true
   },
@@ -4990,6 +5022,12 @@
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-06 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2025-08-06 03:33:07 +0000"
     },
     "done": true
   },
@@ -5053,6 +5091,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_block_lead_to_raw_lead": {
+    "criteria": {
+      "has_raw_block_lead": "2025-08-06 03:26:48 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_copper": {
     "criteria": {
       "has_copper_ingot": "2025-08-06 01:25:37 +0000"
@@ -5092,6 +5136,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-06 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2025-08-06 03:33:07 +0000"
     },
     "done": true
   },
@@ -5158,6 +5208,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-06 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-06 03:26:40 +0000"
     },
     "done": true
   },
