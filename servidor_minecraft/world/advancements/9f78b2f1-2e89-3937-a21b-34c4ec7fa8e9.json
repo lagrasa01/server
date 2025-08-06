@@ -4156,6 +4156,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/generator": {
+    "criteria": {
+      "has_component_iron": "2025-08-06 04:38:28 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
     "criteria": {
       "has_steel_ingot": "2025-08-06 02:09:36 +0000"

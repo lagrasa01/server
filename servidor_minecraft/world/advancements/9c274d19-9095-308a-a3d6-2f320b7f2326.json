@@ -5177,6 +5177,12 @@
     },
     "done": true
   },
+  "spore:brotkatze": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-06 04:44:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-08-06 04:02:20 +0000"
@@ -5354,6 +5360,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-06 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-06 04:37:30 +0000"
     },
     "done": true
   },

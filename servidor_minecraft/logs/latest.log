@@ -1715,3 +1715,9 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 04:34:04.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to 1819.000000, 64.000000, 671.000000]
 [06Aug2025 04:34:10.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
 [06Aug2025 04:34:15.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 04:44:49.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Brotkatze
+[06Aug2025 04:44:49.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [OW THAT WAS THAT SMELL!]
+[06Aug2025 04:44:49.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/100340, l='ServerLevel[world]', x=1814.60, y=64.56, z=668.72] died: PATITOELdios was gunned down by uridk
+[06Aug2025 04:45:00.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:48:53.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1820, y=64, z=673} BlockPos{x=1819, y=63, z=671}
+[06Aug2025 04:48:53.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1820, y=64, z=673} BlockPos{x=1819, y=63, z=671}
