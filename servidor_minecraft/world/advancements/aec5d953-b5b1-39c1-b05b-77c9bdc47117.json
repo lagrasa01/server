@@ -4688,5 +4688,11 @@
     },
     "done": true
   },
+  "spore:gazen": {
+    "criteria": {
+      "hurt_infected": "2025-08-06 01:38:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

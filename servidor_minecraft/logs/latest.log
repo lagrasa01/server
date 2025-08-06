@@ -1481,3 +1481,31 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 01:34:10.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
 [06Aug2025 01:34:10.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
 [06Aug2025 01:34:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 01:35:30.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios lost connection: Disconnected
+[06Aug2025 01:35:30.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios left the game
+[06Aug2025 01:35:30.447] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PATITOELdios
+[06Aug2025 01:35:35.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PATITOELdios[/172.27.59.43:59376] logged in with entity id 23274 at (365.4709108837065, 62.0, 656.3266423685673)
+[06Aug2025 01:35:35.105] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player PATITOELdios
+[06Aug2025 01:35:35.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios joined the game
+[06Aug2025 01:35:35.182] [Server thread/INFO] [Jade/]: Syncing config to PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117)
+[06Aug2025 01:35:35.405] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PATITOELdios (18)
+[06Aug2025 01:35:35.406] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PATITOELdios
+[06Aug2025 01:35:38.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[06Aug2025 01:35:39.158] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[06Aug2025 01:35:39.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
+[06Aug2025 01:36:22.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[06Aug2025 01:36:48.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[06Aug2025 01:38:48.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [You know what that means...]
+[06Aug2025 01:39:00.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was dismantled by GazenBreacher
+[06Aug2025 01:39:02.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten by GazenBreacher
+[06Aug2025 01:40:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was dismantled by GazenBreacher
+[06Aug2025 01:40:44.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[06Aug2025 01:41:00.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 01:42:07.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was slain by Specter
+[06Aug2025 01:42:09.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Meet the Spy]
+[06Aug2025 01:42:11.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/26213, l='ServerLevel[world]', x=363.14, y=62.77, z=653.29] died: el_lolo was gunned down by PATITOELdios
+[06Aug2025 01:42:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was slain by Specter
+[06Aug2025 01:42:20.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/26360, l='ServerLevel[world]', x=385.90, y=58.82, z=640.64] died: uridk was assassinated by PATITOELdios
+[06Aug2025 01:42:39.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [He looks thirsty]
+[06Aug2025 01:43:26.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[06Aug2025 01:43:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [I am not that blind]
