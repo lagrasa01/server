@@ -2,9 +2,7 @@
 	id: "9c274d19-9095-308a-a3d6-2f320b7f2326"
 	type: "player"
 	player_name: "uridk"
-	ranks: {
-		9c274d19-9095-308a-a3d6-2f320b7f2326: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "uridk"
 		"ftbteams:description": ""

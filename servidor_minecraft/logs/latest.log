@@ -1453,3 +1453,11 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 00:52:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
 [06Aug2025 00:52:44.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Banzai!]
 [06Aug2025 00:54:14.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[06Aug2025 00:54:28.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[06Aug2025 00:54:36.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[06Aug2025 00:54:39.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Tabcaps'/2643, l='ServerLevel[world]', x=289.67, y=28.00, z=704.57] died: Tabcaps was blown up by Creeper
+[06Aug2025 00:54:46.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[06Aug2025 00:54:53.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[06Aug2025 00:55:02.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[06Aug2025 00:55:17.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[06Aug2025 00:55:53.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]

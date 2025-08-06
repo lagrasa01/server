@@ -3807,6 +3807,24 @@
     },
     "done": true
   },
+  "spore:specter": {
+    "criteria": {
+      "hurt_infected": "2025-08-05 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/super_container": {
+    "criteria": {
+      "0": "2025-08-05 01:09:30 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/physics_excalibur": {
+    "criteria": {
+      "0": "2025-08-05 01:10:10 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2025-08-05 01:49:06 +0000"
@@ -3951,12 +3969,6 @@
     },
     "done": true
   },
-  "superbwarfare:main/physics_excalibur": {
-    "criteria": {
-      "0": "2025-08-05 01:10:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-08-05 01:49:06 +0000"
@@ -3984,12 +3996,6 @@
   "immersiveengineering:recipes/misc/crafting/voltmeter": {
     "criteria": {
       "has_copper_ingot": "2025-08-05 01:49:06 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/super_container": {
-    "criteria": {
-      "0": "2025-08-05 01:09:30 +0000"
     },
     "done": true
   },
@@ -4029,15 +4035,33 @@
     },
     "done": true
   },
-  "spore:specter": {
-    "criteria": {
-      "hurt_infected": "2025-08-05 01:07:35 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2025-08-05 01:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-06 00:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-06 00:58:27 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/banzai": {
+    "criteria": {
+      "0": "2025-08-06 00:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-06 00:58:27 +0000"
     },
     "done": true
   },
