@@ -656,6 +656,7 @@
       "cooked_porkchop": "2025-08-04 00:46:40 +0000",
       "chicken": "2025-08-06 01:33:04 +0000",
       "cooked_mutton": "2025-08-04 23:59:15 +0000",
+      "cooked_beef": "2025-08-06 01:59:31 +0000",
       "beef": "2025-08-04 00:43:40 +0000",
       "bread": "2025-08-04 01:52:34 +0000",
       "glow_berries": "2025-08-04 03:00:42 +0000",
@@ -4079,6 +4080,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-06 01:53:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-06 01:18:38 +0000"
@@ -4124,6 +4131,18 @@
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2025-08-06 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-08-06 02:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-06 02:04:49 +0000"
     },
     "done": true
   },
@@ -4175,15 +4194,33 @@
     },
     "done": true
   },
+  "superbwarfare:main/hammer": {
+    "criteria": {
+      "0": "2025-08-06 02:04:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2025-08-06 01:05:33 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-06 01:53:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_shrub": {
     "criteria": {
       "has_oak_sapling": "2025-08-06 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-06 01:54:27 +0000"
     },
     "done": true
   },
@@ -4253,6 +4290,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/survey_tools": {
+    "criteria": {
+      "has_hammer": "2025-08-06 02:03:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-06 01:18:38 +0000"
@@ -4286,6 +4329,18 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-08-06 01:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-06 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-08-06 01:53:01 +0000"
     },
     "done": true
   },
