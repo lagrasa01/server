@@ -5197,6 +5197,12 @@
     },
     "done": true
   },
+  "spore:thorn": {
+    "criteria": {
+      "hurt_infected": "2025-08-06 03:46:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-06 02:16:29 +0000"
