@@ -4894,6 +4894,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/storage_nickel_to_ingot_nickel": {
+    "criteria": {
+      "has_storage_nickel": "2025-08-06 03:08:19 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_block_nickel_to_raw_nickel": {
     "criteria": {
       "has_raw_block_nickel": "2025-08-06 02:19:08 +0000"
@@ -4912,6 +4918,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-08-06 03:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-06 02:17:28 +0000"
@@ -4921,6 +4933,12 @@
   "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-06 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-08-06 03:08:19 +0000"
     },
     "done": true
   },
@@ -4987,6 +5005,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
     "criteria": {
       "has_aluminum_ingot": "2025-08-06 03:04:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-08-06 03:08:19 +0000"
     },
     "done": true
   },
@@ -5329,6 +5353,12 @@
   "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-06 02:16:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
+    "criteria": {
+      "has_ingot_nickel": "2025-08-06 03:08:19 +0000"
     },
     "done": true
   },

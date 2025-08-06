@@ -1537,3 +1537,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 02:51:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
 [06Aug2025 02:58:33.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Pulsating Goober]
 [06Aug2025 03:00:20.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/58625, l='ServerLevel[world]', x=1950.16, y=32.00, z=678.16] died: Whisper was blown up by Creeper
+[06Aug2025 03:12:48.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzzz
+[06Aug2025 03:16:25.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
