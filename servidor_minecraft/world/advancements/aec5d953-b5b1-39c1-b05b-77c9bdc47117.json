@@ -4732,6 +4732,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-08-06 03:02:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-06 02:15:36 +0000"
@@ -4828,6 +4834,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-08-06 03:02:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-06 02:15:36 +0000"
@@ -4843,6 +4855,12 @@
   "copycats:recipes/crafting/copycat_half_panel": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-06 03:04:31 +0000"
     },
     "done": true
   },
@@ -4966,6 +4984,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-06 03:04:31 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_board": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
@@ -5005,6 +5029,12 @@
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-08-06 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2025-08-06 03:04:31 +0000"
     },
     "done": true
   },
@@ -5110,6 +5140,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-08-06 03:02:13 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_block": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
@@ -5128,6 +5164,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/ingot_aluminum_to_storage_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2025-08-06 03:04:31 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_slab": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
@@ -5137,6 +5179,18 @@
   "copycats:recipes/crafting/copycat_ghost_block": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "spore:mound": {
+    "criteria": {
+      "hurt_infected": "2025-08-06 02:58:33 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_storage_aluminum": "2025-08-06 03:04:31 +0000"
     },
     "done": true
   },
@@ -5344,6 +5398,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-06 03:04:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-06 01:58:32 +0000"
@@ -5398,6 +5458,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-08-06 03:04:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-06 02:15:36 +0000"
@@ -5410,9 +5476,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-06 03:04:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-08-06 02:15:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-08-06 03:04:31 +0000"
     },
     "done": true
   },
@@ -5455,6 +5533,12 @@
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2025-08-06 03:02:13 +0000"
     },
     "done": true
   },

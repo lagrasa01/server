@@ -674,6 +674,7 @@
       "mauve_hills": "2025-08-04 01:00:26 +0000",
       "shrubland": "2025-08-04 23:53:57 +0000",
       "pine_taiga": "2025-08-04 04:56:24 +0000",
+      "ancient_delta": "2025-08-06 03:01:11 +0000",
       "barley_fields": "2025-08-04 04:02:03 +0000",
       "rocky_meadow": "2025-08-04 01:02:18 +0000",
       "ochard": "2025-08-06 02:31:54 +0000",
@@ -4249,6 +4250,12 @@
       "has_raw_gold": "2025-08-06 02:13:09 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2025-08-06 03:01:11 +0000"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/misc/crafting/sawblade": {
     "criteria": {

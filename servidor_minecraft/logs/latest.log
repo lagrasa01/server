@@ -1535,3 +1535,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 02:48:35.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [GET DOWN MISTER PRESIDENT]
 [06Aug2025 02:51:00.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was assassinated by uridk
 [06Aug2025 02:51:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 02:58:33.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Pulsating Goober]
+[06Aug2025 03:00:20.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/58625, l='ServerLevel[world]', x=1950.16, y=32.00, z=678.16] died: Whisper was blown up by Creeper
