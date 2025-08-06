@@ -1180,6 +1180,7 @@
       "cooked_porkchop": "2025-08-04 01:19:10 +0000",
       "cooked_mutton": "2025-08-04 00:45:08 +0000",
       "cooked_beef": "2025-08-04 02:20:49 +0000",
+      "apple": "2025-08-06 01:42:50 +0000",
       "melon_slice": "2025-08-04 01:09:43 +0000"
     },
     "done": false
@@ -4688,9 +4689,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-06 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-06 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "spore:stalker": {
+    "criteria": {
+      "hurt_infected": "2025-08-06 01:43:33 +0000"
+    },
+    "done": true
+  },
   "spore:gazen": {
     "criteria": {
       "hurt_infected": "2025-08-06 01:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-06 01:47:41 +0000"
     },
     "done": true
   },

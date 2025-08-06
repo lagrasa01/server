@@ -4279,6 +4279,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "small_oak_log": "2025-08-06 01:46:09 +0000",
       "redwood_log": "2025-08-04 04:03:46 +0000",
       "maple_log": "2025-08-04 23:51:38 +0000"
     },
@@ -4806,6 +4807,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-06 01:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-08-06 01:25:37 +0000"
@@ -4815,6 +4822,12 @@
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-08-06 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-06 01:47:58 +0000"
     },
     "done": true
   },
@@ -4929,6 +4942,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-08-06 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-06 01:42:09 +0000"
     },
     "done": true
   },
