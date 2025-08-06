@@ -3985,7 +3985,8 @@
       "minecraft:spider": "2025-08-04 02:54:59 +0000",
       "minecraft:creeper": "2025-08-04 03:16:09 +0000",
       "minecraft:enderman": "2025-08-05 01:34:24 +0000",
-      "minecraft:drowned": "2025-08-06 01:37:11 +0000"
+      "minecraft:drowned": "2025-08-06 01:37:11 +0000",
+      "minecraft:zombie_villager": "2025-08-06 02:20:16 +0000"
     },
     "done": false
   },
@@ -4807,9 +4808,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel3": {
+    "criteria": {
+      "has_raw_nickel": "2025-08-06 02:19:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-08-06 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_nickel_to_raw_nickel": {
+    "criteria": {
+      "has_raw_block_nickel": "2025-08-06 02:19:03 +0000"
     },
     "done": true
   },
@@ -4888,6 +4901,12 @@
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-08-06 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_nickel_to_raw_block_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-08-06 02:19:03 +0000"
     },
     "done": true
   },
@@ -4972,6 +4991,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2025-08-06 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_blasting3": {
+    "criteria": {
+      "has_raw_nickel": "2025-08-06 02:19:03 +0000"
     },
     "done": true
   },

@@ -1514,3 +1514,7 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 02:03:01.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [HAMMAH!]
 [06Aug2025 02:04:57.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Eighty!]
 [06Aug2025 02:11:02.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Monster Hunter'/27677, l='ServerLevel[world]', x=752.86, y=70.00, z=411.22] died, message: 'Monster Hunter was fungi-fied by Brotkatze'
+[06Aug2025 02:23:03.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo forgot Brotkatze was a bioweapon
+[06Aug2025 02:23:09.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/40022, l='ServerLevel[world]', x=599.19, y=66.00, z=429.51] died: el_lolo was assassinated by PATITOELdios
+[06Aug2025 02:25:47.016] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[06Aug2025 02:25:59.920] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
