@@ -1547,3 +1547,22 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 03:36:33.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Over-juiced]
 [06Aug2025 03:37:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was doomed to fall by Howler
 [06Aug2025 03:37:24.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was slain by Infected Pillager
+[06Aug2025 03:37:53.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 03:38:03.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/73674, l='ServerLevel[world]', x=1671.70, y=-29.00, z=725.35] died: uridk was assassinated by PATITOELdios
+[06Aug2025 03:39:43.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 03:40:20.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/73421, l='ServerLevel[world]', x=1689.43, y=-33.00, z=739.43] died: uridk was assassinated by PATITOELdios
+[06Aug2025 03:41:33.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 03:42:07.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 03:43:03.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was gunned down by el_lolo
+[06Aug2025 03:43:15.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 03:43:36.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 03:43:57.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was doomed to fall by Skeleton
+[06Aug2025 03:44:06.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 03:44:26.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was fungi-fied by Braiomil
+[06Aug2025 03:44:38.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Braiomil
+[06Aug2025 03:44:56.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 03:46:43.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was assassinated by PATITOELdios
+[06Aug2025 03:46:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Who gave the cactus legs?!]
+[06Aug2025 03:46:52.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 03:47:27.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was doomed to fall by Leaper
+[06Aug2025 03:47:30.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Leaper
