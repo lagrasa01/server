@@ -50,7 +50,9 @@
       "minecraft:dripstone_caves": "2025-08-04 03:17:34 +0000",
       "minecraft:lush_caves": "2025-08-04 01:31:52 +0000",
       "minecraft:jungle": "2025-08-04 01:07:32 +0000",
-      "minecraft:savanna": "2025-08-04 00:54:45 +0000"
+      "minecraft:flower_forest": "2025-08-06 02:30:15 +0000",
+      "minecraft:savanna": "2025-08-04 00:54:45 +0000",
+      "minecraft:plains": "2025-08-06 02:28:10 +0000"
     },
     "done": false
   },
@@ -1033,6 +1035,8 @@
       "bayou": "2025-08-05 00:26:06 +0000",
       "barley_fields": "2025-08-04 01:30:53 +0000",
       "rocky_meadow": "2025-08-04 01:02:15 +0000",
+      "ochard": "2025-08-06 02:32:11 +0000",
+      "flower_fields": "2025-08-06 02:30:27 +0000",
       "magnolia_highlands": "2025-08-04 00:43:20 +0000",
       "sparse_redwoods": "2025-08-04 01:06:50 +0000",
       "deciduous_forest": "2025-08-05 01:13:05 +0000",
@@ -1054,6 +1058,8 @@
       "bayou": "2025-08-05 00:26:06 +0000",
       "barley_fields": "2025-08-04 01:30:53 +0000",
       "rocky_meadow": "2025-08-04 01:02:15 +0000",
+      "ochard": "2025-08-06 02:32:11 +0000",
+      "flower_fields": "2025-08-06 02:30:27 +0000",
       "magnolia_highlands": "2025-08-04 00:43:20 +0000",
       "sparse_redwoods": "2025-08-04 01:06:50 +0000",
       "deciduous_forest": "2025-08-05 01:13:05 +0000",
@@ -4798,6 +4804,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-06 02:28:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-06 02:15:36 +0000"
@@ -4825,6 +4837,12 @@
   "copycats:recipes/crafting/copycat_half_panel": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-06 02:29:02 +0000"
     },
     "done": true
   },
@@ -5014,6 +5032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-06 02:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-08-06 01:47:41 +0000"
@@ -5035,6 +5059,12 @@
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-06 02:16:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
+    "criteria": {
+      "has_waratah": "2025-08-06 02:31:25 +0000"
     },
     "done": true
   },
@@ -5077,6 +5107,12 @@
   "spore:stalker": {
     "criteria": {
       "hurt_infected": "2025-08-06 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-06 02:29:02 +0000"
     },
     "done": true
   },
