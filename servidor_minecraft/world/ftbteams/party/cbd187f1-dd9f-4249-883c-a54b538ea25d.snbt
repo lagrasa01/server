@@ -1,0 +1,15 @@
+{
+	id: "cbd187f1-dd9f-4249-883c-a54b538ea25d"
+	type: "party"
+	owner: "9c274d19-9095-308a-a3d6-2f320b7f2326"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "POCHOLOS"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8659FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -4702,21 +4702,15 @@
     },
     "done": true
   },
-  "spore:braurei": {
-    "criteria": {
-      "hurt_infected": "2025-08-05 01:21:43 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:spelunker": {
-    "criteria": {
-      "redstone_caves": "2025-08-05 01:36:57 +0000"
-    },
-    "done": false
-  },
   "spore:mound": {
     "criteria": {
       "hurt_infected": "2025-08-05 01:21:00 +0000"
+    },
+    "done": true
+  },
+  "spore:braurei": {
+    "criteria": {
+      "hurt_infected": "2025-08-05 01:21:43 +0000"
     },
     "done": true
   },
@@ -4725,6 +4719,12 @@
       "has_spider_eye": "2025-08-05 01:34:57 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-08-05 01:36:57 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
