@@ -37,9 +37,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-08-06 04:51:20 +0000",
       "minecraft:savanna_plateau": "2025-08-04 00:35:17 +0000",
       "minecraft:river": "2025-08-04 01:10:17 +0000",
       "minecraft:dripstone_caves": "2025-08-04 03:14:04 +0000",
+      "minecraft:forest": "2025-08-06 04:51:15 +0000",
       "minecraft:lush_caves": "2025-08-04 01:52:44 +0000",
       "minecraft:flower_forest": "2025-08-06 02:30:16 +0000",
       "minecraft:savanna": "2025-08-04 00:58:00 +0000",
@@ -285,6 +287,7 @@
     "criteria": {
       "mauve_hills": "2025-08-04 01:43:34 +0000",
       "shrubland": "2025-08-04 23:53:23 +0000",
+      "pine_taiga": "2025-08-06 04:51:19 +0000",
       "ancient_delta": "2025-08-06 02:59:46 +0000",
       "barley_fields": "2025-08-04 01:13:04 +0000",
       "redstone_caves": "2025-08-05 01:36:57 +0000",
@@ -305,6 +308,7 @@
     "criteria": {
       "mauve_hills": "2025-08-04 01:43:34 +0000",
       "shrubland": "2025-08-04 23:53:23 +0000",
+      "pine_taiga": "2025-08-06 04:51:19 +0000",
       "barley_fields": "2025-08-04 01:13:04 +0000",
       "ochard": "2025-08-06 02:32:05 +0000",
       "flower_fields": "2025-08-06 02:30:22 +0000",
@@ -5105,6 +5109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-06 04:49:07 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_lead_from_blasting3": {
     "criteria": {
       "has_raw_lead": "2025-08-06 03:26:48 +0000"
@@ -5120,6 +5130,12 @@
   "immersiveengineering:recipes/misc/crafting/raw_nickel_to_raw_block_nickel": {
     "criteria": {
       "has_raw_nickel": "2025-08-06 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-08-06 04:49:14 +0000"
     },
     "done": true
   },
@@ -5342,6 +5358,12 @@
   "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_blasting3": {
     "criteria": {
       "has_raw_nickel": "2025-08-06 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-08-06 04:49:07 +0000"
     },
     "done": true
   },

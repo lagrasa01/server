@@ -1545,6 +1545,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-06 04:49:22 +0000",
       "minecraft:skeleton": "2025-08-04 03:29:10 +0000",
       "minecraft:spider": "2025-08-04 01:07:41 +0000",
       "minecraft:creeper": "2025-08-04 03:29:32 +0000"
@@ -4108,6 +4109,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead3": {
+    "criteria": {
+      "has_the_recipe": "2025-08-06 04:47:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
     "criteria": {
       "has_steel_ingot": "2025-08-06 02:09:36 +0000"
@@ -4174,9 +4181,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-06 04:49:22 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2025-08-06 02:09:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-06 04:48:00 +0000"
     },
     "done": true
   },
@@ -4189,6 +4208,12 @@
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-08-06 01:53:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-06 04:47:40 +0000"
     },
     "done": true
   },
@@ -4237,6 +4262,12 @@
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-06 04:35:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-06 04:47:40 +0000"
     },
     "done": true
   },
@@ -4319,6 +4350,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-06 04:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-08-06 01:32:03 +0000"
@@ -4337,6 +4374,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/lead_red": {
+    "criteria": {
+      "has_lead": "2025-08-06 04:47:40 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2025-08-06 01:46:16 +0000"
@@ -4349,6 +4392,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/storage_lead_to_ingot_lead": {
+    "criteria": {
+      "has_storage_lead": "2025-08-06 04:47:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "has_item": "2025-08-06 02:03:01 +0000"
@@ -4358,6 +4407,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-08-06 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2025-08-06 04:48:00 +0000"
     },
     "done": true
   },
@@ -4382,6 +4437,12 @@
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-06 01:18:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead_from_blasting3": {
+    "criteria": {
+      "has_raw_lead": "2025-08-06 04:47:56 +0000"
     },
     "done": true
   },
@@ -4412,6 +4473,12 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-08-06 03:21:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_lead_to_raw_block_lead": {
+    "criteria": {
+      "has_raw_lead": "2025-08-06 04:47:56 +0000"
     },
     "done": true
   },
@@ -4469,6 +4536,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/ingot_lead_to_storage_lead": {
+    "criteria": {
+      "has_ingot_lead": "2025-08-06 04:47:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-06 02:16:28 +0000"
@@ -4487,6 +4560,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/ingot_aluminum_to_storage_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2025-08-06 04:48:00 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/shovel_steel": {
     "criteria": {
       "has_steel_ingot": "2025-08-06 02:09:36 +0000"
@@ -4502,6 +4581,12 @@
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-06 04:35:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_storage_aluminum": "2025-08-06 04:48:00 +0000"
     },
     "done": true
   },
@@ -4673,6 +4758,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_block_lead_to_raw_lead": {
+    "criteria": {
+      "has_raw_block_lead": "2025-08-06 04:47:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-06 04:35:21 +0000"
@@ -4727,6 +4818,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-06 04:48:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-06 01:18:38 +0000"
@@ -4769,6 +4866,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-08-06 04:48:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-06 01:18:38 +0000"
@@ -4781,9 +4884,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
+    "criteria": {
+      "has_lead": "2025-08-06 04:47:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-06 04:35:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-06 04:48:00 +0000"
     },
     "done": true
   },
@@ -4799,9 +4914,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-08-06 04:48:00 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
     "criteria": {
       "has_ingot_steel": "2025-08-06 02:09:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_lead": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-06 04:47:40 +0000"
     },
     "done": true
   },

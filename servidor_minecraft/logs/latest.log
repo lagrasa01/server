@@ -1721,3 +1721,42 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 04:45:00.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
 [06Aug2025 04:48:53.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1820, y=64, z=673} BlockPos{x=1819, y=63, z=671}
 [06Aug2025 04:48:53.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1820, y=64, z=673} BlockPos{x=1819, y=63, z=671}
+[06Aug2025 04:49:14.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [The Cutest Predator]
+[06Aug2025 04:49:22.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Voluntary Exile]
+[06Aug2025 04:51:37.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Howler
+[06Aug2025 04:51:40.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/103385, l='ServerLevel[world]', x=2003.37, y=13.00, z=392.71] died: PATITOELdios was assassinated by el_lolo
+[06Aug2025 04:51:53.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:52:01.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Howler
+[06Aug2025 04:52:06.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/102830, l='ServerLevel[world]', x=1999.98, y=26.00, z=444.71] died: Ripley was shot by Skeleton
+[06Aug2025 04:52:21.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:52:37.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Howler
+[06Aug2025 04:52:42.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[06Aug2025 04:52:45.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/104538, l='ServerLevel[world]', x=2012.50, y=13.00, z=391.88] died: el_lolo was assassinated by PATITOELdios
+[06Aug2025 04:52:47.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/104027, l='ServerLevel[world]', x=2012.67, y=14.25, z=389.80] died: PATITOELdios was gunned down by PATITOELdios
+[06Aug2025 04:52:49.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Slasher
+[06Aug2025 04:52:51.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Slasher
+[06Aug2025 04:53:03.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[06Aug2025 04:53:07.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:53:37.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was slain by Infected Human
+[06Aug2025 04:53:44.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[06Aug2025 04:54:41.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slasher was happy to remove el_lolo limbs
+[06Aug2025 04:54:44.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Howler
+[06Aug2025 04:54:46.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[06Aug2025 04:55:06.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was fungi-fied by Howler
+[06Aug2025 04:55:20.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[06Aug2025 04:55:25.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[06Aug2025 04:55:50.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/105924, l='ServerLevel[world]', x=2005.13, y=13.00, z=392.41] died: el_lolo was assassinated by el_lolo
+[06Aug2025 04:55:57.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/105474, l='ServerLevel[world]', x=2004.88, y=13.10, z=392.30] died: el_lolo was assassinated by el_lolo
+[06Aug2025 04:56:03.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/106524, l='ServerLevel[world]', x=2011.76, y=13.00, z=396.32] died: el_lolo was assassinated by el_lolo
+[06Aug2025 04:56:15.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:56:21.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Howler
+[06Aug2025 04:56:43.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:56:47.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[06Aug2025 04:57:09.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot Infected Villager was a bioweapon
+[06Aug2025 04:57:16.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[06Aug2025 04:57:47.548] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/107646, l='ServerLevel[world]', x=2002.30, y=13.00, z=393.99] died: PATITOELdios was assassinated by el_lolo
+[06Aug2025 04:57:52.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:58:21.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/104785, l='ServerLevel[world]', x=2028.52, y=13.00, z=374.43] died: PATITOELdios died
+[06Aug2025 04:58:41.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:58:52.136] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/106052, l='ServerLevel[world]', x=2005.50, y=13.00, z=396.09] died: PATITOELdios was assassinated by uridk
+[06Aug2025 04:59:04.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
