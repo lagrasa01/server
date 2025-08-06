@@ -1598,3 +1598,32 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 03:54:09.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Slasher
 [06Aug2025 03:54:22.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
 [06Aug2025 03:57:43.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/80560, l='ServerLevel[world]', x=1680.59, y=-33.00, z=722.55] died: PATITOELdios died
+[06Aug2025 04:03:45.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was gunned down by uridk
+[06Aug2025 04:03:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:04:42.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Phayres
+[06Aug2025 04:04:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was gunned down by el_lolo
+[06Aug2025 04:04:45.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/83715, l='ServerLevel[world]', x=1688.29, y=-2.00, z=714.35] died: PATITOELdios was assassinated by el_lolo
+[06Aug2025 04:04:47.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo hit the ground too hard
+[06Aug2025 04:05:00.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[06Aug2025 04:05:09.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/83806, l='ServerLevel[world]', x=1679.74, y=-6.00, z=718.29] died: uridk was assassinated by PATITOELdios
+[06Aug2025 04:05:12.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/83901, l='ServerLevel[world]', x=1680.70, y=-6.23, z=714.35] died: el_lolo was gunned down by PATITOELdios
+[06Aug2025 04:06:39.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Knight
+[06Aug2025 04:06:41.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was disemboweled by Knight
+[06Aug2025 04:06:44.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/84760, l='ServerLevel[world]', x=1688.62, y=0.00, z=709.32] died: el_lolo was gunned down by uridk
+[06Aug2025 04:06:50.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Knight
+[06Aug2025 04:06:54.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[06Aug2025 04:06:59.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk forgot Knight was a bioweapon
+[06Aug2025 04:07:09.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was shot by PATITOELdios
+[06Aug2025 04:07:10.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slasher was happy to remove PATITOELdios limbs
+[06Aug2025 04:07:15.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[06Aug2025 04:07:23.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/85327, l='ServerLevel[world]', x=1668.54, y=-30.00, z=722.29] died: PATITOELdios was doomed to fall by PATITOELdios
+[06Aug2025 04:07:25.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was disemboweled by Knight
+[06Aug2025 04:07:28.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Knight
+[06Aug2025 04:07:34.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Infected Human
+[06Aug2025 04:07:34.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was disemboweled by Knight
+[06Aug2025 04:07:41.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Knight
+[06Aug2025 04:07:51.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Knight
+[06Aug2025 04:07:53.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was eaten alive by Knight
+[06Aug2025 04:07:57.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Infected Human
+[06Aug2025 04:08:01.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was disemboweled by Knight
+[06Aug2025 04:08:02.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was slain by Knight
