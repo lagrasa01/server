@@ -4745,6 +4745,12 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2025-08-06 01:25:37 +0000"
@@ -4793,6 +4799,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-06 04:07:16 +0000"
@@ -4814,6 +4826,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-06 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
     },
     "done": true
   },
@@ -4853,6 +4871,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-08-06 03:33:07 +0000"
@@ -4874,6 +4898,18 @@
   "create:recipes/building_blocks/crafting/logistics/green_postbox": {
     "criteria": {
       "has_barrel": "2025-08-06 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
     },
     "done": true
   },
@@ -4943,6 +4979,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-08-06 01:25:37 +0000"
@@ -4985,6 +5027,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-08-06 01:25:37 +0000"
@@ -5024,6 +5072,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-08-06 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
     },
     "done": true
   },
@@ -5159,6 +5213,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2025-08-06 01:25:37 +0000"
@@ -5168,6 +5228,12 @@
   "immersiveengineering:recipes/misc/crafting/empty_casing": {
     "criteria": {
       "has_coppper_ingot": "2025-08-06 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
     },
     "done": true
   },
@@ -5231,6 +5297,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
   "spore:protector": {
     "criteria": {
       "hurt_infected": "2025-08-06 02:48:35 +0000"
@@ -5255,6 +5327,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_blasting3": {
     "criteria": {
       "has_raw_nickel": "2025-08-06 02:19:03 +0000"
@@ -5267,6 +5345,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-06 01:56:07 +0000"
@@ -5276,6 +5360,12 @@
   "immersiveengineering:recipes/misc/crafting/raw_block_lead_to_raw_lead": {
     "criteria": {
       "has_raw_block_lead": "2025-08-06 03:26:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
     },
     "done": true
   },
@@ -5411,6 +5501,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-06 04:27:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-08-06 01:25:37 +0000"
@@ -5426,6 +5528,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-08-06 02:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
     },
     "done": true
   },
@@ -5471,6 +5579,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/red_postbox": {
     "criteria": {
       "has_barrel": "2025-08-06 04:02:21 +0000"
@@ -5486,6 +5600,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-06 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:34:33 +0000"
     },
     "done": true
   },

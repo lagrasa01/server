@@ -4704,6 +4704,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_layer": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
@@ -4776,6 +4782,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-06 02:16:29 +0000"
@@ -4821,6 +4833,12 @@
   "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-06 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
     },
     "done": true
   },
@@ -4896,6 +4914,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-08-06 02:29:02 +0000"
@@ -4905,6 +4929,18 @@
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-08-06 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
     },
     "done": true
   },
@@ -4941,6 +4977,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-08-06 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
     },
     "done": true
   },
@@ -5016,6 +5058,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-08-06 02:17:28 +0000"
@@ -5086,6 +5134,12 @@
   "copycats:recipes/crafting/copycat_shaft": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
     },
     "done": true
   },
@@ -5281,6 +5335,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-08-06 02:29:02 +0000"
@@ -5302,6 +5362,12 @@
   "copycats:recipes/crafting/copycat_ghost_block": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
     },
     "done": true
   },
@@ -5419,6 +5485,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_door": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
@@ -5437,6 +5509,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_blasting3": {
     "criteria": {
       "has_raw_nickel": "2025-08-06 02:19:08 +0000"
@@ -5446,6 +5524,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-06 04:02:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
     },
     "done": true
   },
@@ -5482,6 +5566,12 @@
   "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
     "criteria": {
       "has_ingot_nickel": "2025-08-06 03:08:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
     },
     "done": true
   },
@@ -5653,9 +5743,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-06 04:27:35 +0000"
     },
     "done": true
   },
@@ -5674,6 +5776,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-08-06 02:15:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
     },
     "done": true
   },
@@ -5737,6 +5845,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-06 02:16:29 +0000"
@@ -5764,6 +5878,12 @@
   "copycats:recipes/crafting/copycat_slope_layer": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-06 04:30:33 +0000"
     },
     "done": true
   },

@@ -1709,3 +1709,9 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 04:25:33.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/93117, l='ServerLevel[world]', x=1705.48, y=-29.90, z=691.76] died: PATITOELdios was gunned down by el_lolo
 [06Aug2025 04:25:45.985] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/92729, l='ServerLevel[world]', x=1696.30, y=-32.90, z=689.66] died: el_lolo was assassinated by el_lolo
 [06Aug2025 04:27:06.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[06Aug2025 04:28:58.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[06Aug2025 04:31:36.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 04:32:00.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[06Aug2025 04:34:04.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to 1819.000000, 64.000000, 671.000000]
+[06Aug2025 04:34:10.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:34:15.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
