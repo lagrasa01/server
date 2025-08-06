@@ -1461,3 +1461,23 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 00:55:02.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
 [06Aug2025 00:55:17.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
 [06Aug2025 00:55:53.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[06Aug2025 01:26:28.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [You know what that means...]
+[06Aug2025 01:26:39.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was dismantled by GazenBreacher
+[06Aug2025 01:26:43.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [You know what that means...]
+[06Aug2025 01:26:47.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was crushed by GazenBreacher
+[06Aug2025 01:28:02.813] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/17463, l='ServerLevel[world]', x=374.63, y=61.67, z=685.04] died: el_lolo was slain by uridk
+[06Aug2025 01:28:21.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten by GazenBreacher
+[06Aug2025 01:30:53.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/18336, l='ServerLevel[world]', x=369.30, y=63.47, z=657.86] died: uridk was slain by uridk
+[06Aug2025 01:31:02.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[06Aug2025 01:31:16.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[06Aug2025 01:31:29.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[06Aug2025 01:33:58.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PATITOELdios[/172.27.59.43:59369] logged in with entity id 21411 at (-159.5769315348694, 70.0, 687.8551710453107)
+[06Aug2025 01:33:58.700] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player PATITOELdios
+[06Aug2025 01:33:58.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios joined the game
+[06Aug2025 01:33:58.717] [Server thread/INFO] [Jade/]: Syncing config to PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117)
+[06Aug2025 01:34:00.833] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PATITOELdios (18)
+[06Aug2025 01:34:00.834] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PATITOELdios
+[06Aug2025 01:34:09.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[06Aug2025 01:34:10.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[06Aug2025 01:34:10.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
+[06Aug2025 01:34:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]

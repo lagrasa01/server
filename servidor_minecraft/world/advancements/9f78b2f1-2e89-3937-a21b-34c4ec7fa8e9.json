@@ -4198,6 +4198,12 @@
     },
     "done": true
   },
+  "spore:gazen": {
+    "criteria": {
+      "hurt_infected": "2025-08-06 01:26:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-06 01:18:38 +0000"
