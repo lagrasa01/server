@@ -4496,6 +4496,12 @@
     },
     "done": true
   },
+  "spore:protector": {
+    "criteria": {
+      "hurt_infected": "2025-08-06 02:48:34 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/hoe_steel": {
     "criteria": {
       "has_steel_ingot": "2025-08-06 02:09:36 +0000"

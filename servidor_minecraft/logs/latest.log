@@ -1530,3 +1530,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 02:34:59.697] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
 [06Aug2025 02:40:12.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Dagon worshipper]
 [06Aug2025 02:44:34.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Hot Stuff]
+[06Aug2025 02:48:34.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [GET DOWN MISTER PRESIDENT]
+[06Aug2025 02:48:35.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['Mr_Door12323'/52438, l='ServerLevel[world]', x=1847.15, y=65.00, z=670.54] died: Mr_Door12323 was assassinated by uridk
+[06Aug2025 02:48:35.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [GET DOWN MISTER PRESIDENT]
+[06Aug2025 02:51:00.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was assassinated by uridk
+[06Aug2025 02:51:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
