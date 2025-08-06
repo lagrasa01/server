@@ -1033,7 +1033,9 @@
       "shrubland": "2025-08-04 23:52:40 +0000",
       "pine_taiga": "2025-08-05 00:25:21 +0000",
       "bayou": "2025-08-05 00:26:06 +0000",
+      "ancient_delta": "2025-08-06 03:15:36 +0000",
       "barley_fields": "2025-08-04 01:30:53 +0000",
+      "redstone_caves": "2025-08-06 03:15:58 +0000",
       "rocky_meadow": "2025-08-04 01:02:15 +0000",
       "ochard": "2025-08-06 02:32:11 +0000",
       "flower_fields": "2025-08-06 02:30:27 +0000",
@@ -4726,6 +4728,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-06 03:23:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/package_filter": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
@@ -4753,6 +4761,12 @@
   "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-06 02:16:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead3": {
+    "criteria": {
+      "has_raw_lead": "2025-08-06 03:18:38 +0000"
     },
     "done": true
   },
@@ -4996,6 +5010,13 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-08-06 03:15:58 +0000",
+      "ancient_delta": "2025-08-06 03:15:36 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-06 01:58:32 +0000"
@@ -5086,6 +5107,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead_from_blasting3": {
+    "criteria": {
+      "has_raw_lead": "2025-08-06 03:18:38 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_folding_door": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
@@ -5107,6 +5134,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-08-06 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_lead_to_raw_block_lead": {
+    "criteria": {
+      "has_raw_lead": "2025-08-06 03:18:38 +0000"
     },
     "done": true
   },
@@ -5356,6 +5389,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_block_lead_to_raw_lead": {
+    "criteria": {
+      "has_raw_block_lead": "2025-08-06 03:18:38 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
     "criteria": {
       "has_ingot_nickel": "2025-08-06 03:08:19 +0000"
@@ -5377,6 +5416,12 @@
   "copycats:recipes/crafting/copycat_slice": {
     "criteria": {
       "has_item": "2025-08-06 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:blind_as_a_bat": {
+    "criteria": {
+      "duskmelon": "2025-08-06 03:18:59 +0000"
     },
     "done": true
   },

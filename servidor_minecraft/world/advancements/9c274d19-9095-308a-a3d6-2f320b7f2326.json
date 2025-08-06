@@ -3992,7 +3992,9 @@
       "minecraft:skeleton": "2025-08-04 03:11:50 +0000",
       "minecraft:spider": "2025-08-04 02:54:59 +0000",
       "minecraft:creeper": "2025-08-04 03:16:09 +0000",
+      "minecraft:witch": "2025-08-06 03:23:07 +0000",
       "minecraft:enderman": "2025-08-05 01:34:24 +0000",
+      "minecraft:silverfish": "2025-08-06 03:18:26 +0000",
       "minecraft:drowned": "2025-08-06 01:37:11 +0000",
       "minecraft:zombie_villager": "2025-08-06 02:20:16 +0000"
     },
@@ -5126,6 +5128,12 @@
   "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-06 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-08-06 03:23:24 +0000"
     },
     "done": true
   },

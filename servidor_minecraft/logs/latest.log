@@ -1539,3 +1539,7 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 03:00:20.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/58625, l='ServerLevel[world]', x=1950.16, y=32.00, z=678.16] died: Whisper was blown up by Creeper
 [06Aug2025 03:12:48.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzzz
 [06Aug2025 03:16:25.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[06Aug2025 03:17:12.183] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['NexouuZ'/61939, l='ServerLevel[world]', x=1944.42, y=81.00, z=736.40] died: NexouuZ was shot by Skeleton
+[06Aug2025 03:18:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Blind as a Bat]
+[06Aug2025 03:21:13.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [The Cutest Predator]
+[06Aug2025 03:23:42.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Not Today, Thank You]

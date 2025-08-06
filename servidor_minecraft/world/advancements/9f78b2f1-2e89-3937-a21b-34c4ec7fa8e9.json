@@ -676,6 +676,7 @@
       "pine_taiga": "2025-08-04 04:56:24 +0000",
       "ancient_delta": "2025-08-06 03:01:11 +0000",
       "barley_fields": "2025-08-04 04:02:03 +0000",
+      "redstone_caves": "2025-08-06 03:16:39 +0000",
       "rocky_meadow": "2025-08-04 01:02:18 +0000",
       "ochard": "2025-08-06 02:31:54 +0000",
       "flower_fields": "2025-08-06 02:30:16 +0000",
@@ -4253,6 +4254,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-08-06 03:16:39 +0000",
       "ancient_delta": "2025-08-06 03:01:11 +0000"
     },
     "done": false
@@ -4311,6 +4313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-06 03:21:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-06 01:18:38 +0000"
@@ -4338,6 +4346,12 @@
   "immersiveengineering:recipes/misc/crafting/wire_steel": {
     "criteria": {
       "has_steel_ingot": "2025-08-06 02:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-08-06 03:21:13 +0000"
     },
     "done": true
   },
@@ -4536,6 +4550,12 @@
   "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_blasting3": {
     "criteria": {
       "has_raw_nickel": "2025-08-06 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-08-06 03:21:11 +0000"
     },
     "done": true
   },
