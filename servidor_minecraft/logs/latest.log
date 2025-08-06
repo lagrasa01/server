@@ -1684,3 +1684,28 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 04:15:41.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1694, y=-37, z=677} BlockPos{x=1695, y=-37, z=678}
 [06Aug2025 04:16:23.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1703, y=-26, z=696} BlockPos{x=1703, y=-28, z=695}
 [06Aug2025 04:16:49.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['PATITOELdios'/82688, l='ServerLevel[world]', x=1689.30, y=-29.00, z=692.90] died: PATITOELdios suffocated in a wall
+[06Aug2025 04:18:55.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was assassinated by el_lolo
+[06Aug2025 04:18:57.987] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/90605, l='ServerLevel[world]', x=1689.50, y=-33.00, z=691.51] died: PATITOELdios was assassinated by el_lolo
+[06Aug2025 04:19:11.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:20:31.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot Howler was a bioweapon
+[06Aug2025 04:20:31.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/91076, l='ServerLevel[world]', x=1701.18, y=-33.00, z=690.47] died: PATITOELdios was assassinated by el_lolo
+[06Aug2025 04:20:32.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Howler
+[06Aug2025 04:20:34.036] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/91152, l='ServerLevel[world]', x=1700.38, y=-33.00, z=691.49] died: uridk was assassinated by el_lolo
+[06Aug2025 04:20:42.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[06Aug2025 04:20:45.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 04:20:57.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 04:22:07.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 04:22:38.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['PATITOELdios'/82588, l='ServerLevel[world]', x=1679.93, y=-33.00, z=724.68] died: PATITOELdios was killed by Witch using magic
+[06Aug2025 04:23:09.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[06Aug2025 04:24:19.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot Howler was a bioweapon
+[06Aug2025 04:24:21.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was eaten alive by Infected Villager
+[06Aug2025 04:24:23.086] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/92469, l='ServerLevel[world]', x=1685.71, y=-33.00, z=692.10] died: PATITOELdios was gunned down by el_lolo
+[06Aug2025 04:24:32.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/92573, l='ServerLevel[world]', x=1702.27, y=-33.00, z=692.21] died: uridk was assassinated by el_lolo
+[06Aug2025 04:24:32.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was fungi-fied by Infected Husk
+[06Aug2025 04:25:19.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Infected Husk
+[06Aug2025 04:25:20.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[06Aug2025 04:25:20.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was fungi-fied by Infected Pillager
+[06Aug2025 04:25:28.237] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/93179, l='ServerLevel[world]', x=1696.97, y=-37.00, z=674.62] died: uridk was gunned down by el_lolo
+[06Aug2025 04:25:33.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/93117, l='ServerLevel[world]', x=1705.48, y=-29.90, z=691.76] died: PATITOELdios was gunned down by el_lolo
+[06Aug2025 04:25:45.985] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/92729, l='ServerLevel[world]', x=1696.30, y=-32.90, z=689.66] died: el_lolo was assassinated by el_lolo
+[06Aug2025 04:27:06.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
