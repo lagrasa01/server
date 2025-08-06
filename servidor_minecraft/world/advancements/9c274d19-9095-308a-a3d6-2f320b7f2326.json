@@ -4773,6 +4773,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-08-06 02:39:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-08-06 01:25:37 +0000"
@@ -4854,6 +4860,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-06 01:49:29 +0000"
+    },
+    "done": true
+  },
+  "spore:bloater": {
+    "criteria": {
+      "hurt_infected": "2025-08-06 02:40:12 +0000"
     },
     "done": true
   },
@@ -5094,6 +5106,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-08-06 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-06 02:39:45 +0000"
     },
     "done": true
   },
