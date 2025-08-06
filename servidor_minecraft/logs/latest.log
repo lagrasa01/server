@@ -1513,3 +1513,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Aug2025 01:49:29.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Hot Stuff]
 [06Aug2025 02:03:01.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [HAMMAH!]
 [06Aug2025 02:04:57.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Eighty!]
+[06Aug2025 02:11:02.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Monster Hunter'/27677, l='ServerLevel[world]', x=752.86, y=70.00, z=411.22] died, message: 'Monster Hunter was fungi-fied by Brotkatze'
