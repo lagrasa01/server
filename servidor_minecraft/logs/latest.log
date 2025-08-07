@@ -1452,3 +1452,17 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Aug2025 00:26:15.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios lost connection: Disconnected
 [07Aug2025 00:26:15.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios left the game
 [07Aug2025 00:26:15.795] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PATITOELdios
+[07Aug2025 00:31:02.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PATITOELdios[/172.27.59.43:54639] logged in with entity id 3495 at (2066.040941779015, 77.0, 388.48461580986856)
+[07Aug2025 00:31:02.656] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player PATITOELdios
+[07Aug2025 00:31:02.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios joined the game
+[07Aug2025 00:31:02.753] [Server thread/INFO] [Jade/]: Syncing config to PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117)
+[07Aug2025 00:31:04.165] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PATITOELdios (18)
+[07Aug2025 00:31:04.166] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PATITOELdios
+[07Aug2025 00:31:13.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[07Aug2025 00:31:14.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[07Aug2025 00:31:14.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
+[07Aug2025 00:31:57.367] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[07Aug2025 00:31:57.622] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[07Aug2025 00:32:43.632] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[07Aug2025 00:35:15.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PedroHenrry'/5251, l='ServerLevel[world]', x=2404.30, y=50.00, z=424.58] died: PedroHenrry was slain by Enderman
+[07Aug2025 00:38:52.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/5399, l='ServerLevel[world]', x=2562.88, y=19.00, z=472.59] died: Ike was shot by Skeleton
