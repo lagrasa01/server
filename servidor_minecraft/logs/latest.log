@@ -1634,3 +1634,25 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Aug2025 02:21:37.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta lost connection: Flying is not enabled on this server
 [07Aug2025 02:21:37.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta left the game
 [07Aug2025 02:21:37.289] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emolientesmarta
+[07Aug2025 02:21:51.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emolientesmarta[/172.27.214.196:49321] logged in with entity id 55383 at (2754.9688796477917, 78.73527968815392, 394.73053320113723)
+[07Aug2025 02:21:51.931] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player emolientesmarta
+[07Aug2025 02:21:51.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta joined the game
+[07Aug2025 02:21:51.986] [Server thread/INFO] [Jade/]: Syncing config to emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a)
+[07Aug2025 02:21:52.301] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emolientesmarta (18)
+[07Aug2025 02:21:52.301] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emolientesmarta
+[07Aug2025 02:21:53.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 02:21:54.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 02:21:54.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a) successfully connected to voice chat
+[07Aug2025 02:22:11.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/53299, l='ServerLevel[world]', x=2650.33, y=73.00, z=395.48] died: Sire_AwfulThe1st was gunned down by uridk
+[07Aug2025 02:22:18.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Pillage you say ?]
+[07Aug2025 02:22:21.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Spore]
+[07Aug2025 02:22:35.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/54405, l='ServerLevel[world]', x=2682.77, y=69.00, z=359.52] died: Whisper was assassinated by PATITOELdios
+[07Aug2025 02:22:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Brainzzz]
+[07Aug2025 02:24:29.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/56813, l='ServerLevel[world]', x=2495.97, y=-2.00, z=220.35] died: Keymind was shot by Skeleton
+[07Aug2025 02:25:48.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Getting an Upgrade]
+[07Aug2025 02:26:33.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TokenOni420'/58247, l='ServerLevel[world]', x=2571.89, y=21.00, z=473.82] died: TokenOni420 was shot by Skeleton
+[07Aug2025 02:28:24.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2801, y=64, z=180} BlockPos{x=2800, y=62, z=180}
+[07Aug2025 02:28:45.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [What the dog doing]
+[07Aug2025 02:29:51.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/58246, l='ServerLevel[world]', x=2566.70, y=19.77, z=475.33] died: Deyvid was shot by Skeleton
+[07Aug2025 02:31:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [HAMMAH!]
+[07Aug2025 02:31:45.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Eighty!]

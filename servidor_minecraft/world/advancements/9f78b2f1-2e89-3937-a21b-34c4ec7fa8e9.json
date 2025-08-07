@@ -5107,6 +5107,12 @@
     },
     "done": true
   },
+  "spore:jagd": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 02:28:45 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_vertical_slab": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
