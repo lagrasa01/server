@@ -44,6 +44,7 @@
       "minecraft:dripstone_caves": "2025-08-04 03:14:04 +0000",
       "minecraft:forest": "2025-08-06 04:51:15 +0000",
       "minecraft:lush_caves": "2025-08-04 01:52:44 +0000",
+      "minecraft:ocean": "2025-08-07 01:26:10 +0000",
       "minecraft:flower_forest": "2025-08-06 02:30:16 +0000",
       "minecraft:savanna": "2025-08-04 00:58:00 +0000",
       "minecraft:plains": "2025-08-06 02:28:10 +0000"
@@ -4299,6 +4300,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "pine_log": "2025-08-07 01:26:30 +0000",
       "small_oak_log": "2025-08-06 01:46:09 +0000",
       "redwood_log": "2025-08-04 04:03:46 +0000",
       "maple_log": "2025-08-04 23:51:38 +0000"
@@ -5677,6 +5679,162 @@
   "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
     "criteria": {
       "has_raw_block_aluminum": "2025-08-07 00:52:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 01:26:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/pine_post": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/pine_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/pine_chest": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/pine_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2025-08-07 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_pine_log": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/pine_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/pine_ladder": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_pine_planks": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/pine_window": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-08-07 01:26:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/pine_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_pine_post": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 01:26:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/pine_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:29 +0000"
     },
     "done": true
   },
