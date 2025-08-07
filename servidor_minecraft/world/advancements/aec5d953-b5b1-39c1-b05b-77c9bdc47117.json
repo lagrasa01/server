@@ -6063,6 +6063,12 @@
     },
     "done": true
   },
+  "spore:scavenger": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:56:14 +0000"
+    },
+    "done": true
+  },
   "spore:protector": {
     "criteria": {
       "hurt_infected": "2025-08-07 03:49:30 +0000"

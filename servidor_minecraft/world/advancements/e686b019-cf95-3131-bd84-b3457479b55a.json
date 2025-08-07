@@ -1627,39 +1627,9 @@
     },
     "done": true
   },
-  "spore:ogre": {
+  "spore:spitter": {
     "criteria": {
-      "hurt_infected": "2025-08-07 03:31:30 +0000"
-    },
-    "done": true
-  },
-  "spore:slasher": {
-    "criteria": {
-      "hurt_by_infected": "2025-08-07 03:27:34 +0000"
-    },
-    "done": true
-  },
-  "spore:howitzer": {
-    "criteria": {
-      "hurt_by_infected": "2025-08-07 03:36:12 +0000"
-    },
-    "done": true
-  },
-  "spore:usurper": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:19:24 +0000"
-    },
-    "done": true
-  },
-  "spore:inf_player": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:43:05 +0000"
-    },
-    "done": true
-  },
-  "spore:busser": {
-    "criteria": {
-      "hurt_by_infected": "2025-08-07 03:39:44 +0000"
+      "hurt_infected": "2025-08-07 03:07:57 +0000"
     },
     "done": true
   },
@@ -1669,63 +1639,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-08-07 03:14:50 +0000"
-    },
-    "done": true
-  },
-  "spore:verva": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:24:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_shovel": "2025-08-07 03:11:43 +0000"
-    },
-    "done": true
-  },
-  "spore:inf_evoker": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-08-07 03:24:14 +0000"
-    },
-    "done": true
-  },
-  "spore:delusioner": {
-    "criteria": {
-      "hurt_by_infected": "2025-08-07 03:51:14 +0000"
-    },
-    "done": true
-  },
-  "spore:inquisitor": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-08-07 03:14:45 +0000"
-    },
-    "done": true
-  },
-  "spore:spitter": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:07:57 +0000"
-    },
-    "done": true
-  },
-  "spore:specter": {
-    "criteria": {
-      "hurt_by_infected": "2025-08-07 03:24:50 +0000"
     },
     "done": true
   },
@@ -1738,6 +1654,90 @@
   "spore:leaper": {
     "criteria": {
       "hurt_infected": "2025-08-07 03:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-07 03:14:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-07 03:14:50 +0000"
+    },
+    "done": true
+  },
+  "spore:usurper": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-07 03:24:14 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_evoker": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:24:20 +0000"
+    },
+    "done": true
+  },
+  "spore:verva": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:24:22 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "spore:slasher": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "spore:ogre": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:31:30 +0000"
+    },
+    "done": true
+  },
+  "spore:howitzer": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 03:36:12 +0000"
+    },
+    "done": true
+  },
+  "spore:busser": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 03:39:44 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:43:05 +0000"
+    },
+    "done": true
+  },
+  "spore:inquisitor": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:43:29 +0000"
+    },
+    "done": true
+  },
+  "spore:delusioner": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 03:51:14 +0000"
     },
     "done": true
   },
