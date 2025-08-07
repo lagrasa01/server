@@ -1509,3 +1509,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Aug2025 00:55:28.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
 [07Aug2025 00:55:45.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Dany_Why'/18019, l='ServerLevel[world]', x=2644.45, y=-15.20, z=341.45] died: Dany_Why suffocated in a wall
 [07Aug2025 00:56:09.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['xXFuryXx'/18455, l='ServerLevel[world]', x=2643.44, y=-16.00, z=341.45] died: xXFuryXx suffocated in a wall
+[07Aug2025 01:05:17.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TVGuy'/22375, l='ServerLevel[world]', x=2687.50, y=0.00, z=352.64] died: TVGuy was blown up by Creeper
+[07Aug2025 01:05:17.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was gunned down by Leonardodpxd
+[07Aug2025 01:05:21.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd was assassinated by uridk
+[07Aug2025 01:05:24.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to Leonardodpxd]
+[07Aug2025 01:05:30.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[07Aug2025 01:05:42.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[07Aug2025 01:10:28.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Overdose]

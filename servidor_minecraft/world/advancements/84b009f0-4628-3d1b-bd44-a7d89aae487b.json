@@ -52,6 +52,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2025-08-07 00:56:10 +0000",
       "redstone_caves": "2025-08-05 01:33:19 +0000",
       "deciduous_forest": "2025-08-05 00:32:12 +0000",
       "towering_cliffs": "2025-08-05 00:12:51 +0000",
@@ -63,6 +64,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2025-08-07 00:56:10 +0000",
       "deciduous_forest": "2025-08-05 00:32:12 +0000",
       "towering_cliffs": "2025-08-05 00:12:51 +0000",
       "temperate_grove": "2025-08-05 00:27:07 +0000",
@@ -632,6 +634,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-05 01:37:30 +0000",
+      "minecraft:spider": "2025-08-07 00:59:01 +0000",
       "minecraft:creeper": "2025-08-05 00:17:13 +0000",
       "minecraft:drowned": "2025-08-05 00:35:55 +0000"
     },
@@ -2981,6 +2984,90 @@
   "spore:gazen": {
     "criteria": {
       "hurt_by_infected": "2025-08-07 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-07 01:04:33 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_witch": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 01:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-07 01:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-07 01:04:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-08-07 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-07 01:04:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-08-07 01:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-07 01:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-07 01:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-07 01:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-07 01:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-07 01:04:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-08-07 00:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-07 01:04:34 +0000"
     },
     "done": true
   },
