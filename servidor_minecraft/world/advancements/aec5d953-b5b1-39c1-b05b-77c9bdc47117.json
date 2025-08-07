@@ -5997,6 +5997,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-07 02:53:10 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_ladder": {
     "criteria": {
       "has_item": "2025-08-07 01:50:43 +0000"
@@ -6012,6 +6018,12 @@
   "everycomp:recipes/decorations/q/regions_unexplored/vertical_pine_planks": {
     "criteria": {
       "has_item": "2025-08-07 01:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-07 02:58:47 +0000"
     },
     "done": true
   },
@@ -6048,6 +6060,12 @@
   "regions_unexplored:recipes/redstone/pine_button": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-08-07 02:58:47 +0000"
     },
     "done": true
   },

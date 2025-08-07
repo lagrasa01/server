@@ -5104,15 +5104,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_chest": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_trapdoor": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
     },
     "done": true
   },
@@ -5206,9 +5224,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_button": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
     },
     "done": true
   },
@@ -5227,6 +5257,12 @@
   "everycomp:recipes/decorations/q/regions_unexplored/pine_bookshelf": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
     },
     "done": true
   },
