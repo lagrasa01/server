@@ -43,6 +43,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-08-07 02:07:51 +0000",
       "minecraft:birch_forest": "2025-08-04 01:10:00 +0000",
       "minecraft:savanna_plateau": "2025-08-04 00:33:56 +0000",
       "minecraft:dark_forest": "2025-08-04 01:09:16 +0000",

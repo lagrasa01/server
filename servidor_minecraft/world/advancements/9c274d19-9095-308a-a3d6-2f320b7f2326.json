@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-08-07 02:03:02 +0000",
       "minecraft:birch_forest": "2025-08-06 04:51:20 +0000",
       "minecraft:savanna_plateau": "2025-08-04 00:35:17 +0000",
       "minecraft:river": "2025-08-04 01:10:17 +0000",
@@ -5688,6 +5689,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-08-07 01:26:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 01:26:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2025-08-07 01:26:31 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_post": {
     "criteria": {
       "has_item": "2025-08-07 01:28:29 +0000"
@@ -5727,12 +5746,6 @@
   "regions_unexplored:recipes/decorations/pine_fence": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_shrub": {
-    "criteria": {
-      "has_pine_sapling": "2025-08-07 01:26:31 +0000"
     },
     "done": true
   },
@@ -5778,12 +5791,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
-    "criteria": {
-      "has_log": "2025-08-07 01:26:30 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/pine_stairs": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:29 +0000"
@@ -5823,12 +5830,6 @@
   "everycomp:recipes/decorations/q/regions_unexplored/stripped_pine_post": {
     "criteria": {
       "has_item": "2025-08-07 01:28:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_wood": {
-    "criteria": {
-      "has_log": "2025-08-07 01:26:30 +0000"
     },
     "done": true
   },
