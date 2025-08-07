@@ -1719,3 +1719,10 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [07Aug2025 03:06:57.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e686b019-cf95-3131-bd84-b3457479b55a
 [07Aug2025 03:06:57.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a) successfully connected to voice chat
 [07Aug2025 03:07:57.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Meet the Sniper]
+[07Aug2025 03:13:19.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Over-juiced]
+[07Aug2025 03:16:38.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Sire_AwfulThe1st'/45114, l='ServerLevel[world]', x=2677.36, y=8.00, z=319.36] died: Sire_AwfulThe1st was slain by Enderman
+[07Aug2025 03:17:34.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/88077, l='ServerLevel[world]', x=2579.18, y=79.00, z=390.59] died: Whisper was assassinated by PATITOELdios
+[07Aug2025 03:18:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Overdose]
+[07Aug2025 03:19:24.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Meet the sweaty sniper]
+[07Aug2025 03:21:29.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/90047, l='ServerLevel[world]', x=2474.26, y=27.00, z=346.08] died: Keymind was slain by Enderman
+[07Aug2025 03:21:31.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [And the winner of the Darwin awards is ?]

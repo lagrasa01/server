@@ -5856,6 +5856,12 @@
     },
     "done": true
   },
+  "spore:inf_witch": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:18:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-08-07 02:25:08 +0000"
