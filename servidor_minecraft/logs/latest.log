@@ -1613,3 +1613,24 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Aug2025 02:05:18.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['lightigivhi'/15889, l='ServerLevel[world]', x=2583.82, y=25.25, z=479.49] died: lightigivhi was shot by Skeleton
 [07Aug2025 02:06:24.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
 [07Aug2025 02:08:51.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Stone Age]
+[07Aug2025 02:19:26.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Sweet Dreams]
+[07Aug2025 02:19:31.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emolientesmarta> as
+[07Aug2025 02:20:38.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta lost connection: Disconnected
+[07Aug2025 02:20:38.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta left the game
+[07Aug2025 02:20:38.291] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emolientesmarta
+[07Aug2025 02:20:48.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_lolo> zzz
+[07Aug2025 02:20:50.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzz
+[07Aug2025 02:21:03.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emolientesmarta[/172.27.214.196:49259] logged in with entity id 54797 at (2855.87575424526, 311.0, 397.40809248272905)
+[07Aug2025 02:21:03.927] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player emolientesmarta
+[07Aug2025 02:21:03.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta joined the game
+[07Aug2025 02:21:03.992] [Server thread/INFO] [Jade/]: Syncing config to emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a)
+[07Aug2025 02:21:04.294] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emolientesmarta (18)
+[07Aug2025 02:21:04.294] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emolientesmarta
+[07Aug2025 02:21:05.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 02:21:06.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 02:21:06.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a) successfully connected to voice chat
+[07Aug2025 02:21:27.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Deyvid'/54324, l='ServerLevel[world]', x=2549.01, y=21.00, z=364.39] died: Deyvid was slain by Enderman
+[07Aug2025 02:21:37.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta was kicked for floating too long!
+[07Aug2025 02:21:37.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta lost connection: Flying is not enabled on this server
+[07Aug2025 02:21:37.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta left the game
+[07Aug2025 02:21:37.289] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emolientesmarta
