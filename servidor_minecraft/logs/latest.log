@@ -1761,3 +1761,21 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [07Aug2025 03:32:20.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/97270, l='ServerLevel[world]', x=2614.59, y=85.25, z=398.48] died: PATITOELdios was assassinated by el_lolo
 [07Aug2025 03:32:30.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta fell from a high place
 [07Aug2025 03:33:04.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzzz
+[07Aug2025 03:33:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[07Aug2025 03:35:03.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Meet the Demoman]
+[07Aug2025 03:35:05.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Meet the Demoman]
+[07Aug2025 03:35:25.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was shot by Spitter
+[07Aug2025 03:36:12.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Meet the Demoman]
+[07Aug2025 03:36:27.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was slain by Howitzer
+[07Aug2025 03:38:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 03:39:29.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was doomed to fall by Howitzer
+[07Aug2025 03:39:44.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [How is it fair if they can fly ?!]
+[07Aug2025 03:40:29.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta fell from a high place
+[07Aug2025 03:40:47.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Meet the Demoman]
+[07Aug2025 03:40:51.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Hit or miss]
+[07Aug2025 03:41:19.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [I spy with my little eye]
+[07Aug2025 03:41:27.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Unwanted Delivery]
+[07Aug2025 03:42:44.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[07Aug2025 03:43:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has succumbed to the infection
+[07Aug2025 03:43:05.395] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/110707, l='ServerLevel[world]', x=2601.52, y=68.00, z=377.78] died: uridk was assassinated by emolientesmarta
+[07Aug2025 03:43:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [A broken reflection]

@@ -1626,15 +1626,33 @@
     },
     "done": true
   },
+  "spore:ogre": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:31:30 +0000"
+    },
+    "done": true
+  },
   "spore:slasher": {
     "criteria": {
       "hurt_by_infected": "2025-08-07 03:27:34 +0000"
     },
     "done": true
   },
+  "spore:howitzer": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 03:36:12 +0000"
+    },
+    "done": true
+  },
   "spore:usurper": {
     "criteria": {
       "hurt_infected": "2025-08-07 03:19:24 +0000"
+    },
+    "done": true
+  },
+  "spore:busser": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 03:39:44 +0000"
     },
     "done": true
   },

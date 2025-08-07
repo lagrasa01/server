@@ -5177,6 +5177,12 @@
     },
     "done": true
   },
+  "spore:howitzer": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:35:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_trapdoor": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:36 +0000"
@@ -5204,6 +5210,12 @@
   "everycomp:recipes/decorations/q/regions_unexplored/pine_vertical_slab": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "spore:braurei": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:32:10 +0000"
     },
     "done": true
   },

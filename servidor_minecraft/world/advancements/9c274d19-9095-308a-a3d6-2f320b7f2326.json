@@ -5881,6 +5881,12 @@
     },
     "done": true
   },
+  "spore:howitzer": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:35:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2025-08-07 02:25:08 +0000"
