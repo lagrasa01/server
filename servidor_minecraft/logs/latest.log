@@ -1700,3 +1700,22 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [07Aug2025 02:54:21.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Atlantis must be real]
 [07Aug2025 02:55:42.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['Tabcaps'/49847, l='ServerLevel[world]', x=2779.99, y=-28.00, z=305.42] died: Tabcaps was blown up by Creeper
 [07Aug2025 02:59:41.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Cover Me with Diamonds]
+[07Aug2025 03:05:31.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[07Aug2025 03:06:10.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was assassinated by el_lolo
+[07Aug2025 03:06:18.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> ?
+[07Aug2025 03:06:20.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[07Aug2025 03:06:41.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta was kicked for floating too long!
+[07Aug2025 03:06:41.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta lost connection: Flying is not enabled on this server
+[07Aug2025 03:06:41.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta left the game
+[07Aug2025 03:06:41.885] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emolientesmarta
+[07Aug2025 03:06:45.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[07Aug2025 03:06:55.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emolientesmarta[/172.27.214.196:52917] logged in with entity id 82858 at (2849.2106758053606, 146.66659142092382, 400.4218185181013)
+[07Aug2025 03:06:55.408] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player emolientesmarta
+[07Aug2025 03:06:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta joined the game
+[07Aug2025 03:06:55.445] [Server thread/INFO] [Jade/]: Syncing config to emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a)
+[07Aug2025 03:06:55.608] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emolientesmarta (18)
+[07Aug2025 03:06:55.609] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emolientesmarta
+[07Aug2025 03:06:56.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 03:06:57.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 03:06:57.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a) successfully connected to voice chat
+[07Aug2025 03:07:57.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Meet the Sniper]
