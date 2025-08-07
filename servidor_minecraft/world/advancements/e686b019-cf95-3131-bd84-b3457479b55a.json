@@ -1741,5 +1741,17 @@
     },
     "done": true
   },
+  "spore:griefer": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 04:02:35 +0000"
+    },
+    "done": true
+  },
+  "spore:gazen": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 04:05:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

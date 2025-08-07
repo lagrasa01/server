@@ -1870,3 +1870,108 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [07Aug2025 04:03:17.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
 [07Aug2025 04:03:17.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
 [07Aug2025 04:03:38.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk drowned whilst trying to escape Scavenger
+[07Aug2025 04:04:12.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten by GazenBreacher
+[07Aug2025 04:04:47.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[07Aug2025 04:04:52.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Pulsating Goober]
+[07Aug2025 04:05:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was crushed by GazenBreacher
+[07Aug2025 04:05:07.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Infected Drowned
+[07Aug2025 04:05:07.460] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/140435, l='ServerLevel[world]', x=2699.49, y=59.11, z=401.78] died: el_lolo used PATITOELdios as paint
+[07Aug2025 04:05:09.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was dismantled by GazenBreacher
+[07Aug2025 04:05:10.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [You know what that means...]
+[07Aug2025 04:05:17.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk was kicked for floating too long!
+[07Aug2025 04:05:17.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Flying is not enabled on this server
+[07Aug2025 04:05:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
+[07Aug2025 04:05:17.552] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
+[07Aug2025 04:05:21.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta was kicked for floating too long!
+[07Aug2025 04:05:21.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta lost connection: Flying is not enabled on this server
+[07Aug2025 04:05:21.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta left the game
+[07Aug2025 04:05:21.402] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emolientesmarta
+[07Aug2025 04:05:27.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:62257] logged in with entity id 140818 at (2838.47705343767, 168.2352796881538, 432.0894608895961)
+[07Aug2025 04:05:27.634] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[07Aug2025 04:05:27.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[07Aug2025 04:05:27.677] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[07Aug2025 04:05:27.848] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[07Aug2025 04:05:27.849] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[07Aug2025 04:05:32.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[07Aug2025 04:05:33.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[07Aug2025 04:05:33.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[07Aug2025 04:05:35.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emolientesmarta[/172.27.214.196:57522] logged in with entity id 140901 at (2828.862585126946, 165.66017123466057, 403.2114485366357)
+[07Aug2025 04:05:35.825] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player emolientesmarta
+[07Aug2025 04:05:35.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta joined the game
+[07Aug2025 04:05:35.872] [Server thread/INFO] [Jade/]: Syncing config to emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a)
+[07Aug2025 04:05:36.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emolientesmarta (18)
+[07Aug2025 04:05:36.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emolientesmarta
+[07Aug2025 04:05:36.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 04:05:37.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 04:05:37.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a) successfully connected to voice chat
+[07Aug2025 04:05:53.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was crushed by GazenBreacher
+[07Aug2025 04:06:17.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was crushed by GazenBreacher
+[07Aug2025 04:06:26.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[07Aug2025 04:06:35.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 04:06:42.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[07Aug2025 04:07:45.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[07Aug2025 04:08:05.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was doomed to fall by uridk
+[07Aug2025 04:08:14.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta was kicked for floating too long!
+[07Aug2025 04:08:14.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta lost connection: Flying is not enabled on this server
+[07Aug2025 04:08:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta left the game
+[07Aug2025 04:08:14.155] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emolientesmarta
+[07Aug2025 04:08:25.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emolientesmarta[/172.27.214.196:57766] logged in with entity id 143192 at (2864.1872325603968, 165.16017123466057, 408.8648640264998)
+[07Aug2025 04:08:25.783] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player emolientesmarta
+[07Aug2025 04:08:25.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta joined the game
+[07Aug2025 04:08:25.809] [Server thread/INFO] [Jade/]: Syncing config to emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a)
+[07Aug2025 04:08:25.978] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emolientesmarta (18)
+[07Aug2025 04:08:25.978] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emolientesmarta
+[07Aug2025 04:08:26.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 04:08:27.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 04:08:27.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a) successfully connected to voice chat
+[07Aug2025 04:08:47.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[07Aug2025 04:09:04.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios died
+[07Aug2025 04:09:17.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was dismantled by GazenBreacher
+[07Aug2025 04:09:22.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ButtonHatBoy'/142833, l='ServerLevel[world]', x=2639.15, y=11.11, z=400.07] died: ButtonHatBoy drowned
+[07Aug2025 04:09:55.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to 2621.500000, 63.000000, 465.500000]
+[07Aug2025 04:09:56.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Infected Drowned
+[07Aug2025 04:10:12.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk was kicked for floating too long!
+[07Aug2025 04:10:12.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Flying is not enabled on this server
+[07Aug2025 04:10:12.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
+[07Aug2025 04:10:12.778] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
+[07Aug2025 04:10:15.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios was kicked for floating too long!
+[07Aug2025 04:10:15.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios lost connection: Flying is not enabled on this server
+[07Aug2025 04:10:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios left the game
+[07Aug2025 04:10:15.363] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PATITOELdios
+[07Aug2025 04:10:20.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PATITOELdios[/172.27.59.43:55064] logged in with entity id 145521 at (2788.079165668709, 90.60561330730324, 401.5899137159924)
+[07Aug2025 04:10:20.886] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player PATITOELdios
+[07Aug2025 04:10:20.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios joined the game
+[07Aug2025 04:10:20.915] [Server thread/INFO] [Jade/]: Syncing config to PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117)
+[07Aug2025 04:10:21.512] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PATITOELdios (18)
+[07Aug2025 04:10:21.513] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PATITOELdios
+[07Aug2025 04:10:23.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:62316] logged in with entity id 145599 at (2794.0065459408147, 113.66017123466067, 419.4377949288037)
+[07Aug2025 04:10:23.145] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[07Aug2025 04:10:23.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[07Aug2025 04:10:23.205] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[07Aug2025 04:10:23.715] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[07Aug2025 04:10:23.716] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[07Aug2025 04:10:25.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[07Aug2025 04:10:26.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[07Aug2025 04:10:26.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
+[07Aug2025 04:10:30.878] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[07Aug2025 04:10:31.880] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[07Aug2025 04:10:31.880] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[07Aug2025 04:11:46.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo used PATITOELdios as paint
+[07Aug2025 04:12:31.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Pulsating Goober]
+[07Aug2025 04:12:55.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was shot by Skeleton
+[07Aug2025 04:13:12.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios was kicked for floating too long!
+[07Aug2025 04:13:12.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios lost connection: Flying is not enabled on this server
+[07Aug2025 04:13:12.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios left the game
+[07Aug2025 04:13:12.101] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PATITOELdios
+[07Aug2025 04:13:17.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PATITOELdios[/172.27.59.43:55073] logged in with entity id 147216 at (2818.956857560937, 135.66659142092382, 396.62767961483263)
+[07Aug2025 04:13:17.377] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player PATITOELdios
+[07Aug2025 04:13:17.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios joined the game
+[07Aug2025 04:13:17.409] [Server thread/INFO] [Jade/]: Syncing config to PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117)
+[07Aug2025 04:13:18.111] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PATITOELdios (18)
+[07Aug2025 04:13:18.112] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PATITOELdios
+[07Aug2025 04:13:21.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[07Aug2025 04:13:21.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/146960, l='ServerLevel[world]', x=2749.29, y=-30.00, z=419.84] died: xXFuryXx was doomed to fall by Skeleton
+[07Aug2025 04:13:22.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[07Aug2025 04:13:22.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
+[07Aug2025 04:13:41.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set PATITOELdios's game mode to Spectator Mode]
+[07Aug2025 04:13:52.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set uridk's game mode to Spectator Mode]

@@ -5225,6 +5225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-07 04:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-07 00:40:12 +0000"
@@ -5309,15 +5315,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-07 04:02:55 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/vertical_pine_planks": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
     },
     "done": true
   },
+  "spore:mound": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 04:04:52 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/c/regions_unexplored/pine_window": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-07 04:02:55 +0000"
     },
     "done": true
   },

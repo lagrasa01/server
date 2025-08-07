@@ -5845,45 +5845,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2025-08-07 02:49:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2025-08-07 02:49:16 +0000"
-    },
-    "done": true
-  },
-  "spore:inf_witch": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:18:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-08-07 02:25:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-08-07 02:48:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-08-07 02:46:58 +0000"
-    },
-    "done": true
-  },
-  "spore:howitzer": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:35:05 +0000"
     },
     "done": true
   },
@@ -5899,9 +5863,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-08-07 02:25:08 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "has_item": "2025-08-07 02:31:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/survey_tools": {
+    "criteria": {
+      "has_hammer": "2025-08-07 02:31:43 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/hammer": {
+    "criteria": {
+      "0": "2025-08-07 02:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-07 02:46:58 +0000"
     },
     "done": true
   },
@@ -5917,15 +5905,21 @@
     },
     "done": true
   },
-  "superbwarfare:main/hammer": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "0": "2025-08-07 02:31:45 +0000"
+      "voluntary_exile": "2025-08-07 02:48:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
-      "has_smithing_trim_template": "2025-08-07 03:09:03 +0000"
+      "has_brown_wool": "2025-08-07 02:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-07 02:49:16 +0000"
     },
     "done": true
   },
@@ -5935,9 +5929,9 @@
     },
     "done": true
   },
-  "spore:vigil": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "hurt_infected": "2025-08-07 03:25:06 +0000"
+      "has_smithing_trim_template": "2025-08-07 03:09:03 +0000"
     },
     "done": true
   },
@@ -5947,21 +5941,45 @@
     },
     "done": true
   },
+  "spore:inf_witch": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:18:45 +0000"
+    },
+    "done": true
+  },
+  "spore:vigil": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "spore:volatile": {
     "criteria": {
       "hurt_infected": "2025-08-07 03:25:50 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+  "spore:howitzer": {
     "criteria": {
-      "has_log": "2025-08-07 02:25:08 +0000"
+      "hurt_infected": "2025-08-07 03:35:05 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/survey_tools": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_hammer": "2025-08-07 02:31:43 +0000"
+      "has_kelp": "2025-08-07 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-07 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-07 04:03:15 +0000"
     },
     "done": true
   },
