@@ -3776,6 +3776,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "pine_log": "2025-08-07 02:37:42 +0000",
       "redwood_log": "2025-08-04 23:41:04 +0000"
     },
     "done": false
@@ -5077,6 +5078,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 02:37:42 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_post": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
@@ -5179,6 +5186,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-08-07 02:37:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pine_stairs": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:36 +0000"
@@ -5218,6 +5231,12 @@
   "everycomp:recipes/decorations/q/regions_unexplored/stripped_pine_post": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 02:37:42 +0000"
     },
     "done": true
   },

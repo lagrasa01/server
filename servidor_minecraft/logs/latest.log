@@ -1656,3 +1656,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Aug2025 02:29:51.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/58246, l='ServerLevel[world]', x=2566.70, y=19.77, z=475.33] died: Deyvid was shot by Skeleton
 [07Aug2025 02:31:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [HAMMAH!]
 [07Aug2025 02:31:45.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Eighty!]
+[07Aug2025 02:39:11.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Joker_de_Coeur'/66190, l='ServerLevel[world]', x=2717.70, y=31.00, z=420.70] died: Joker_de_Coeur suffocated in a wall
