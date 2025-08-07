@@ -46,7 +46,9 @@
       "minecraft:deep_ocean": "2025-08-07 02:07:51 +0000",
       "minecraft:birch_forest": "2025-08-04 01:10:00 +0000",
       "minecraft:savanna_plateau": "2025-08-04 00:33:56 +0000",
+      "minecraft:beach": "2025-08-07 04:35:52 +0000",
       "minecraft:dark_forest": "2025-08-04 01:09:16 +0000",
+      "minecraft:sparse_jungle": "2025-08-07 04:36:02 +0000",
       "minecraft:river": "2025-08-04 01:01:33 +0000",
       "minecraft:lukewarm_ocean": "2025-08-07 04:25:13 +0000",
       "minecraft:stony_shore": "2025-08-07 00:33:29 +0000",
@@ -5529,6 +5531,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-08-07 04:25:31 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_trader": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 04:32:27 +0000"
     },
     "done": true
   },

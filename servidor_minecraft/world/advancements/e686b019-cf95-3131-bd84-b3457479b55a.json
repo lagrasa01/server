@@ -42,10 +42,12 @@
       "minecraft:beach": "2025-08-07 02:44:13 +0000",
       "minecraft:dark_forest": "2025-08-07 04:25:42 +0000",
       "minecraft:lukewarm_ocean": "2025-08-07 04:25:20 +0000",
+      "minecraft:river": "2025-08-07 04:36:10 +0000",
       "minecraft:stony_shore": "2025-08-07 01:56:17 +0000",
       "minecraft:ocean": "2025-08-07 02:12:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-07 04:24:54 +0000",
-      "minecraft:savanna": "2025-08-07 02:48:12 +0000"
+      "minecraft:savanna": "2025-08-07 02:48:12 +0000",
+      "minecraft:plains": "2025-08-07 04:42:15 +0000"
     },
     "done": false
   },
@@ -79,6 +81,7 @@
       "pine_taiga": "2025-08-07 01:57:05 +0000",
       "grassy_beach": "2025-08-07 02:44:16 +0000",
       "blackwood_taiga": "2025-08-07 04:25:43 +0000",
+      "sparse_redwoods": "2025-08-07 04:32:39 +0000",
       "deciduous_forest": "2025-08-07 02:46:32 +0000",
       "temperate_grove": "2025-08-07 02:45:38 +0000",
       "grassland": "2025-08-07 02:45:41 +0000"
@@ -91,6 +94,7 @@
       "pine_taiga": "2025-08-07 01:57:05 +0000",
       "grassy_beach": "2025-08-07 02:44:16 +0000",
       "blackwood_taiga": "2025-08-07 04:25:43 +0000",
+      "sparse_redwoods": "2025-08-07 04:32:39 +0000",
       "deciduous_forest": "2025-08-07 02:46:32 +0000",
       "temperate_grove": "2025-08-07 02:45:38 +0000",
       "grassland": "2025-08-07 02:45:41 +0000"
@@ -746,7 +750,9 @@
     "criteria": {
       "cooked_porkchop": "2025-08-07 03:50:48 +0000",
       "cooked_mutton": "2025-08-07 02:28:20 +0000",
-      "apple": "2025-08-07 02:15:59 +0000"
+      "apple": "2025-08-07 02:15:59 +0000",
+      "salmon": "2025-08-07 04:39:29 +0000",
+      "cod": "2025-08-07 04:38:57 +0000"
     },
     "done": false
   },
@@ -1938,9 +1944,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-07 04:38:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-08-07 04:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-07 04:38:54 +0000"
     },
     "done": true
   },
@@ -1956,15 +1974,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-07 04:38:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
     "criteria": {
       "has_blue_bioshroom": "2025-08-07 04:25:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-07 04:38:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-08-07 04:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-07 04:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-07 04:38:52 +0000"
     },
     "done": true
   },

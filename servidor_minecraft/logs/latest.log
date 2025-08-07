@@ -2094,3 +2094,47 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [07Aug2025 04:32:45.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Floating eyes ?]
 [07Aug2025 04:33:47.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
 [07Aug2025 04:34:09.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[07Aug2025 04:36:17.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 0.41364245317322457
+[07Aug2025 04:36:17.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 0.7004945705741648
+[07Aug2025 04:36:17.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 0.8745833718712674
+[07Aug2025 04:36:17.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 1.1283022590121163
+[07Aug2025 04:36:17.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 1.4453190975809775
+[07Aug2025 04:36:17.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 0.4866411343839445
+[07Aug2025 04:36:17.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 0.3575838555957489
+[07Aug2025 04:36:17.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 0.3001154363071237
+[07Aug2025 04:36:17.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 0.6300944331935625
+[07Aug2025 04:36:17.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 0.9168025978081005
+[07Aug2025 04:36:17.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PATITOELdios) moved wrongly! 0.4634177187674595
+[07Aug2025 04:36:47.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Aug2025 04:37:07.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4684ms or 93 ticks behind
+[07Aug2025 04:37:27.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5661ms or 113 ticks behind
+[07Aug2025 04:37:28.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of uridk) moved wrongly! 0.3425718203507131
+[07Aug2025 04:37:28.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of uridk) moved wrongly! 0.7915123360453435
+[07Aug2025 04:37:28.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of uridk) moved wrongly! 0.966222631472192
+[07Aug2025 04:37:45.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
+[07Aug2025 04:37:54.092] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[07Aug2025 04:37:56.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[07Aug2025 04:38:06.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[07Aug2025 04:39:07.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[07Aug2025 04:39:27.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4999ms or 99 ticks behind
+[07Aug2025 04:39:44.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2323ms or 46 ticks behind
+[07Aug2025 04:40:17.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Aug2025 04:40:17.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/186841, l='ServerLevel[world]', x=3303.63, y=20.00, z=1477.22] died: JhonOK22 was slain by Enderman
+[07Aug2025 04:40:34.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[07Aug2025 04:40:57.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[07Aug2025 04:41:09.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['The_Harbinger69'/188531, l='ServerLevel[world]', x=2875.61, y=71.00, z=1878.61] died: The_Harbinger69 was assassinated by PATITOELdios
+[07Aug2025 04:41:09.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Scamper['gregTheTyrant'/169376, l='ServerLevel[world]', x=-3.24, y=69.00, z=79.57] died: gregTheTyrant was pricked to death
+[07Aug2025 04:41:16.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
+[07Aug2025 04:41:34.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[07Aug2025 04:42:00.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11836ms or 236 ticks behind
+[07Aug2025 04:42:27.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11202ms or 224 ticks behind
+[07Aug2025 04:42:49.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7361ms or 147 ticks behind
+[07Aug2025 04:42:52.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 04:42:58.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Disconnected
+[07Aug2025 04:42:58.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
+[07Aug2025 04:42:58.967] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
+[07Aug2025 04:43:10.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5597ms or 111 ticks behind
+[07Aug2025 04:43:45.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[07Aug2025 04:44:09.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta lost connection: Disconnected
+[07Aug2025 04:44:09.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta left the game
+[07Aug2025 04:44:09.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emolientesmarta

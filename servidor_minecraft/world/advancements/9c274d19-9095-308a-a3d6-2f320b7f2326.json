@@ -42,6 +42,7 @@
       "minecraft:bamboo_jungle": "2025-08-07 04:29:04 +0000",
       "minecraft:savanna_plateau": "2025-08-04 00:35:17 +0000",
       "minecraft:beach": "2025-08-07 02:23:20 +0000",
+      "minecraft:sparse_jungle": "2025-08-07 04:37:10 +0000",
       "minecraft:river": "2025-08-04 01:10:17 +0000",
       "minecraft:lukewarm_ocean": "2025-08-07 04:25:12 +0000",
       "minecraft:stony_shore": "2025-08-07 00:45:28 +0000",
@@ -49,6 +50,7 @@
       "minecraft:forest": "2025-08-06 04:51:15 +0000",
       "minecraft:lush_caves": "2025-08-04 01:52:44 +0000",
       "minecraft:ocean": "2025-08-07 01:26:10 +0000",
+      "minecraft:jungle": "2025-08-07 04:37:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-07 04:24:49 +0000",
       "minecraft:flower_forest": "2025-08-06 02:30:16 +0000",
       "minecraft:savanna": "2025-08-04 00:58:00 +0000",
@@ -307,6 +309,7 @@
       "deciduous_forest": "2025-08-04 01:45:54 +0000",
       "towering_cliffs": "2025-08-04 04:18:03 +0000",
       "chalk_cliffs": "2025-08-04 02:32:10 +0000",
+      "bamboo_forest": "2025-08-07 04:40:50 +0000",
       "temperate_grove": "2025-08-04 04:20:23 +0000",
       "prairie": "2025-08-04 01:13:38 +0000",
       "grassland": "2025-08-04 04:02:57 +0000",
@@ -329,6 +332,7 @@
       "deciduous_forest": "2025-08-04 01:45:54 +0000",
       "towering_cliffs": "2025-08-04 04:18:03 +0000",
       "chalk_cliffs": "2025-08-04 02:32:10 +0000",
+      "bamboo_forest": "2025-08-07 04:40:50 +0000",
       "temperate_grove": "2025-08-04 04:20:23 +0000",
       "prairie": "2025-08-04 01:13:38 +0000",
       "grassland": "2025-08-04 04:02:57 +0000",
@@ -5999,6 +6003,12 @@
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-08-07 04:29:03 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_trader": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 04:32:45 +0000"
     },
     "done": true
   },
