@@ -1779,3 +1779,41 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [07Aug2025 03:43:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has succumbed to the infection
 [07Aug2025 03:43:05.395] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/110707, l='ServerLevel[world]', x=2601.52, y=68.00, z=377.78] died: uridk was assassinated by emolientesmarta
 [07Aug2025 03:43:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [A broken reflection]
+[07Aug2025 03:43:29.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [The Spanish Inquisition is back!]
+[07Aug2025 03:43:36.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta forgot Inquisitor was a bioweapon
+[07Aug2025 03:43:42.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/108557, l='ServerLevel[world]', x=2641.58, y=-3.00, z=351.28] died: That_Insane_Guy was shot by Skeleton
+[07Aug2025 03:43:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[07Aug2025 03:43:58.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [JOTAROOO]
+[07Aug2025 03:44:27.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[07Aug2025 03:44:33.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[07Aug2025 03:44:36.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk fell from a high place
+[07Aug2025 03:44:43.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['BigXplosion'/112334, l='ServerLevel[world]', x=2759.93, y=-28.23, z=363.67] died: BigXplosion was blown up by Creeper
+[07Aug2025 03:49:20.989] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/114253, l='ServerLevel[world]', x=2580.92, y=82.00, z=410.04] died: Helldwin was assassinated by PATITOELdios
+[07Aug2025 03:49:30.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [GET DOWN MISTER PRESIDENT]
+[07Aug2025 03:49:31.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['NexouuZ'/114901, l='ServerLevel[world]', x=2600.31, y=74.00, z=409.59] died: NexouuZ was gunned down by PATITOELdios
+[07Aug2025 03:49:31.989] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/113191, l='ServerLevel[world]', x=2601.17, y=72.00, z=401.95] died: cheesepuff was assassinated by PATITOELdios
+[07Aug2025 03:50:08.136] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/115330, l='ServerLevel[world]', x=2591.46, y=64.00, z=344.16] died: That_Insane_Guy was assassinated by emolientesmarta
+[07Aug2025 03:50:49.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was eaten alive by Phayres
+[07Aug2025 03:50:55.141] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['emolientesmarta'/115662, l='ServerLevel[world]', x=2648.96, y=68.00, z=370.82] died: emolientesmarta was assassinated by PATITOELdios
+[07Aug2025 03:50:58.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 03:51:14.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Merasmus the Wizard!]
+[07Aug2025 03:51:31.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was fungi-fied by Phayres
+[07Aug2025 03:52:03.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 03:52:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was fungi-fied by Phayres
+[07Aug2025 03:52:19.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TVGuy'/114985, l='ServerLevel[world]', x=2581.06, y=69.00, z=337.14] died: TVGuy was assassinated by PATITOELdios
+[07Aug2025 03:52:27.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta was kicked for floating too long!
+[07Aug2025 03:52:27.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emolientesmarta lost connection: Flying is not enabled on this server
+[07Aug2025 03:52:27.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta left the game
+[07Aug2025 03:52:27.848] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emolientesmarta
+[07Aug2025 03:52:40.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['emolientesmarta'/116116, l='ServerLevel[world]', x=2614.13, y=70.25, z=391.77] died: emolientesmarta was assassinated by el_lolo
+[07Aug2025 03:52:41.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emolientesmarta[/172.27.214.196:56510] logged in with entity id 117043 at (2827.4792628248742, 165.66017123466057, 400.1199500324263)
+[07Aug2025 03:52:41.324] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player emolientesmarta
+[07Aug2025 03:52:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta joined the game
+[07Aug2025 03:52:41.349] [Server thread/INFO] [Jade/]: Syncing config to emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a)
+[07Aug2025 03:52:41.514] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emolientesmarta (18)
+[07Aug2025 03:52:41.515] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emolientesmarta
+[07Aug2025 03:52:42.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 03:52:43.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 03:52:43.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a) successfully connected to voice chat
+[07Aug2025 03:52:44.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['emolientesmarta'/116661, l='ServerLevel[world]', x=2641.57, y=66.00, z=367.78] died: emolientesmarta was gunned down by PATITOELdios
+[07Aug2025 03:53:03.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['TokenOni420'/114932, l='ServerLevel[world]', x=2696.30, y=5.00, z=316.35] died: TokenOni420 was blown up by Creeper

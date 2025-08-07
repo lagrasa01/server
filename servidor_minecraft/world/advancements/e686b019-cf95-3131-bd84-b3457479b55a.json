@@ -739,6 +739,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-07 03:50:48 +0000",
       "cooked_mutton": "2025-08-07 02:28:20 +0000",
       "apple": "2025-08-07 02:15:59 +0000"
     },
@@ -1650,6 +1651,12 @@
     },
     "done": true
   },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:43:05 +0000"
+    },
+    "done": true
+  },
   "spore:busser": {
     "criteria": {
       "hurt_by_infected": "2025-08-07 03:39:44 +0000"
@@ -1689,6 +1696,18 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-08-07 03:24:14 +0000"
+    },
+    "done": true
+  },
+  "spore:delusioner": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 03:51:14 +0000"
+    },
+    "done": true
+  },
+  "spore:inquisitor": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:43:29 +0000"
     },
     "done": true
   },

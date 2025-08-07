@@ -5249,6 +5249,12 @@
     },
     "done": true
   },
+  "spore:hevoker": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:43:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-08-07 03:11:29 +0000"
@@ -5276,6 +5282,12 @@
   "everycomp:recipes/decorations/q/regions_unexplored/pine_ladder": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "spore:verva": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:41:27 +0000"
     },
     "done": true
   },
@@ -5336,6 +5348,12 @@
   "regions_unexplored:recipes/building_blocks/pine_stairs": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "spore:vigil": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:41:19 +0000"
     },
     "done": true
   },
