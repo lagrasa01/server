@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e686b019cf953131bd84b3457479b55a"
+	name: "emolientesmarta#e686b019"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

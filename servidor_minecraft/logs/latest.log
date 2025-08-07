@@ -1574,3 +1574,22 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Aug2025 01:38:05.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['lightigivhi'/35635, l='ServerLevel[world]', x=2590.80, y=67.00, z=373.37] died: lightigivhi was assassinated by PATITOELdios
 [07Aug2025 01:39:11.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: The difficulty has been set to Hard]
 [07Aug2025 01:40:12.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk fell from a high place
+[07Aug2025 01:56:05.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emolientesmarta[/172.27.214.196:51443] logged in with entity id 43151 at (7.5, 113.0, 1.5)
+[07Aug2025 01:56:05.849] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player emolientesmarta
+[07Aug2025 01:56:05.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta joined the game
+[07Aug2025 01:56:06.101] [Server thread/INFO] [Jade/]: Syncing config to emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a)
+[07Aug2025 01:56:07.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emolientesmarta (18)
+[07Aug2025 01:56:07.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emolientesmarta
+[07Aug2025 01:56:11.245] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 01:56:12.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 01:56:12.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a) successfully connected to voice chat
+[07Aug2025 01:56:16.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 01:56:20.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta fell from a high place
+[07Aug2025 01:56:49.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Dagon worshipper]
+[07Aug2025 01:56:49.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Meet the team]
+[07Aug2025 01:56:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was eaten alive by Bloater
+[07Aug2025 01:56:51.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Atomiclbomb'/43626, l='ServerLevel[world]', x=57.13, y=119.00, z=25.06] died: Atomiclbomb was shot by Skeleton
+[07Aug2025 01:57:04.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 01:57:33.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[07Aug2025 01:58:00.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emolientesmarta> e
+[07Aug2025 01:59:35.295] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/44926, l='ServerLevel[world]', x=2578.36, y=66.00, z=346.90] died: Technoblade was assassinated by uridk

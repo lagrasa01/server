@@ -1,0 +1,17 @@
+{
+	id: "e686b019-cf95-3131-bd84-b3457479b55a"
+	type: "player"
+	player_name: "emolientesmarta"
+	ranks: {
+		e686b019-cf95-3131-bd84-b3457479b55a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "emolientesmarta"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D5FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
