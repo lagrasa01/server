@@ -1516,3 +1516,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Aug2025 01:05:30.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
 [07Aug2025 01:05:42.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
 [07Aug2025 01:10:28.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Overdose]
+[07Aug2025 01:14:18.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonardodpxd lost connection: Disconnected
+[07Aug2025 01:14:18.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd left the game
+[07Aug2025 01:14:18.943] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonardodpxd
+[07Aug2025 01:14:51.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: The difficulty has been set to Hard]
+[07Aug2025 01:15:36.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: The difficulty has been set to Normal]
