@@ -46,6 +46,7 @@
       "minecraft:deep_ocean": "2025-08-07 00:50:55 +0000",
       "minecraft:birch_forest": "2025-08-06 04:51:07 +0000",
       "minecraft:savanna_plateau": "2025-08-04 00:33:40 +0000",
+      "minecraft:beach": "2025-08-07 02:44:43 +0000",
       "minecraft:dark_forest": "2025-08-04 01:09:05 +0000",
       "minecraft:sparse_jungle": "2025-08-04 01:17:14 +0000",
       "minecraft:river": "2025-08-04 01:01:33 +0000",
@@ -5936,15 +5937,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:46:30 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_chest": {
     "criteria": {
       "has_item": "2025-08-07 01:50:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:46:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_trapdoor": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:46:30 +0000"
     },
     "done": true
   },
@@ -6020,9 +6039,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:46:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_button": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:46:30 +0000"
     },
     "done": true
   },
@@ -6047,6 +6078,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-07 00:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:46:30 +0000"
     },
     "done": true
   },
