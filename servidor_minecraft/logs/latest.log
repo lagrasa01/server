@@ -1726,3 +1726,38 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [07Aug2025 03:19:24.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Meet the sweaty sniper]
 [07Aug2025 03:21:29.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/90047, l='ServerLevel[world]', x=2474.26, y=27.00, z=346.08] died: Keymind was slain by Enderman
 [07Aug2025 03:21:31.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [And the winner of the Darwin awards is ?]
+[07Aug2025 03:24:17.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PedroHenrry'/91652, l='ServerLevel[world]', x=2547.00, y=22.00, z=372.46] died: PedroHenrry was shot by Skeleton
+[07Aug2025 03:24:20.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Bro let me go]
+[07Aug2025 03:24:22.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Unwanted Delivery]
+[07Aug2025 03:24:25.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['NexouuZ'/91653, l='ServerLevel[world]', x=2555.10, y=19.00, z=370.21] died: NexouuZ was shot by Skeleton
+[07Aug2025 03:24:45.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Specter
+[07Aug2025 03:24:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Meet the Spy]
+[07Aug2025 03:24:54.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was slain by Specter
+[07Aug2025 03:24:56.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/92184, l='ServerLevel[world]', x=2606.55, y=72.00, z=405.52] died: PATITOELdios was assassinated by uridk
+[07Aug2025 03:25:00.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['Hypnotizd'/91394, l='ServerLevel[world]', x=2594.66, y=73.00, z=402.45] died: Hypnotizd was assassinated by el_lolo
+[07Aug2025 03:25:06.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [I spy with my little eye]
+[07Aug2025 03:25:19.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['emolientesmarta'/92379, l='ServerLevel[world]', x=2590.81, y=74.00, z=402.81] died: emolientesmarta was assassinated by el_lolo
+[07Aug2025 03:25:39.741] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/92674, l='ServerLevel[world]', x=2688.53, y=69.30, z=355.07] died: Ripley was shot by Dany_Why
+[07Aug2025 03:25:50.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Addict]
+[07Aug2025 03:25:58.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Volatile
+[07Aug2025 03:25:58.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Addict]
+[07Aug2025 03:26:04.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [I am not that blind]
+[07Aug2025 03:26:42.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/92647, l='ServerLevel[world]', x=2696.52, y=69.00, z=354.49] died: Dany_Why was blown up by Creeper
+[07Aug2025 03:27:28.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[07Aug2025 03:27:31.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Infected Human
+[07Aug2025 03:27:34.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Captain Hook]
+[07Aug2025 03:27:38.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slasher was happy to remove emolientesmarta limbs
+[07Aug2025 03:28:26.793] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/94426, l='ServerLevel[world]', x=2610.49, y=74.17, z=395.99] died: PATITOELdios was gunned down by uridk
+[07Aug2025 03:28:52.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[07Aug2025 03:29:04.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 03:29:10.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 03:31:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has succumbed to the infection
+[07Aug2025 03:31:09.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/96575, l='ServerLevel[world]', x=2611.19, y=84.00, z=398.08] died: uridk was assassinated by el_lolo
+[07Aug2025 03:31:17.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[07Aug2025 03:31:30.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta has made the advancement [Get out from my swamp!]
+[07Aug2025 03:32:10.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [The whole kitchen]
+[07Aug2025 03:32:18.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was doomed to fall
+[07Aug2025 03:32:18.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was slain by Usurper
+[07Aug2025 03:32:20.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/97270, l='ServerLevel[world]', x=2614.59, y=85.25, z=398.48] died: PATITOELdios was assassinated by el_lolo
+[07Aug2025 03:32:30.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta fell from a high place
+[07Aug2025 03:33:04.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> zzzz

@@ -4008,6 +4008,7 @@
       "minecraft:skeleton": "2025-08-04 03:11:50 +0000",
       "minecraft:spider": "2025-08-04 02:54:59 +0000",
       "minecraft:creeper": "2025-08-04 03:16:09 +0000",
+      "minecraft:phantom": "2025-08-07 03:27:07 +0000",
       "minecraft:witch": "2025-08-06 03:23:07 +0000",
       "minecraft:enderman": "2025-08-05 01:34:24 +0000",
       "minecraft:silverfish": "2025-08-06 03:18:26 +0000",
@@ -5928,9 +5929,21 @@
     },
     "done": true
   },
+  "spore:vigil": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:25:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_dune_armor_trim_smithing_template": "2025-08-07 03:09:03 +0000"
+    },
+    "done": true
+  },
+  "spore:volatile": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:25:50 +0000"
     },
     "done": true
   },

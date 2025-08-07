@@ -1557,6 +1557,7 @@
       "minecraft:skeleton": "2025-08-04 03:29:10 +0000",
       "minecraft:spider": "2025-08-04 01:07:41 +0000",
       "minecraft:creeper": "2025-08-04 03:29:32 +0000",
+      "minecraft:phantom": "2025-08-07 03:27:38 +0000",
       "minecraft:witch": "2025-08-07 01:39:31 +0000"
     },
     "done": false
@@ -5275,6 +5276,12 @@
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "spore:stalker": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:26:04 +0000"
     },
     "done": true
   },

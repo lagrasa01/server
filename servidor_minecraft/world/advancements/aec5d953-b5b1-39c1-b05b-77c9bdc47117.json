@@ -6033,6 +6033,12 @@
     },
     "done": true
   },
+  "spore:scamper": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:21:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
     "criteria": {
       "has_log": "2025-08-07 02:36:08 +0000"
@@ -6072,6 +6078,12 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-08-07 02:46:30 +0000"
+    },
+    "done": true
+  },
+  "spore:volatile": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 03:25:58 +0000"
     },
     "done": true
   },
