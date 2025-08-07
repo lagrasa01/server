@@ -1466,3 +1466,46 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Aug2025 00:32:43.632] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
 [07Aug2025 00:35:15.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PedroHenrry'/5251, l='ServerLevel[world]', x=2404.30, y=50.00, z=424.58] died: PedroHenrry was slain by Enderman
 [07Aug2025 00:38:52.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/5399, l='ServerLevel[world]', x=2562.88, y=19.00, z=472.59] died: Ike was shot by Skeleton
+[07Aug2025 00:40:12.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Hot Stuff]
+[07Aug2025 00:43:15.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Overdose]
+[07Aug2025 00:44:44.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Technoblade'/8915, l='ServerLevel[world]', x=2681.45, y=0.80, z=359.45] died: Technoblade suffocated in a wall
+[07Aug2025 00:44:57.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:61676] logged in with entity id 9326 at (2011.41629533484, 62.0, 397.6013472907529)
+[07Aug2025 00:44:57.638] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[07Aug2025 00:44:57.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[07Aug2025 00:44:57.662] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[07Aug2025 00:44:58.845] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[07Aug2025 00:44:58.846] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[07Aug2025 00:45:06.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[07Aug2025 00:45:07.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[07Aug2025 00:45:07.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[07Aug2025 00:45:17.047] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['Azami'/8035, l='ServerLevel[world]', x=2652.28, y=-28.51, z=325.11] died: Azami was shot by Skeleton
+[07Aug2025 00:45:28.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[07Aug2025 00:50:12.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonardodpxd[/172.27.77.103:62130] logged in with entity id 12091 at (310.50253475516615, 65.0, 735.2724368073855)
+[07Aug2025 00:50:12.725] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Leonardodpxd
+[07Aug2025 00:50:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd joined the game
+[07Aug2025 00:50:12.749] [Server thread/INFO] [Jade/]: Syncing config to Leonardodpxd (84b009f0-4628-3d1b-bd44-a7d89aae487b)
+[07Aug2025 00:50:14.008] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonardodpxd (18)
+[07Aug2025 00:50:14.009] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonardodpxd
+[07Aug2025 00:50:24.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84b009f0-4628-3d1b-bd44-a7d89aae487b
+[07Aug2025 00:50:25.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84b009f0-4628-3d1b-bd44-a7d89aae487b
+[07Aug2025 00:50:25.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonardodpxd (84b009f0-4628-3d1b-bd44-a7d89aae487b) successfully connected to voice chat
+[07Aug2025 00:50:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [You know what that means...]
+[07Aug2025 00:50:37.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonardodpxd lost connection: Disconnected
+[07Aug2025 00:50:37.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd left the game
+[07Aug2025 00:50:37.257] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonardodpxd
+[07Aug2025 00:54:33.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonardodpxd[/172.27.77.103:62613] logged in with entity id 16956 at (273.78254182967254, 69.0, 750.1913209274069)
+[07Aug2025 00:54:33.025] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Leonardodpxd
+[07Aug2025 00:54:33.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd joined the game
+[07Aug2025 00:54:33.047] [Server thread/INFO] [Jade/]: Syncing config to Leonardodpxd (84b009f0-4628-3d1b-bd44-a7d89aae487b)
+[07Aug2025 00:54:34.252] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonardodpxd (18)
+[07Aug2025 00:54:34.252] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonardodpxd
+[07Aug2025 00:54:35.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[07Aug2025 00:54:36.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has succumbed to the infection
+[07Aug2025 00:54:40.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Leonardodpxd'/17300, l='ServerLevel[world]', x=2627.22, y=70.00, z=423.30] died: Leonardodpxd was assassinated by el_lolo
+[07Aug2025 00:54:42.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84b009f0-4628-3d1b-bd44-a7d89aae487b
+[07Aug2025 00:54:43.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84b009f0-4628-3d1b-bd44-a7d89aae487b
+[07Aug2025 00:54:43.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonardodpxd (84b009f0-4628-3d1b-bd44-a7d89aae487b) successfully connected to voice chat
+[07Aug2025 00:54:48.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[07Aug2025 00:55:28.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported Leonardodpxd to el_lolo]
+[07Aug2025 00:55:45.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Dany_Why'/18019, l='ServerLevel[world]', x=2644.45, y=-15.20, z=341.45] died: Dany_Why suffocated in a wall
+[07Aug2025 00:56:09.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['xXFuryXx'/18455, l='ServerLevel[world]', x=2643.44, y=-16.00, z=341.45] died: xXFuryXx suffocated in a wall

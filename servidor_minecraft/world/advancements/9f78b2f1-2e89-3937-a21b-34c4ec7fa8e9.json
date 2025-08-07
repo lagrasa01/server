@@ -683,6 +683,7 @@
       "flower_fields": "2025-08-06 02:30:16 +0000",
       "magnolia_highlands": "2025-08-04 00:44:05 +0000",
       "sparse_redwoods": "2025-08-04 01:06:55 +0000",
+      "mountains": "2025-08-07 00:35:39 +0000",
       "deciduous_forest": "2025-08-05 00:18:35 +0000",
       "towering_cliffs": "2025-08-04 04:33:58 +0000",
       "chalk_cliffs": "2025-08-04 01:48:40 +0000",
@@ -705,6 +706,7 @@
       "flower_fields": "2025-08-06 02:30:16 +0000",
       "magnolia_highlands": "2025-08-04 00:44:05 +0000",
       "sparse_redwoods": "2025-08-04 01:06:55 +0000",
+      "mountains": "2025-08-07 00:35:39 +0000",
       "deciduous_forest": "2025-08-05 00:18:35 +0000",
       "towering_cliffs": "2025-08-04 04:33:58 +0000",
       "chalk_cliffs": "2025-08-04 01:48:40 +0000",
@@ -5068,6 +5070,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-06 04:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-07 00:40:12 +0000"
     },
     "done": true
   },
