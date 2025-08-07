@@ -3780,7 +3780,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "pine_log": "2025-08-07 02:37:42 +0000",
-      "redwood_log": "2025-08-04 23:41:04 +0000"
+      "redwood_log": "2025-08-04 23:41:04 +0000",
+      "maple_log": "2025-08-07 04:23:29 +0000"
     },
     "done": false
   },
@@ -5087,6 +5088,12 @@
     },
     "done": true
   },
+  "spore:inf_witch": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 04:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-08-07 03:11:29 +0000"
@@ -5141,6 +5148,12 @@
     },
     "done": true
   },
+  "spore:umarmed": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 04:17:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-08-07 02:58:31 +0000"
@@ -5174,6 +5187,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-08-07 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-08-07 04:23:29 +0000"
     },
     "done": true
   },
@@ -5246,6 +5265,12 @@
   "regions_unexplored:recipes/redstone/pine_pressure_plate": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 04:23:29 +0000"
     },
     "done": true
   },
@@ -5372,6 +5397,12 @@
   "regions_unexplored:recipes/building_blocks/pine_stairs": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 04:23:29 +0000"
     },
     "done": true
   },
