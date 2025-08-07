@@ -48,12 +48,14 @@
       "minecraft:savanna_plateau": "2025-08-04 00:33:56 +0000",
       "minecraft:dark_forest": "2025-08-04 01:09:16 +0000",
       "minecraft:river": "2025-08-04 01:01:33 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-07 04:25:13 +0000",
       "minecraft:stony_shore": "2025-08-07 00:33:29 +0000",
       "minecraft:dripstone_caves": "2025-08-04 03:28:52 +0000",
       "minecraft:forest": "2025-08-04 01:10:29 +0000",
       "minecraft:lush_caves": "2025-08-04 01:52:51 +0000",
       "minecraft:jungle": "2025-08-04 01:07:36 +0000",
       "minecraft:ocean": "2025-08-07 01:30:07 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-07 04:24:49 +0000",
       "minecraft:flower_forest": "2025-08-06 02:30:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-04 01:10:22 +0000",
       "minecraft:savanna": "2025-08-04 00:54:46 +0000",
@@ -668,8 +670,10 @@
       "mutton": "2025-08-06 02:29:34 +0000",
       "bread": "2025-08-04 01:52:34 +0000",
       "glow_berries": "2025-08-04 03:00:42 +0000",
+      "salmon": "2025-08-07 04:27:45 +0000",
       "golden_carrot": "2025-08-04 03:00:46 +0000",
-      "cooked_chicken": "2025-08-06 01:07:43 +0000"
+      "cooked_chicken": "2025-08-06 01:07:43 +0000",
+      "cod": "2025-08-07 04:27:40 +0000"
     },
     "done": false
   },
@@ -683,6 +687,7 @@
       "redstone_caves": "2025-08-06 03:16:39 +0000",
       "grassy_beach": "2025-08-07 02:44:35 +0000",
       "rocky_meadow": "2025-08-04 01:02:18 +0000",
+      "blackwood_taiga": "2025-08-07 04:26:18 +0000",
       "ochard": "2025-08-06 02:31:54 +0000",
       "flower_fields": "2025-08-06 02:30:16 +0000",
       "magnolia_highlands": "2025-08-04 00:44:05 +0000",
@@ -707,6 +712,7 @@
       "barley_fields": "2025-08-04 04:02:03 +0000",
       "grassy_beach": "2025-08-07 02:44:35 +0000",
       "rocky_meadow": "2025-08-04 01:02:18 +0000",
+      "blackwood_taiga": "2025-08-07 04:26:18 +0000",
       "ochard": "2025-08-06 02:31:54 +0000",
       "flower_fields": "2025-08-06 02:30:16 +0000",
       "magnolia_highlands": "2025-08-04 00:44:05 +0000",
@@ -5082,45 +5088,21 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/pine_planks": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_logs": "2025-08-07 02:37:42 +0000"
+      "lava_bucket": "2025-08-07 00:40:12 +0000"
     },
     "done": true
   },
-  "spore:inf_witch": {
+  "supplementaries:recipes/feather_block": {
     "criteria": {
-      "hurt_infected": "2025-08-07 04:17:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+      "has_feather": "2025-08-07 01:03:21 +0000"
     },
     "done": true
   },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_post": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
     },
     "done": true
   },
@@ -5136,69 +5118,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "spore:umarmed": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 04:17:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-08-07 02:58:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-08-07 03:12:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-08-07 03:11:33 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_chest": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-08-07 02:58:31 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
-    "criteria": {
-      "has_log": "2025-08-07 04:23:29 +0000"
-    },
-    "done": true
-  },
-  "spore:howitzer": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:35:03 +0000"
     },
     "done": true
   },
@@ -5208,51 +5130,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-08-07 02:58:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "spore:jagd": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 02:28:45 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_vertical_slab": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
-    },
-    "done": true
-  },
-  "spore:braurei": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:32:10 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-08-07 01:03:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-08-07 04:02:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-08-07 00:40:12 +0000"
     },
     "done": true
   },
@@ -5268,30 +5148,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2025-08-07 04:23:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "spore:hevoker": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:43:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/regions_unexplored/hollow_pine_log": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
@@ -5304,27 +5160,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_ladder": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
-    },
-    "done": true
-  },
-  "spore:verva": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:41:27 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/hourglass": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
     },
     "done": true
   },
@@ -5334,27 +5172,9 @@
     },
     "done": true
   },
-  "spore:stalker": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-08-07 04:02:55 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/regions_unexplored/vertical_pine_planks": {
     "criteria": {
       "has_item": "2025-08-07 01:28:36 +0000"
-    },
-    "done": true
-  },
-  "spore:mound": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 04:04:52 +0000"
     },
     "done": true
   },
@@ -5364,51 +5184,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-08-07 04:02:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-08-07 03:11:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_trapdoor": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
-    "criteria": {
-      "has_log": "2025-08-07 02:37:42 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/pine_stairs": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2025-08-07 04:23:29 +0000"
-    },
-    "done": true
-  },
-  "spore:vigil": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 03:41:19 +0000"
     },
     "done": true
   },
@@ -5418,27 +5196,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-08-07 02:58:31 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/pine_button": {
     "criteria": {
       "has_pine_planks": "2025-08-07 01:28:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-08-07 02:58:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/key": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
     },
     "done": true
   },
@@ -5460,6 +5220,168 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_pine_post": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/pine_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-07 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "spore:jagd": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 02:28:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 02:37:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-08-07 02:37:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 02:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
   "barteringstation:recipes/decorations/bartering_station": {
     "criteria": {
       "has_gold_ingot": "2025-08-07 03:11:29 +0000"
@@ -5472,39 +5394,159 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-08-07 02:58:31 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-08-07 03:11:29 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/stripped_pine_post": {
-    "criteria": {
-      "has_item": "2025-08-07 01:28:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_wood": {
-    "criteria": {
-      "has_log": "2025-08-07 02:37:42 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/pine_trapped_chest": {
-    "criteria": {
-      "has_item": "2025-08-07 01:28:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-07 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-07 03:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-07 03:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-08-07 03:12:58 +0000"
+    },
+    "done": true
+  },
+  "spore:stalker": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:26:04 +0000"
+    },
+    "done": true
+  },
+  "spore:braurei": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:32:10 +0000"
+    },
+    "done": true
+  },
+  "spore:howitzer": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "spore:vigil": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "spore:verva": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:41:27 +0000"
+    },
+    "done": true
+  },
+  "spore:hevoker": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 03:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-07 04:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-07 04:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-07 04:02:55 +0000"
+    },
+    "done": true
+  },
+  "spore:mound": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 04:04:52 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_witch": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 04:17:02 +0000"
+    },
+    "done": true
+  },
+  "spore:umarmed": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-08-07 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-07 04:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-07 04:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-07 04:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-07 04:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-07 04:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-07 04:25:32 +0000"
     },
     "done": true
   },

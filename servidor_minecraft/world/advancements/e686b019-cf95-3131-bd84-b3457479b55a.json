@@ -40,8 +40,11 @@
       "minecraft:deep_ocean": "2025-08-07 02:12:56 +0000",
       "minecraft:savanna_plateau": "2025-08-07 01:56:06 +0000",
       "minecraft:beach": "2025-08-07 02:44:13 +0000",
+      "minecraft:dark_forest": "2025-08-07 04:25:42 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-07 04:25:20 +0000",
       "minecraft:stony_shore": "2025-08-07 01:56:17 +0000",
       "minecraft:ocean": "2025-08-07 02:12:33 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-07 04:24:54 +0000",
       "minecraft:savanna": "2025-08-07 02:48:12 +0000"
     },
     "done": false
@@ -75,6 +78,7 @@
       "shrubland": "2025-08-07 02:47:47 +0000",
       "pine_taiga": "2025-08-07 01:57:05 +0000",
       "grassy_beach": "2025-08-07 02:44:16 +0000",
+      "blackwood_taiga": "2025-08-07 04:25:43 +0000",
       "deciduous_forest": "2025-08-07 02:46:32 +0000",
       "temperate_grove": "2025-08-07 02:45:38 +0000",
       "grassland": "2025-08-07 02:45:41 +0000"
@@ -86,6 +90,7 @@
       "shrubland": "2025-08-07 02:47:47 +0000",
       "pine_taiga": "2025-08-07 01:57:05 +0000",
       "grassy_beach": "2025-08-07 02:44:16 +0000",
+      "blackwood_taiga": "2025-08-07 04:25:43 +0000",
       "deciduous_forest": "2025-08-07 02:46:32 +0000",
       "temperate_grove": "2025-08-07 02:45:38 +0000",
       "grassland": "2025-08-07 02:45:41 +0000"
@@ -1753,6 +1758,24 @@
     },
     "done": true
   },
+  "spore:mound": {
+    "criteria": {
+      "hurt_infected": "2025-08-07 04:12:31 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/hammer": {
+    "criteria": {
+      "0": "2025-08-07 04:22:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-08-07 04:23:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-07 04:23:42 +0000"
@@ -1843,12 +1866,6 @@
     },
     "done": true
   },
-  "superbwarfare:main/hammer": {
-    "criteria": {
-      "0": "2025-08-07 04:22:12 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-08-07 04:23:42 +0000"
@@ -1861,21 +1878,9 @@
     },
     "done": true
   },
-  "spore:mound": {
-    "criteria": {
-      "hurt_infected": "2025-08-07 04:12:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-07 04:23:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_torch": "2025-08-07 04:23:07 +0000"
     },
     "done": true
   },
@@ -1926,6 +1931,48 @@
       "has_boat": "2025-08-07 04:23:42 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_bioshroom_from_tall_blue_bioshroom": {
+    "criteria": {
+      "has_tall_blue_bioshroom": "2025-08-07 04:25:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-08-07 04:25:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-07 04:25:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-07 04:25:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-07 04:25:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-08-07 04:25:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "blue_bioshroom": "2025-08-07 04:25:45 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

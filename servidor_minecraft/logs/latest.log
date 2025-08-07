@@ -2038,3 +2038,59 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [07Aug2025 04:24:13.724] [Server thread/INFO] [Jade/]: Syncing config to emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a)
 [07Aug2025 04:24:13.857] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emolientesmarta (18)
 [07Aug2025 04:24:13.858] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emolientesmarta
+[07Aug2025 04:24:14.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 04:24:15.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[07Aug2025 04:24:15.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[07Aug2025 04:24:15.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e686b019-cf95-3131-bd84-b3457479b55a
+[07Aug2025 04:24:15.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emolientesmarta (e686b019-cf95-3131-bd84-b3457479b55a) successfully connected to voice chat
+[07Aug2025 04:24:16.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: el_lolo[/172.27.94.119:37183] logged in with entity id 152250 at (2897.2213921177226, 171.1100031286478, 401.8532564390804)
+[07Aug2025 04:24:16.429] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player el_lolo
+[07Aug2025 04:24:16.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo joined the game
+[07Aug2025 04:24:16.503] [Server thread/INFO] [Jade/]: Syncing config to el_lolo (9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9)
+[07Aug2025 04:24:16.652] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of el_lolo (18)
+[07Aug2025 04:24:16.652] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to el_lolo
+[07Aug2025 04:24:18.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9
+[07Aug2025 04:24:19.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9
+[07Aug2025 04:24:19.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player el_lolo (9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9) successfully connected to voice chat
+[07Aug2025 04:25:31.034] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[07Aug2025 04:25:40.207] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[07Aug2025 04:25:41.116] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[07Aug2025 04:25:45.357] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[07Aug2025 04:25:51.399] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[07Aug2025 04:25:51.485] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[07Aug2025 04:25:51.557] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[07Aug2025 04:26:26.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Specter
+[07Aug2025 04:26:32.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Not Today, Thank You]
+[07Aug2025 04:26:57.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[07Aug2025 04:27:52.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Infected Drowned
+[07Aug2025 04:28:01.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[07Aug2025 04:28:41.108] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1488, y=82, z=747}
+[07Aug2025 04:28:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[07Aug2025 04:29:08.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Infected Drowned
+[07Aug2025 04:29:22.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was fungi-fied by PATITOELdios
+[07Aug2025 04:29:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[07Aug2025 04:29:36.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was blown up by Spitter
+[07Aug2025 04:29:44.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[07Aug2025 04:30:02.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[07Aug2025 04:30:14.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 04:30:21.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4303ms or 86 ticks behind
+[07Aug2025 04:30:22.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/162591, l='ServerLevel[world]', x=3917.49, y=64.00, z=1383.85] died, message: 'Unemployed forgot Infected Wandering Trader was a bioweapon'
+[07Aug2025 04:30:39.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/162724, l='ServerLevel[world]', x=3371.31, y=62.87, z=440.11] died: PATITOELdios was assassinated by PATITOELdios
+[07Aug2025 04:30:41.327] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/162590, l='ServerLevel[world]', x=3947.63, y=65.00, z=1362.58] died, message: 'Unemployed was eaten alive by Phayres'
+[07Aug2025 04:30:42.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emolientesmarta was slain by Specter
+[07Aug2025 04:30:42.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[07Aug2025 04:30:48.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/162592, l='ServerLevel[world]', x=3936.17, y=68.00, z=1382.65] died, message: 'Unemployed was eaten alive by Inquisitor'
+[07Aug2025 04:30:58.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to emolientesmarta]
+[07Aug2025 04:31:00.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[07Aug2025 04:31:11.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[07Aug2025 04:31:22.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 04:31:25.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/165675, l='ServerLevel[world]', x=3915.75, y=70.00, z=1380.59] died: TheCaramelGuy was blown up by Creeper
+[07Aug2025 04:31:43.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[07Aug2025 04:32:08.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[07Aug2025 04:32:11.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported emolientesmarta to el_lolo]
+[07Aug2025 04:32:27.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Floating eyes ?]
+[07Aug2025 04:32:27.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo used uridk as paint
+[07Aug2025 04:32:41.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[07Aug2025 04:32:45.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Floating eyes ?]
+[07Aug2025 04:33:47.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[07Aug2025 04:34:09.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
