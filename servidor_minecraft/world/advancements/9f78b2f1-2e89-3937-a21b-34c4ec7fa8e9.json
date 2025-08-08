@@ -5586,6 +5586,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-08-08 00:55:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/turret_gun": {
     "criteria": {
       "has_revolver": "2025-08-08 00:44:48 +0000"
@@ -5604,9 +5610,27 @@
     },
     "done": true
   },
+  "mffs:recipes/misc/blank_card": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-08 01:01:59 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/maple_trapped_chest": {
     "criteria": {
       "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/focus_matrix": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-08 01:01:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-08-08 00:55:30 +0000"
     },
     "done": true
   },
@@ -5682,6 +5706,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-08-08 00:55:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_sign": {
     "criteria": {
       "has_maple_planks": "2025-08-08 00:34:07 +0000"
@@ -5739,6 +5769,12 @@
   "everycomp:recipes/decorations/q/regions_unexplored/hollow_maple_log": {
     "criteria": {
       "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2025-08-08 00:55:30 +0000"
     },
     "done": true
   },

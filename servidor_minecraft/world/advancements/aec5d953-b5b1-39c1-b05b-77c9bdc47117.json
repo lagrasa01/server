@@ -6247,6 +6247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-08 00:58:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/toolupgrade_revolver_bayonet": {
     "criteria": {
       "has_revolver": "2025-08-08 00:38:52 +0000"
@@ -6274,6 +6280,12 @@
   "immersiveengineering:recipes/misc/crafting/speedloader": {
     "criteria": {
       "has_revolver": "2025-08-08 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-08 00:58:44 +0000"
     },
     "done": true
   },
