@@ -1894,3 +1894,7 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [08Aug2025 03:53:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
 [08Aug2025 03:56:14.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
 [08Aug2025 03:56:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[08Aug2025 04:00:29.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/127651, l='ServerLevel[world]', x=3749.33, y=78.00, z=-2943.50] died: Nova69 was blown up by Creeper
+[08Aug2025 04:06:15.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hypnotizd'/131880, l='ServerLevel[world]', x=3765.50, y=87.00, z=-2855.42] died: Hypnotizd was shot by Skeleton
+[08Aug2025 04:08:45.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[08Aug2025 04:09:14.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ThatGardener'/132641, l='ServerLevel[world]', x=3775.54, y=95.00, z=-2906.89] died: ThatGardener was shot by Skeleton
