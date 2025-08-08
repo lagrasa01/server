@@ -1484,3 +1484,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [08Aug2025 00:45:26.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
 [08Aug2025 00:50:14.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
 [08Aug2025 01:03:58.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: The difficulty has been set to Hard]
+[08Aug2025 01:15:14.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/25683, l='ServerLevel[world]', x=2438.45, y=-10.30, z=1546.04] died: Helldwin was shot by Skeleton
