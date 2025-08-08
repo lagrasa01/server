@@ -1711,3 +1711,8 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [08Aug2025 02:46:40.688] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Monster Hunter'/86816, l='ServerLevel[world]', x=3824.64, y=111.00, z=-3027.71] died, message: 'Monster Hunter was assassinated by PATITOELdios'
 [08Aug2025 02:47:27.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was shot by Skeleton
 [08Aug2025 02:47:32.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[08Aug2025 02:49:37.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Addict]
+[08Aug2025 02:52:12.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[08Aug2025 02:54:08.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/97266, l='ServerLevel[world]', x=3748.94, y=26.00, z=-3081.83] died: Gistique was shot by Skeleton
+[08Aug2025 02:54:47.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [May the Force by with you!]
+[08Aug2025 02:57:25.043] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['DawnsSlayers'/99099, l='ServerLevel[world]', x=3854.45, y=34.34, z=-3078.55] died: DawnsSlayers suffocated in a wall

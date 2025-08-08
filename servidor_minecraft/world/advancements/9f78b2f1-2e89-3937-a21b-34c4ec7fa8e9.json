@@ -5856,6 +5856,12 @@
     },
     "done": true
   },
+  "mffs:projector": {
+    "criteria": {
+      "has_projector": "2025-08-08 02:54:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_slab": {
     "criteria": {
       "has_maple_planks": "2025-08-08 00:34:07 +0000"
@@ -5868,6 +5874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-08 02:48:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-08-08 00:34:07 +0000"
@@ -5877,6 +5889,12 @@
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_item": "2025-08-08 02:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-08 02:53:53 +0000"
     },
     "done": true
   },
@@ -5895,6 +5913,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-08-08 02:42:29 +0000"
+    },
+    "done": true
+  },
+  "spore:volatile": {
+    "criteria": {
+      "hurt_infected": "2025-08-08 02:49:37 +0000"
     },
     "done": true
   },

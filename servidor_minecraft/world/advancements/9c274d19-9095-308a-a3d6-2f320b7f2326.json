@@ -6043,33 +6043,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/birch_window": {
+  "mffs:grant_book_on_first_join": {
     "criteria": {
-      "has_ingredient": "2025-08-08 02:05:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-08-08 01:11:52 +0000"
+      "guidebook": "2025-08-08 00:15:41 +0000"
     },
     "done": true
   },
   "mffs:recipes/misc/battery": {
     "criteria": {
       "has_iron_ingot": "2025-08-08 00:56:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-08-08 02:10:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-08-08 02:05:07 +0000"
     },
     "done": true
   },
@@ -6085,9 +6067,201 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-08 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-08 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-08 01:06:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-08 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-08-08 01:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-08 01:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-08 01:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-08 01:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-08 01:21:25 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-08 01:23:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-08 01:23:00 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-08-08 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-08 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-08 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/taser_blueprint": {
+    "criteria": {
+      "has_taser_blueprint": "2025-08-08 01:25:39 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/taser_smithing": {
+    "criteria": {
+      "has_taser_blueprint": "2025-08-08 01:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-08 01:25:42 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_870_smithing": {
+    "criteria": {
+      "has_m_870_blueprint": "2025-08-08 01:35:20 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_870_blueprint": {
+    "criteria": {
+      "has_m_870_blueprint": "2025-08-08 01:35:20 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/rare_blueprint": {
+    "criteria": {
+      "0": "2025-08-08 01:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-08-08 01:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-08 01:35:22 +0000"
+    },
+    "done": true
+  },
+  "spore:focused_searched": {
+    "criteria": {
+      "pick_up_zoaholic": "2025-08-08 01:42:29 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/k_98_smithing": {
+    "criteria": {
+      "has_k_98_blueprint": "2025-08-08 01:42:41 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/k_98_blueprint": {
+    "criteria": {
+      "has_k_98_blueprint": "2025-08-08 01:42:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-08 02:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-08 02:05:07 +0000"
     },
     "done": true
   },
@@ -6103,12 +6277,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-08-08 01:12:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-08-08 02:05:07 +0000"
@@ -6121,21 +6289,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-08-08 01:12:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-08-08 02:05:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-08-08 01:12:48 +0000"
     },
     "done": true
   },
@@ -6151,147 +6307,9 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/m_870_smithing": {
-    "criteria": {
-      "has_m_870_blueprint": "2025-08-08 01:35:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-08-08 01:35:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2025-08-08 02:42:27 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-08-08 01:23:00 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/taser_blueprint": {
-    "criteria": {
-      "has_taser_blueprint": "2025-08-08 01:25:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
-    "criteria": {
-      "has_netherite_block": "2025-08-08 02:10:01 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/m_870_blueprint": {
-    "criteria": {
-      "has_m_870_blueprint": "2025-08-08 01:35:20 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/k_98_smithing": {
-    "criteria": {
-      "has_k_98_blueprint": "2025-08-08 01:42:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-08-08 01:06:07 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/k_98_blueprint": {
-    "criteria": {
-      "has_k_98_blueprint": "2025-08-08 01:42:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-08-08 01:21:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-08-08 01:23:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-08-08 01:21:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-08-08 01:06:51 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-08-08 02:05:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-08 02:42:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-08-08 01:35:22 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/taser_smithing": {
-    "criteria": {
-      "has_taser_blueprint": "2025-08-08 01:25:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-08-08 01:12:48 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/rare_blueprint": {
-    "criteria": {
-      "0": "2025-08-08 01:35:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-08-08 01:12:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-08-08 02:42:27 +0000"
-    },
-    "done": true
-  },
-  "mffs:grant_book_on_first_join": {
-    "criteria": {
-      "guidebook": "2025-08-08 00:15:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-08-08 01:21:25 +0000"
     },
     "done": true
   },
@@ -6301,57 +6319,51 @@
     },
     "done": true
   },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-08-08 01:23:00 +0000"
-    },
-    "done": false
-  },
-  "spore:focused_searched": {
-    "criteria": {
-      "pick_up_zoaholic": "2025-08-08 01:42:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-08-08 01:04:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-08-08 01:06:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-08 02:05:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
-      "has_copper_block": "2025-08-08 01:12:48 +0000"
+      "has_netherite_block": "2025-08-08 02:10:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_brown_mushroom": "2025-08-08 01:23:51 +0000"
+      "has_gold_block": "2025-08-08 02:10:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
     "criteria": {
-      "has_cod": "2025-08-08 01:04:59 +0000"
+      "has_log": "2025-08-08 02:42:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-08-08 01:25:42 +0000"
+      "has_log": "2025-08-08 02:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-08 02:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-08 02:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-08 02:53:58 +0000"
     },
     "done": true
   },
