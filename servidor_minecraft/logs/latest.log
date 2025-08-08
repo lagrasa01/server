@@ -1716,3 +1716,124 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [08Aug2025 02:54:08.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/97266, l='ServerLevel[world]', x=3748.94, y=26.00, z=-3081.83] died: Gistique was shot by Skeleton
 [08Aug2025 02:54:47.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [May the Force by with you!]
 [08Aug2025 02:57:25.043] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['DawnsSlayers'/99099, l='ServerLevel[world]', x=3854.45, y=34.34, z=-3078.55] died: DawnsSlayers suffocated in a wall
+[08Aug2025 02:58:29.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['gregTheTyrant'/98894, l='ServerLevel[world]', x=3735.38, y=55.00, z=-3034.44] died: gregTheTyrant was shot by Skeleton
+[08Aug2025 02:58:36.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Scamper['Sire_AwfulThe1st'/98904, l='ServerLevel[world]', x=3730.56, y=56.00, z=-3048.97] died: Sire_AwfulThe1st was poked to death by prickly vines
+[08Aug2025 03:03:17.894] [Netty Epoll Server IO #0/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:631) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1034) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130079_(FriendlyByteBuf.java:588) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.FriendlyByteBuf.writeItemStack(FriendlyByteBuf.java:646) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130055_(FriendlyByteBuf.java:625) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEquipmentPacket.m_5779_(ClientboundSetEquipmentPacket.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.m_243087_$mixinextras$wrapped$70(Connection.java:224) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.Connection.mixinextras$bridge$m_243087_$mixinextras$wrapped$70$71(Connection.java) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.Connection.wrapMethod$zek000$modernfix$checkClientPresence(Connection.java:1534) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.Connection.m_243087_(Connection.java) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:213) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[08Aug2025 03:03:17.894] [Netty Epoll Server IO #7/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:631) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1034) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130079_(FriendlyByteBuf.java:588) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.FriendlyByteBuf.writeItemStack(FriendlyByteBuf.java:646) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130055_(FriendlyByteBuf.java:625) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEquipmentPacket.m_5779_(ClientboundSetEquipmentPacket.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.m_243087_$mixinextras$wrapped$70(Connection.java:224) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.Connection.mixinextras$bridge$m_243087_$mixinextras$wrapped$70$71(Connection.java) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.Connection.wrapMethod$zek000$modernfix$checkClientPresence(Connection.java:1534) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.Connection.m_243087_(Connection.java) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:213) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[08Aug2025 03:03:17.949] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[08Aug2025 03:03:17.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+[08Aug2025 03:03:17.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios left the game
+[08Aug2025 03:03:17.956] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PATITOELdios
+[08Aug2025 03:03:17.969] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133198_": 574,
+  "f_133199_": [
+    "(MAINHAND, 1 frequency_card)"
+  ]
+}
+[08Aug2025 03:03:17.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+[08Aug2025 03:03:17.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
+[08Aug2025 03:03:17.973] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
+[08Aug2025 03:03:30.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PATITOELdios[/172.27.59.43:52320] logged in with entity id 101593 at (3818.324572197193, 104.0, -3074.5834515631586)
+[08Aug2025 03:03:30.082] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player PATITOELdios
+[08Aug2025 03:03:30.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios joined the game
+[08Aug2025 03:03:30.175] [Server thread/INFO] [Jade/]: Syncing config to PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117)
+[08Aug2025 03:03:30.353] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PATITOELdios (18)
+[08Aug2025 03:03:30.353] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PATITOELdios
+[08Aug2025 03:03:33.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[08Aug2025 03:03:34.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[08Aug2025 03:03:34.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
+[08Aug2025 03:03:47.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:53343] logged in with entity id 101728 at (3809.198961068333, 112.0, -3020.927132878356)
+[08Aug2025 03:03:47.989] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[08Aug2025 03:03:47.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[08Aug2025 03:03:48.084] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[08Aug2025 03:03:48.564] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[08Aug2025 03:03:48.565] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[08Aug2025 03:03:52.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[08Aug2025 03:03:53.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[08Aug2025 03:03:53.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[08Aug2025 03:04:13.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mr_Door12323'/101752, l='ServerLevel[world]', x=3756.76, y=24.00, z=-3074.09] died: Mr_Door12323 was shot by Skeleton

@@ -5706,6 +5706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-08 02:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-08-08 02:42:34 +0000"
@@ -5757,6 +5763,12 @@
   "immersiveengineering:recipes/misc/crafting/toolupgrade_revolver_bayonet": {
     "criteria": {
       "has_revolver": "2025-08-08 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-08 03:01:20 +0000"
     },
     "done": true
   },
