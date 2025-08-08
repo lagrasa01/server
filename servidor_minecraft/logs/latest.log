@@ -1480,3 +1480,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [08Aug2025 00:38:52.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Make my day]
 [08Aug2025 00:39:02.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['BigXplosion'/14231, l='ServerLevel[world]', x=2314.44, y=13.00, z=1692.49] died: BigXplosion was assassinated by PATITOELdios
 [08Aug2025 00:44:48.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Make my day]
+[08Aug2025 00:45:24.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to uridk]
+[08Aug2025 00:45:26.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[08Aug2025 00:50:14.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
