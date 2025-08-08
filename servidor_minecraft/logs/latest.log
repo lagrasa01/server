@@ -1500,3 +1500,17 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [08Aug2025 01:28:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was slain by Skeleton
 [08Aug2025 01:28:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
 [08Aug2025 01:35:20.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Rare]
+[08Aug2025 01:37:13.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ThatGardener'/40295, l='ServerLevel[world]', x=2935.54, y=-45.00, z=661.46] died: ThatGardener was shot by Skeleton
+[08Aug2025 01:39:40.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[08Aug2025 01:39:58.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[08Aug2025 01:40:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[08Aug2025 01:40:07.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[08Aug2025 01:40:38.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3119, y=63, z=-407} BlockPos{x=3119, y=62, z=-407}
+[08Aug2025 01:40:42.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3113, y=62, z=-407} BlockPos{x=3113, y=60, z=-406}
+[08Aug2025 01:40:42.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3113, y=62, z=-407} BlockPos{x=3113, y=60, z=-406}
+[08Aug2025 01:40:42.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3113, y=62, z=-407} BlockPos{x=3113, y=60, z=-406}
+[08Aug2025 01:42:11.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3114, y=62, z=-426} BlockPos{x=3115, y=60, z=-427}
+[08Aug2025 01:42:11.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3114, y=62, z=-426} BlockPos{x=3115, y=60, z=-427}
+[08Aug2025 01:42:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Things are different now]
+[08Aug2025 01:42:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Common]
+[08Aug2025 01:42:29.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Discount radar]

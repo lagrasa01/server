@@ -6235,6 +6235,24 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/marlin_smithing": {
+    "criteria": {
+      "has_marlin_blueprint": "2025-08-08 01:42:26 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/marlin_blueprint": {
+    "criteria": {
+      "has_marlin_blueprint": "2025-08-08 01:42:26 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/blueprint": {
+    "criteria": {
+      "0": "2025-08-08 01:42:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-08-08 01:22:23 +0000"
@@ -6280,6 +6298,12 @@
   "immersiveengineering:recipes/misc/crafting/toolupgrade_revolver_magazine": {
     "criteria": {
       "has_revolver": "2025-08-08 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/common_blueprint": {
+    "criteria": {
+      "0": "2025-08-08 01:42:26 +0000"
     },
     "done": true
   },
