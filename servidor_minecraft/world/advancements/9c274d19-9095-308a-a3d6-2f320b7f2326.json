@@ -6367,5 +6367,17 @@
     },
     "done": true
   },
+  "mffs:field_shock": {
+    "criteria": {
+      "shocked": "2025-08-08 03:14:36 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/translation_module": {
+    "criteria": {
+      "has_scale_module": "2025-08-08 03:17:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -5616,6 +5616,12 @@
     },
     "done": true
   },
+  "mffs:recipes/misc/remote_controller": {
+    "criteria": {
+      "has_battery": "2025-08-08 03:15:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_maple_planks": "2025-08-08 00:34:07 +0000"
@@ -5817,6 +5823,12 @@
   "everycomp:recipes/decorations/q/regions_unexplored/maple_ladder": {
     "criteria": {
       "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/translation_module": {
+    "criteria": {
+      "has_scale_module": "2025-08-08 03:08:59 +0000"
     },
     "done": true
   },

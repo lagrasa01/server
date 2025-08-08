@@ -1837,3 +1837,19 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [08Aug2025 03:03:53.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
 [08Aug2025 03:03:53.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
 [08Aug2025 03:04:13.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mr_Door12323'/101752, l='ServerLevel[world]', x=3756.76, y=24.00, z=-3074.09] died: Mr_Door12323 was shot by Skeleton
+[08Aug2025 03:10:08.074] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[08Aug2025 03:10:11.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/103711, l='ServerLevel[world]', x=3874.44, y=109.02, z=-2958.40] died: ABucketOfFriedChicken was shot by Skeleton
+[08Aug2025 03:10:37.439] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[08Aug2025 03:11:03.594] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dr_Pilot_MOO'/103749, l='ServerLevel[world]', x=3747.54, y=103.00, z=-2951.83] died: Dr_Pilot_MOO was assassinated by uridk
+[08Aug2025 03:14:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was disintegrated by a force field.
+[08Aug2025 03:14:36.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has reached the goal [A Shocking Experience]
+[08Aug2025 03:17:41.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['NexouuZ'/107316, l='ServerLevel[world]', x=3870.79, y=31.00, z=-3086.21] died: NexouuZ suffocated in a wall
+[08Aug2025 03:21:47.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TokenOni420'/108484, l='ServerLevel[world]', x=3800.83, y=-5.00, z=-3051.18] died: TokenOni420 was shot by Skeleton
+[08Aug2025 03:22:45.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was blown up by Creeper
+[08Aug2025 03:22:58.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[08Aug2025 03:24:51.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Gistique'/110918, l='ServerLevel[world]', x=3774.82, y=101.00, z=-2968.01] died: Gistique was gunned down by uridk
+[08Aug2025 03:25:58.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['DawnsSlayers'/111285, l='ServerLevel[world]', x=3834.01, y=93.00, z=-3102.25] died: DawnsSlayers was shot by Skeleton
+[08Aug2025 03:26:50.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Disconnected
+[08Aug2025 03:26:50.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
+[08Aug2025 03:26:50.192] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
+[08Aug2025 03:27:03.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
