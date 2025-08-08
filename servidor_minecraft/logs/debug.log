@@ -21927,3 +21927,260 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [08Aug2025 02:16:47.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
 [08Aug2025 02:16:48.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Evil Spirit
 [08Aug2025 02:16:49.490] [Server thread/DEBUG] [me.talilon.minecraft.crawlondemand.capabilities.CapabilityHandler/]: Attached crawl capability to player
+[08Aug2025 02:17:12.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Evil Spirit
+[08Aug2025 02:17:15.412] [Server thread/DEBUG] [me.talilon.minecraft.crawlondemand.capabilities.CapabilityHandler/]: Attached crawl capability to player
+[08Aug2025 02:17:42.442] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@77f77732, suppressing error
+java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplementaries/common/items/forge/QuiverItemImpl$Cap from 0 air. HOW?? Might be a bug from some other mod or from the loader.
+	at net.mehvahdjukaar.supplementaries.common.capabilities.CapabilityHandler.lambda$getOrThrow$0(CapabilityHandler.java:76) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.33-universal.jar%23430!/:?]
+	at net.mehvahdjukaar.supplementaries.common.capabilities.CapabilityHandler.getOrThrow(CapabilityHandler.java:75) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.forge.QuiverItemImpl.getQuiverDataOrThrow(QuiverItemImpl.java:28) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getQuiverDataOrThrow(QuiverItem.java) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getData(QuiverItem.java:28) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getData(QuiverItem.java:20) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.SelectableContainerItem.m_7203_(SelectableContainerItem.java:109) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[08Aug2025 02:18:12.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was doomed to fall
+[08Aug2025 02:18:14.253] [Server thread/DEBUG] [me.talilon.minecraft.crawlondemand.capabilities.CapabilityHandler/]: Attached crawl capability to player
+[08Aug2025 02:18:27.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk moved wrongly!
+[08Aug2025 02:18:31.484] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[08Aug2025 02:18:31.556] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@612cd65b, suppressing error
+java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplementaries/common/items/forge/QuiverItemImpl$Cap from 0 air. HOW?? Might be a bug from some other mod or from the loader.
+	at net.mehvahdjukaar.supplementaries.common.capabilities.CapabilityHandler.lambda$getOrThrow$0(CapabilityHandler.java:76) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.33-universal.jar%23430!/:?]
+	at net.mehvahdjukaar.supplementaries.common.capabilities.CapabilityHandler.getOrThrow(CapabilityHandler.java:75) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.forge.QuiverItemImpl.getQuiverDataOrThrow(QuiverItemImpl.java:28) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getQuiverDataOrThrow(QuiverItem.java) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getData(QuiverItem.java:28) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getData(QuiverItem.java:20) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.SelectableContainerItem.m_7203_(SelectableContainerItem.java:109) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$263(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zck000$modernfix$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[08Aug2025 02:19:23.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo fell from a high place
+[08Aug2025 02:19:25.493] [Server thread/DEBUG] [me.talilon.minecraft.crawlondemand.capabilities.CapabilityHandler/]: Attached crawl capability to player
+[08Aug2025 02:19:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[08Aug2025 02:19:52.077] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:placement_condition_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[08Aug2025 02:19:52.078] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[08Aug2025 02:19:52.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[08Aug2025 02:19:52.080] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[08Aug2025 02:19:52.080] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[08Aug2025 02:19:52.080] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[08Aug2025 02:19:52.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 02:19:52.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 02:20:11.491] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[08Aug2025 02:20:55.841] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[08Aug2025 02:21:13.437] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[08Aug2025 02:22:05.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JWT114'/75838, l='ServerLevel[world]', x=4426.86, y=70.17, z=-2305.48] died: JWT114 was shot by Skeleton
+[08Aug2025 02:22:21.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[08Aug2025 02:22:42.785] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1340, y=81, z=648}
+[08Aug2025 02:22:47.606] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1517, y=82, z=743}
+[08Aug2025 02:23:32.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[08Aug2025 02:24:01.463] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[08Aug2025 02:24:52.067] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:placement_condition_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[08Aug2025 02:24:52.068] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[08Aug2025 02:24:52.069] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[08Aug2025 02:24:52.070] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[08Aug2025 02:24:52.070] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[08Aug2025 02:24:52.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 02:24:52.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 02:25:24.141] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[08Aug2025 02:25:59.498] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[08Aug2025 02:27:15.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ThatGardener'/81566, l='ServerLevel[world]', x=4580.10, y=8.00, z=-2801.02] died: ThatGardener was slain by Enderman
