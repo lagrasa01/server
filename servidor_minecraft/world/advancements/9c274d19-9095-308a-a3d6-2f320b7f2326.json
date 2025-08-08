@@ -50,6 +50,7 @@
       "minecraft:lukewarm_ocean": "2025-08-07 04:25:12 +0000",
       "minecraft:stony_shore": "2025-08-07 00:45:28 +0000",
       "minecraft:dripstone_caves": "2025-08-04 03:14:04 +0000",
+      "minecraft:grove": "2025-08-08 02:30:38 +0000",
       "minecraft:jagged_peaks": "2025-08-08 02:01:34 +0000",
       "minecraft:forest": "2025-08-06 04:51:15 +0000",
       "minecraft:lush_caves": "2025-08-04 01:52:44 +0000",
@@ -6162,6 +6163,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-08-08 02:42:27 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-08-08 01:23:00 +0000"
@@ -6234,6 +6241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-08 02:42:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-08 01:35:22 +0000"
@@ -6261,6 +6274,12 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-08-08 01:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-08 02:42:27 +0000"
     },
     "done": true
   },

@@ -1649,3 +1649,65 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [08Aug2025 02:23:32.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
 [08Aug2025 02:25:24.141] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
 [08Aug2025 02:27:15.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ThatGardener'/81566, l='ServerLevel[world]', x=4580.10, y=8.00, z=-2801.02] died: ThatGardener was slain by Enderman
+[08Aug2025 02:27:33.849] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[08Aug2025 02:27:36.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[08Aug2025 02:28:36.822] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[08Aug2025 02:29:48.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TokenOni420'/83231, l='ServerLevel[world]', x=4343.32, y=104.00, z=-2921.53] died: TokenOni420 was shot by Skeleton
+[08Aug2025 02:30:39.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[08Aug2025 02:34:09.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios lost connection: Disconnected
+[08Aug2025 02:34:09.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios left the game
+[08Aug2025 02:34:09.526] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PATITOELdios
+[08Aug2025 02:34:20.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/85747, l='ServerLevel[world]', x=4150.50, y=22.00, z=-3065.58] died: LoneGuy was shot by Skeleton
+[08Aug2025 02:36:10.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Tabcaps'/85930, l='ServerLevel[world]', x=4071.28, y=-20.00, z=-3141.71] died: Tabcaps was blown up by Creeper
+[08Aug2025 02:37:14.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PATITOELdios[/172.27.59.43:52246] logged in with entity id 87350 at (4072.8281079643452, 83.0, -3101.4588122393507)
+[08Aug2025 02:37:14.716] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player PATITOELdios
+[08Aug2025 02:37:14.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios joined the game
+[08Aug2025 02:37:14.795] [Server thread/INFO] [Jade/]: Syncing config to PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117)
+[08Aug2025 02:37:16.200] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PATITOELdios (18)
+[08Aug2025 02:37:16.200] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PATITOELdios
+[08Aug2025 02:37:26.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[08Aug2025 02:37:27.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aec5d953-b5b1-39c1-b05b-77c9bdc47117
+[08Aug2025 02:37:27.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PATITOELdios (aec5d953-b5b1-39c1-b05b-77c9bdc47117) successfully connected to voice chat
+[08Aug2025 02:37:53.333] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[08Aug2025 02:38:58.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[08Aug2025 02:39:06.984] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Flash62724 '/88765, l='ServerLevel[world]', x=3807.77, y=34.00, z=-3019.80] died: Flash62724  was blown up by Creeper
+[08Aug2025 02:39:11.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[08Aug2025 02:40:20.204] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[08Aug2025 02:41:43.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was assassinated by el_lolo
+[08Aug2025 02:41:45.447] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JWT114'/89473, l='ServerLevel[world]', x=3729.58, y=56.00, z=-3045.07] died: JWT114 was shot by Skeleton
+[08Aug2025 02:41:55.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[08Aug2025 02:45:02.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was blown up by Creeper
+[08Aug2025 02:45:15.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['DawnsSlayers'/92703, l='ServerLevel[world]', x=3813.98, y=112.00, z=-3021.90] died: DawnsSlayers was assassinated by el_lolo
+[08Aug2025 02:45:31.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Aug2025 02:45:48.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[08Aug2025 02:45:57.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[08Aug2025 02:46:11.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> zzz
+[08Aug2025 02:46:18.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[08Aug2025 02:46:18.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> zz
+[08Aug2025 02:46:18.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:18.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:19.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:19.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:19.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:19.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:20.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:20.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:20.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:21.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <uridk> z
+[08Aug2025 02:46:21.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: uridk lost connection: Disconnected
+[08Aug2025 02:46:21.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk left the game
+[08Aug2025 02:46:21.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client uridk
+[08Aug2025 02:46:21.202] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Aug2025 02:46:31.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:53104] logged in with entity id 94119 at (3824.5, 113.0, -3012.5)
+[08Aug2025 02:46:31.789] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[08Aug2025 02:46:31.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[08Aug2025 02:46:31.844] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[08Aug2025 02:46:32.213] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[08Aug2025 02:46:32.213] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[08Aug2025 02:46:35.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[08Aug2025 02:46:36.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[08Aug2025 02:46:36.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[08Aug2025 02:46:40.688] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Monster Hunter'/86816, l='ServerLevel[world]', x=3824.64, y=111.00, z=-3027.71] died, message: 'Monster Hunter was assassinated by PATITOELdios'
+[08Aug2025 02:47:27.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was shot by Skeleton
+[08Aug2025 02:47:32.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
