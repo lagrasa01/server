@@ -1570,6 +1570,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-06 04:49:22 +0000",
       "minecraft:skeleton": "2025-08-04 03:29:10 +0000",
+      "minecraft:vindicator": "2025-08-08 02:09:16 +0000",
       "minecraft:spider": "2025-08-04 01:07:41 +0000",
       "minecraft:creeper": "2025-08-04 03:29:32 +0000",
       "minecraft:phantom": "2025-08-07 03:27:38 +0000",
@@ -5578,9 +5579,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-08 02:09:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_fence": {
     "criteria": {
       "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-08 02:06:21 +0000"
     },
     "done": true
   },
@@ -5767,6 +5780,12 @@
   "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window_pane": {
     "criteria": {
       "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-08 02:09:48 +0000"
     },
     "done": true
   },

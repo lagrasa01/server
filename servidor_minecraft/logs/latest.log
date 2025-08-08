@@ -1564,3 +1564,14 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [08Aug2025 02:06:08.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
 [08Aug2025 02:06:13.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
 [08Aug2025 02:06:21.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Local Brewery]
+[08Aug2025 02:07:53.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Local Brewery]
+[08Aug2025 02:09:14.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was slain by Vindicator
+[08Aug2025 02:13:33.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was shot by Skeleton
+[08Aug2025 02:13:52.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was shot by PATITOELdios
+[08Aug2025 02:13:52.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_lolo> -
+[08Aug2025 02:13:57.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to PATITOELdios]
+[08Aug2025 02:16:08.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Scamper['ButtonHatBoy'/69761, l='ServerLevel[world]', x=4130.13, y=101.00, z=-2342.18] died: ButtonHatBoy was assassinated by PATITOELdios
+[08Aug2025 02:16:37.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Evil Spirit
+[08Aug2025 02:16:42.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo was slain by Evil Spirit
+[08Aug2025 02:16:47.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[08Aug2025 02:16:48.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Evil Spirit
