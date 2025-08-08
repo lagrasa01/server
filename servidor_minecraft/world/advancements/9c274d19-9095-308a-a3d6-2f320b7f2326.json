@@ -6006,12 +6006,6 @@
     },
     "done": true
   },
-  "spore:inf_trader": {
-    "criteria": {
-      "hurt_by_infected": "2025-08-07 04:32:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-08-07 04:29:03 +0000"
@@ -6027,6 +6021,18 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-08-07 04:29:03 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_trader": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-07 04:32:45 +0000"
+    },
+    "done": true
+  },
+  "mffs:grant_book_on_first_join": {
+    "criteria": {
+      "guidebook": "2025-08-08 00:15:41 +0000"
     },
     "done": true
   },

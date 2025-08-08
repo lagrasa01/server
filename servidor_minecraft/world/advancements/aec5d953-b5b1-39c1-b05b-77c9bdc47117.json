@@ -6206,5 +6206,11 @@
     },
     "done": true
   },
+  "mffs:grant_book_on_first_join": {
+    "criteria": {
+      "guidebook": "2025-08-08 00:10:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1461,3 +1461,17 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [08Aug2025 00:11:51.862] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [08Aug2025 00:11:51.881] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36a159f7[id=<null>,name=uridk,properties={},legacy=false] (/172.27.167.115:52540) lost connection: Connection closed - mismatched mod channel list
 [08Aug2025 00:13:35.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/1350, l='ServerLevel[world]', x=2589.94, y=-36.00, z=1719.82] died: Technoblade was shot by Skeleton
+[08Aug2025 00:14:06.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[08Aug2025 00:15:02.113] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[08Aug2025 00:15:33.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['Hank_o'/3051, l='ServerLevel[world]', x=2574.72, y=-36.00, z=1714.06] died: Hank_o was doomed to fall by Spider
+[08Aug2025 00:15:41.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:52638] logged in with entity id 3785 at (2828.49586483233, 62.073264324665075, 1914.0140738511489)
+[08Aug2025 00:15:41.084] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[08Aug2025 00:15:41.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[08Aug2025 00:15:41.122] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[08Aug2025 00:15:42.425] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[08Aug2025 00:15:42.426] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[08Aug2025 00:15:49.413] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2715, y=-38, z=2110}
+[08Aug2025 00:15:50.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[08Aug2025 00:15:51.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[08Aug2025 00:15:51.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[08Aug2025 00:16:16.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
