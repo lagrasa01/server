@@ -1886,3 +1886,5 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [08Aug2025 03:33:44.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/112314, l='ServerLevel[world]', x=3821.52, y=82.99, z=-2998.49] died: The_Harbinger69 died
 [08Aug2025 03:36:24.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/114073, l='ServerLevel[world]', x=3749.42, y=77.00, z=-2929.77] died: TheCaramelGuy was disintegrated by a force field.
+[08Aug2025 03:44:01.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[08Aug2025 03:45:38.334] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/122582, l='ServerLevel[world]', x=3851.24, y=101.52, z=-3090.32] died: Whisper was shot by Skeleton
