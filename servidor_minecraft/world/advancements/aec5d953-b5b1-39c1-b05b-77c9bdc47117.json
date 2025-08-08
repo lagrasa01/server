@@ -6516,5 +6516,11 @@
     },
     "done": true
   },
+  "mffs:field_shock": {
+    "criteria": {
+      "shocked": "2025-08-08 03:29:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
