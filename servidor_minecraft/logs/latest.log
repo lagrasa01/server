@@ -1475,3 +1475,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [08Aug2025 00:15:51.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
 [08Aug2025 00:15:51.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
 [08Aug2025 00:16:16.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[08Aug2025 00:31:00.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/11352, l='ServerLevel[world]', x=2443.13, y=72.00, z=1571.81] died: Mad_Dog was assassinated by PATITOELdios
+[08Aug2025 00:31:32.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/11429, l='ServerLevel[world]', x=2458.59, y=-9.00, z=1578.37] died: ExeedingSky74 was slain by Enderman

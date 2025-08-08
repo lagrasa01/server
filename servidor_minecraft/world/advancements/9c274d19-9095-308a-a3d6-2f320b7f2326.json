@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-08-07 02:03:02 +0000",
+      "minecraft:sunflower_plains": "2025-08-08 00:23:25 +0000",
       "minecraft:birch_forest": "2025-08-06 04:51:20 +0000",
       "minecraft:bamboo_jungle": "2025-08-07 04:29:04 +0000",
       "minecraft:savanna_plateau": "2025-08-04 00:35:17 +0000",
