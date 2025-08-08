@@ -5610,6 +5610,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/rpg_smithing": {
+    "criteria": {
+      "has_rpg_blueprint": "2025-08-08 04:10:08 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/turret_gun": {
     "criteria": {
       "has_revolver": "2025-08-08 00:44:48 +0000"
@@ -5619,6 +5625,12 @@
   "mffs:recipes/misc/remote_controller": {
     "criteria": {
       "has_battery": "2025-08-08 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/rpg_blueprint": {
+    "criteria": {
+      "has_rpg_blueprint": "2025-08-08 04:10:08 +0000"
     },
     "done": true
   },
