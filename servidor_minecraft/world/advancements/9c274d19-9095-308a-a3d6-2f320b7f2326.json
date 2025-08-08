@@ -6058,6 +6058,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-08-08 01:23:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-08-08 01:12:48 +0000"
@@ -6076,15 +6082,51 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-08 01:23:00 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/taser_blueprint": {
+    "criteria": {
+      "has_taser_blueprint": "2025-08-08 01:25:39 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-08-08 01:06:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-08 01:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-08 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-08 01:21:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-08-08 01:06:51 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/taser_smithing": {
+    "criteria": {
+      "has_taser_blueprint": "2025-08-08 01:25:39 +0000"
     },
     "done": true
   },
@@ -6106,6 +6148,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-08 01:21:25 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-08 01:23:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-08 01:04:59 +0000"
@@ -6124,9 +6178,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-08 01:23:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-08-08 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-08 01:25:42 +0000"
     },
     "done": true
   },

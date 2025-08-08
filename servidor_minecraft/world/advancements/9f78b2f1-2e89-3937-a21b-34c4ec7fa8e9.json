@@ -5616,6 +5616,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/glock_18_blueprint": {
+    "criteria": {
+      "has_glock_18_blueprint": "2025-08-08 01:25:01 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/maple_trapped_chest": {
     "criteria": {
       "has_item": "2025-08-08 00:34:07 +0000"
@@ -5658,6 +5664,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-08-08 01:20:29 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/maple_chest": {
     "criteria": {
       "has_item": "2025-08-08 00:34:07 +0000"
@@ -5667,6 +5679,12 @@
   "immersiveengineering:recipes/misc/crafting/toolupgrade_revolver_electro": {
     "criteria": {
       "has_revolver": "2025-08-08 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-08 01:22:45 +0000"
     },
     "done": true
   },
@@ -5718,6 +5736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-08 01:25:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_sign": {
     "criteria": {
       "has_maple_planks": "2025-08-08 00:34:07 +0000"
@@ -5736,6 +5760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-08 01:25:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_slab": {
     "criteria": {
       "has_maple_planks": "2025-08-08 00:34:07 +0000"
@@ -5745,6 +5775,12 @@
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/rare_blueprint": {
+    "criteria": {
+      "0": "2025-08-08 01:25:01 +0000"
     },
     "done": true
   },
@@ -5766,15 +5802,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-08 01:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-08-08 00:39:24 +0000"
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-08 01:22:45 +0000"
+    },
+    "done": false
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/hollow_maple_log": {
     "criteria": {
       "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-08 01:20:29 +0000"
     },
     "done": true
   },
@@ -5799,6 +5853,12 @@
   "everycomp:recipes/decorations/q/regions_unexplored/stripped_maple_post": {
     "criteria": {
       "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/glock_18_smithing": {
+    "criteria": {
+      "has_glock_18_blueprint": "2025-08-08 01:25:01 +0000"
     },
     "done": true
   },

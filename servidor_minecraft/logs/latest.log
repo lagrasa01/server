@@ -1485,3 +1485,18 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [08Aug2025 00:50:14.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
 [08Aug2025 01:03:58.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: The difficulty has been set to Hard]
 [08Aug2025 01:15:14.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/25683, l='ServerLevel[world]', x=2438.45, y=-10.30, z=1546.04] died: Helldwin was shot by Skeleton
+[08Aug2025 01:18:30.307] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2318, y=14, z=1169}
+[08Aug2025 01:19:21.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of uridk) moved wrongly! 0.6964885945208152
+[08Aug2025 01:19:21.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of uridk) moved wrongly! 0.9883826771706481
+[08Aug2025 01:19:21.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of uridk) moved wrongly! 1.2942483865267604
+[08Aug2025 01:22:44.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [When in Rome]
+[08Aug2025 01:22:45.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [When in Rome]
+[08Aug2025 01:23:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [When in Rome]
+[08Aug2025 01:23:57.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Evil Spirit
+[08Aug2025 01:24:13.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[08Aug2025 01:25:01.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Rare]
+[08Aug2025 01:26:42.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Skeleton
+[08Aug2025 01:27:24.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[08Aug2025 01:28:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was slain by Skeleton
+[08Aug2025 01:28:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[08Aug2025 01:35:20.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Rare]
