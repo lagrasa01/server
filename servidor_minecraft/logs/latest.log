@@ -1888,3 +1888,9 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [08Aug2025 03:36:24.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/114073, l='ServerLevel[world]', x=3749.42, y=77.00, z=-2929.77] died: TheCaramelGuy was disintegrated by a force field.
 [08Aug2025 03:44:01.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
 [08Aug2025 03:45:38.334] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/122582, l='ServerLevel[world]', x=3851.24, y=101.52, z=-3090.32] died: Whisper was shot by Skeleton
+[08Aug2025 03:49:32.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[08Aug2025 03:50:45.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[08Aug2025 03:53:45.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved wrongly!
+[08Aug2025 03:53:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[08Aug2025 03:56:14.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Creative Mode]
+[08Aug2025 03:56:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
