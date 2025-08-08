@@ -60,6 +60,7 @@
       "minecraft:ocean": "2025-08-07 00:50:44 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-07 04:24:53 +0000",
       "minecraft:flower_forest": "2025-08-06 02:30:15 +0000",
+      "minecraft:meadow": "2025-08-08 00:33:58 +0000",
       "minecraft:savanna": "2025-08-04 00:54:45 +0000",
       "minecraft:plains": "2025-08-06 02:28:10 +0000"
     },
@@ -6209,9 +6210,69 @@
     },
     "done": true
   },
+  "mffs:recipes/misc/battery": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-08 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/steel_compound": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-08 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/turret_gun": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_revolver": {
+    "criteria": {
+      "has_item": "2025-08-08 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-08 00:38:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_revolver_electro": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_revolver_bayonet": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_revolver_magazine": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_railgun_scope": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:38:52 +0000"
+    },
+    "done": true
+  },
   "mffs:grant_book_on_first_join": {
     "criteria": {
       "guidebook": "2025-08-08 00:10:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/speedloader": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:38:52 +0000"
     },
     "done": true
   },

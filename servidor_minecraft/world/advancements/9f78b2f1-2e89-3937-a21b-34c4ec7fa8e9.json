@@ -43,6 +43,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-08-08 00:36:58 +0000",
       "minecraft:deep_ocean": "2025-08-07 02:07:51 +0000",
       "minecraft:sunflower_plains": "2025-08-08 00:23:12 +0000",
       "minecraft:birch_forest": "2025-08-04 01:10:00 +0000",
@@ -61,6 +62,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-08-07 04:24:49 +0000",
       "minecraft:flower_forest": "2025-08-06 02:30:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-04 01:10:22 +0000",
+      "minecraft:meadow": "2025-08-08 00:35:07 +0000",
       "minecraft:savanna": "2025-08-04 00:54:46 +0000",
       "minecraft:plains": "2025-08-04 01:10:33 +0000"
     },
@@ -676,7 +678,8 @@
       "salmon": "2025-08-07 04:27:45 +0000",
       "golden_carrot": "2025-08-04 03:00:46 +0000",
       "cooked_chicken": "2025-08-06 01:07:43 +0000",
-      "cod": "2025-08-07 04:27:40 +0000"
+      "cod": "2025-08-07 04:27:40 +0000",
+      "carrot": "2025-08-08 00:41:40 +0000"
     },
     "done": false
   },
@@ -5562,6 +5565,198 @@
   "mffs:grant_book_on_first_join": {
     "criteria": {
       "guidebook": "2025-08-07 22:55:42 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/battery": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-08 00:41:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/steel_compound": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-08 00:41:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/turret_gun": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_revolver": {
+    "criteria": {
+      "has_item": "2025-08-08 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_chest": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_revolver_electro": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_revolver_bayonet": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_maple_planks": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_revolver_magazine": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_ladder": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_railgun_scope": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/speedloader": {
+    "criteria": {
+      "has_revolver": "2025-08-08 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-08 00:39:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_maple_log": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_post": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_maple_post": {
+    "criteria": {
+      "has_item": "2025-08-08 00:34:07 +0000"
     },
     "done": true
   },
