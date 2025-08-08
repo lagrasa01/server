@@ -1514,3 +1514,53 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [08Aug2025 01:42:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Things are different now]
 [08Aug2025 01:42:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Common]
 [08Aug2025 01:42:29.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Discount radar]
+[08Aug2025 01:50:10.179] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/47570, l='ServerLevel[world]', x=3415.96, y=12.00, z=-490.97] died: Sire_AwfulThe1st was blown up by Creeper
+[08Aug2025 01:52:28.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PATITOELdios> [name:"mansion", x:2977, y:61, z:1806, dim:minecraft:overworld]
+[08Aug2025 01:53:39.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Flash62724 '/54920, l='ServerLevel[world]', x=3950.83, y=-12.00, z=-764.63] died: Flash62724  was shot by Skeleton
+[08Aug2025 01:55:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement ["Best Friends" Forever]
+[08Aug2025 01:55:12.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Rare]
+[08Aug2025 01:55:51.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has reached the goal [When the Stew is Sus]
+[08Aug2025 01:58:29.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[08Aug2025 01:58:49.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Azami'/61815, l='ServerLevel[world]', x=4239.68, y=-7.00, z=-2062.02] died: Azami suffocated in a wall
+[08Aug2025 01:59:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[08Aug2025 02:00:00.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/64025, l='ServerLevel[world]', x=4304.28, y=9.00, z=-1930.52] died: The_Harbinger69 was shot by Skeleton
+[08Aug2025 02:01:05.468] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[08Aug2025 02:01:05.708] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[08Aug2025 02:01:41.758] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[08Aug2025 02:01:49.862] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[08Aug2025 02:02:07.525] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[08Aug2025 02:03:37.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ThatGardener'/67355, l='ServerLevel[world]', x=4158.96, y=95.00, z=-2339.33] died: ThatGardener was assassinated by uridk
+[08Aug2025 02:04:22.012] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@75f75266, suppressing error
+java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplementaries/common/items/forge/QuiverItemImpl$Cap from 0 air. HOW?? Might be a bug from some other mod or from the loader.
+	at net.mehvahdjukaar.supplementaries.common.capabilities.CapabilityHandler.lambda$getOrThrow$0(CapabilityHandler.java:76) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.33-universal.jar%23430!/:?]
+	at net.mehvahdjukaar.supplementaries.common.capabilities.CapabilityHandler.getOrThrow(CapabilityHandler.java:75) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.forge.QuiverItemImpl.getQuiverDataOrThrow(QuiverItemImpl.java:28) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getQuiverDataOrThrow(QuiverItem.java) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getData(QuiverItem.java:28) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getData(QuiverItem.java:20) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.SelectableContainerItem.m_7203_(SelectableContainerItem.java:109) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$263(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zck000$modernfix$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[08Aug2025 02:06:08.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported el_lolo to uridk]
+[08Aug2025 02:06:13.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[08Aug2025 02:06:21.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Local Brewery]
