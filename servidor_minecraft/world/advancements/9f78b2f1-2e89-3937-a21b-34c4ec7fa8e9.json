@@ -6078,5 +6078,203 @@
     },
     "done": true
   },
+  "mffs:recipes/misc/rotation_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:steel_compound": {
+    "criteria": {
+      "has_steel_compound": "2025-08-09 00:49:47 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/steel_ingot": {
+    "criteria": {
+      "has_steel_compound": "2025-08-09 00:49:47 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/fortron_capacitor": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/scale_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/disintegration_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/pyramid_mode": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/sponge_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/coercion_deriver": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/dome_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/anti_friendly_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:root": {
+    "criteria": {
+      "has_steel_compound": "2025-08-09 00:49:47 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/shock_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/anti_hostile_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/glow_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/custom_mode": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/stabilization_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/interdiction_matrix": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/cube_mode": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/inverter_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/biometric_identifier": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/speed_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/camouflage_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/sphere_mode": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/silence_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/projector": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/tube_mode": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/confiscation_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/anti_personnel_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/capacity_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/warn_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/block_access_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "mffs:recipes/misc/collection_module": {
+    "criteria": {
+      "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

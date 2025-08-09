@@ -1459,3 +1459,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [09Aug2025 00:50:13.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
 [09Aug2025 00:51:27.668] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Scamper['Dr_Pilot_MOO'/1580, l='ServerLevel[world]', x=3711.00, y=79.00, z=-3039.77] died: Dr_Pilot_MOO was shot by PATITOELdios
 [09Aug2025 00:51:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[09Aug2025 00:52:10.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PedroHenrry'/3964, l='ServerLevel[world]', x=3844.14, y=103.00, z=-3041.53] died: death.attack.mffs.field_shock.player
+[09Aug2025 00:52:31.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3707, y=124, z=-3020} BlockPos{x=3706, y=123, z=-3020}
