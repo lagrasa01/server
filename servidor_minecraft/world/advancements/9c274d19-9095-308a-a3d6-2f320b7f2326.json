@@ -6403,6 +6403,12 @@
     },
     "done": true
   },
+  "spore:verva": {
+    "criteria": {
+      "hurt_infected": "2025-08-09 02:16:49 +0000"
+    },
+    "done": true
+  },
   "spore:thorn": {
     "criteria": {
       "hurt_infected": "2025-08-09 01:22:27 +0000"

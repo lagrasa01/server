@@ -1682,3 +1682,32 @@ java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplemen
 [09Aug2025 02:01:16.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3820, y=111, z=-3029} BlockPos{x=3820, y=110, z=-3029}
 [09Aug2025 02:01:16.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3820, y=111, z=-3029} BlockPos{x=3820, y=110, z=-3029}
 [09Aug2025 02:01:16.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3820, y=111, z=-3028} BlockPos{x=3820, y=110, z=-3029}
+[09Aug2025 02:06:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Anesthesia not required]
+[09Aug2025 02:10:36.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/45207, l='ServerLevel[world]', x=3746.62, y=119.00, z=-3000.24] died: TheCaramelGuy was shot by Skeleton
+[09Aug2025 02:10:56.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/45857, l='ServerLevel[world]', x=3704.49, y=120.00, z=-3041.40] died: The_Harbinger69 was shot by Skeleton
+[09Aug2025 02:11:06.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Discount radar]
+[09Aug2025 02:11:40.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/46590, l='ServerLevel[world]', x=3805.77, y=100.03, z=-3108.53] died: xXFuryXx was gunned down by PATITOELdios
+[09Aug2025 02:11:42.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/46528, l='ServerLevel[world]', x=3802.50, y=101.00, z=-3109.51] died: Technoblade was gunned down by PATITOELdios
+[09Aug2025 02:12:42.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was disintegrated by a force field.
+[09Aug2025 02:14:53.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3815, y=112, z=-3026} BlockPos{x=3815, y=111, z=-3026}
+[09Aug2025 02:14:54.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3815, y=112, z=-3026} BlockPos{x=3815, y=111, z=-3026}
+[09Aug2025 02:14:54.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3815, y=112, z=-3026} BlockPos{x=3815, y=111, z=-3026}
+[09Aug2025 02:14:59.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3815, y=112, z=-3026} BlockPos{x=3815, y=111, z=-3025}
+[09Aug2025 02:15:01.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3815, y=112, z=-3026} BlockPos{x=3815, y=111, z=-3025}
+[09Aug2025 02:16:49.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Unwanted Delivery]
+[09Aug2025 02:21:55.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [I spy with my little eye]
+[09Aug2025 02:22:26.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['gregTheTyrant'/52464, l='ServerLevel[world]', x=3749.64, y=54.00, z=-3043.12] died: gregTheTyrant was shot by Skeleton
+[09Aug2025 02:25:39.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has made the advancement [Unwanted Delivery]
+[09Aug2025 02:25:55.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aec5d953-b5b1-39c1-b05b-77c9bdc47117 timed out
+[09Aug2025 02:25:55.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PATITOELdios
+[09Aug2025 02:25:55.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PATITOELdios
+[09Aug2025 02:26:00.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ButtonHatBoy'/54774, l='ServerLevel[world]', x=3799.27, y=51.00, z=-2996.21] died: ButtonHatBoy was shot by Skeleton
+[09Aug2025 02:26:29.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios lost connection: Disconnected
+[09Aug2025 02:26:29.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios left the game
+[09Aug2025 02:26:29.733] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PATITOELdios
+[09Aug2025 02:26:29.786] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Aug2025 02:34:12.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has succumbed to the infection
+[09Aug2025 02:34:14.558] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/64849, l='ServerLevel[world]', x=3801.38, y=112.00, z=-3029.49] died: uridk was disintegrated by a force field.
+[09Aug2025 02:42:05.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Aug2025 02:42:22.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[09Aug2025 02:43:22.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
