@@ -6379,5 +6379,11 @@
     },
     "done": true
   },
+  "yungscavebiomes:lost_caves": {
+    "criteria": {
+      "lost_caves": "2025-08-08 04:38:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
