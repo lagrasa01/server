@@ -1527,3 +1527,83 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [09Aug2025 01:32:36.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['el_lolo'/22476, l='ServerLevel[world]', x=3697.30, y=26.00, z=-2814.30] died: el_lolo was slain by el_lolo
 [09Aug2025 01:32:40.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [09Aug2025 01:32:49.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[09Aug2025 01:32:59.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has succumbed to the infection
+[09Aug2025 01:33:00.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[09Aug2025 01:33:19.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [WHERE'S THE 'redacted' SOIL?!]
+[09Aug2025 01:33:19.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['uridk'/22511, l='ServerLevel[world]', x=3665.22, y=6.00, z=-2813.09] died: el_lolo used uridk as paint
+[09Aug2025 01:33:19.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/22516, l='ServerLevel[world]', x=3671.85, y=6.00, z=-2804.30] died: el_lolo used PATITOELdios as paint
+[09Aug2025 01:33:42.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/22547, l='ServerLevel[world]', x=3666.46, y=2.00, z=-2802.92] died: el_lolo used PATITOELdios as paint
+[09Aug2025 01:34:12.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['uridk'/22553, l='ServerLevel[world]', x=3665.96, y=6.00, z=-2803.34] died: el_lolo used uridk as paint
+[09Aug2025 01:35:00.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios fell from a high place
+[09Aug2025 01:36:19.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[09Aug2025 01:36:31.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot Phayres was a bioweapon
+[09Aug2025 01:36:37.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/26418, l='ServerLevel[world]', x=3682.95, y=19.56, z=-2821.40] died: PATITOELdios was slain by el_lolo
+[09Aug2025 01:36:47.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios has succumbed to the infection
+[09Aug2025 01:36:52.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was gunned down by el_lolo
+[09Aug2025 01:36:55.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/26524, l='ServerLevel[world]', x=3682.30, y=20.10, z=-2821.70] died: PATITOELdios was gunned down by el_lolo
+[09Aug2025 01:36:57.775] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/26603, l='ServerLevel[world]', x=3685.47, y=18.80, z=-2820.68] died: PATITOELdios was assassinated by el_lolo
+[09Aug2025 01:37:02.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Knight
+[09Aug2025 01:38:36.739] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@cb13ed4, suppressing error
+java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplementaries/common/items/forge/QuiverItemImpl$Cap from 0 air. HOW?? Might be a bug from some other mod or from the loader.
+	at net.mehvahdjukaar.supplementaries.common.capabilities.CapabilityHandler.lambda$getOrThrow$0(CapabilityHandler.java:76) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.33-universal.jar%23430!/:?]
+	at net.mehvahdjukaar.supplementaries.common.capabilities.CapabilityHandler.getOrThrow(CapabilityHandler.java:75) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.forge.QuiverItemImpl.getQuiverDataOrThrow(QuiverItemImpl.java:28) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getQuiverDataOrThrow(QuiverItem.java) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getData(QuiverItem.java:28) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getData(QuiverItem.java:20) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.SelectableContainerItem.m_7203_(SelectableContainerItem.java:109) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$263(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zck000$modernfix$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[09Aug2025 01:38:37.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Set own game mode to Survival Mode]
+[09Aug2025 01:48:11.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was assassinated by PATITOELdios
+[09Aug2025 01:49:08.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was gunned down by uridk
+[09Aug2025 01:50:11.217] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@4ffc4fb3, suppressing error
+java.lang.RuntimeException: Count not get capability net/mehvahdjukaar/supplementaries/common/items/forge/QuiverItemImpl$Cap from 0 air. HOW?? Might be a bug from some other mod or from the loader.
+	at net.mehvahdjukaar.supplementaries.common.capabilities.CapabilityHandler.lambda$getOrThrow$0(CapabilityHandler.java:76) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.33-universal.jar%23430!/:?]
+	at net.mehvahdjukaar.supplementaries.common.capabilities.CapabilityHandler.getOrThrow(CapabilityHandler.java:75) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.forge.QuiverItemImpl.getQuiverDataOrThrow(QuiverItemImpl.java:28) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getQuiverDataOrThrow(QuiverItem.java) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getData(QuiverItem.java:28) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.QuiverItem.getData(QuiverItem.java:20) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.mehvahdjukaar.supplementaries.common.items.SelectableContainerItem.m_7203_(SelectableContainerItem.java:109) ~[supplementaries-1.20-3.1.36.jar%23398!/:?]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[09Aug2025 01:50:43.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk was disintegrated by a force field.

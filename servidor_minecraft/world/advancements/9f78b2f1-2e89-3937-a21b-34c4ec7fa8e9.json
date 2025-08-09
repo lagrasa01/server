@@ -6102,6 +6102,12 @@
     },
     "done": true
   },
+  "spore:gastgaber": {
+    "criteria": {
+      "hurt_infected": "2025-08-09 01:33:19 +0000"
+    },
+    "done": true
+  },
   "mffs:recipes/misc/scale_module": {
     "criteria": {
       "has_focus_matrix": "2025-08-09 00:49:25 +0000"
@@ -6210,6 +6216,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-08-09 01:35:53 +0000"
+    },
+    "done": true
+  },
   "mffs:recipes/misc/inverter_module": {
     "criteria": {
       "has_focus_matrix": "2025-08-09 00:49:25 +0000"
@@ -6243,6 +6255,12 @@
   "mffs:recipes/misc/sphere_mode": {
     "criteria": {
       "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-08-09 01:33:04 +0000"
     },
     "done": true
   },
