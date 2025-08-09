@@ -6132,9 +6132,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-08-09 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-08-09 01:12:49 +0000"
+    },
+    "done": true
+  },
   "mffs:recipes/misc/dome_module": {
     "criteria": {
       "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-08-09 01:12:49 +0000"
     },
     "done": true
   },
@@ -6216,6 +6234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-08-09 01:12:49 +0000"
+    },
+    "done": true
+  },
   "mffs:recipes/misc/sphere_mode": {
     "criteria": {
       "has_focus_matrix": "2025-08-09 00:49:25 +0000"
@@ -6225,6 +6249,12 @@
   "mffs:recipes/misc/silence_module": {
     "criteria": {
       "has_focus_matrix": "2025-08-09 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "spore:spitter": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-09 01:16:13 +0000"
     },
     "done": true
   },

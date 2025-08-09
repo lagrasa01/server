@@ -1461,3 +1461,29 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [09Aug2025 00:51:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
 [09Aug2025 00:52:10.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PedroHenrry'/3964, l='ServerLevel[world]', x=3844.14, y=103.00, z=-3041.53] died: death.attack.mffs.field_shock.player
 [09Aug2025 00:52:31.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3707, y=124, z=-3020} BlockPos{x=3706, y=123, z=-3020}
+[09Aug2025 01:13:26.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios forgot Knight was a bioweapon
+[09Aug2025 01:13:59.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[09Aug2025 01:14:56.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Scamper['BigXplosion'/12141, l='ServerLevel[world]', x=3790.30, y=55.10, z=-2884.80] died: BigXplosion drowned
+[09Aug2025 01:15:00.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Verdathorn
+[09Aug2025 01:15:15.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported PATITOELdios to el_lolo]
+[09Aug2025 01:15:49.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was gunned down by el_lolo
+[09Aug2025 01:15:53.518] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/14606, l='ServerLevel[world]', x=3674.42, y=16.13, z=-2811.09] died: PATITOELdios was gunned down by el_lolo
+[09Aug2025 01:16:13.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Meet the Sniper]
+[09Aug2025 01:16:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Infected Villager
+[09Aug2025 01:17:33.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was fungi-fied by Verdathorn
+[09Aug2025 01:17:48.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/13964, l='ServerLevel[world]', x=3671.93, y=7.18, z=-2807.52] died: PATITOELdios was gunned down by el_lolo
+[09Aug2025 01:17:57.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by Verdathorn
+[09Aug2025 01:18:27.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was disemboweled by Knight
+[09Aug2025 01:18:37.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was eaten alive by Knight
+[09Aug2025 01:20:23.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: uridk[/172.27.167.115:52644] logged in with entity id 16147 at (3764.423353853782, 79.0, -2942.0298220243653)
+[09Aug2025 01:20:24.035] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player uridk
+[09Aug2025 01:20:24.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk joined the game
+[09Aug2025 01:20:24.077] [Server thread/INFO] [Jade/]: Syncing config to uridk (9c274d19-9095-308a-a3d6-2f320b7f2326)
+[09Aug2025 01:20:25.774] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of uridk (18)
+[09Aug2025 01:20:25.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to uridk
+[09Aug2025 01:20:35.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[09Aug2025 01:20:36.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9c274d19-9095-308a-a3d6-2f320b7f2326
+[09Aug2025 01:20:36.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player uridk (9c274d19-9095-308a-a3d6-2f320b7f2326) successfully connected to voice chat
+[09Aug2025 01:20:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: Teleported uridk to el_lolo]
+[09Aug2025 01:21:06.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PATITOELdios'/15627, l='ServerLevel[world]', x=3671.96, y=7.25, z=-2807.99] died: PATITOELdios was gunned down by el_lolo
+[09Aug2025 01:22:27.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uridk has made the advancement [Who gave the cactus legs?!]
